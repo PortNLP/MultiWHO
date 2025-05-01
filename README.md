@@ -2,6 +2,8 @@
 
 Paper link: https://aclanthology.org/2025.naacl-long.177/
 
+Humans use ambiguity resolution strategies every day without thinking about it. Here's an example:
+
 1. The doctor met the son of the man who had a beard.
    
       _Oh wait, who had a beard? the son or the man?_
