@@ -1,0 +1,1729 @@
+language,index,ID,SET,sentence,congruency,RC,DP1,DP2,start,end,RU_DP1_nominative_form,RU_DP2_nominative_form,main
+CH,1,1,1,医生见到了留胡子的绅士的儿子。,ambiguous,留胡子,儿子,绅士,,,,,
+CH,2,2,1,医生见到了留胡子的女士的儿子。,DP1,留胡子,儿子,女士,,,,,
+CH,3,3,1,医生见到了留胡子的绅士的女儿。,DP2,留胡子,女儿,绅士,,,,,
+CH,4,4,2,约翰逊先生拜访了坐在婴儿车里的表亲的婴儿。,ambiguous,坐在婴儿车里,婴儿,表亲,,,,,
+CH,5,5,2,约翰逊先生拜访了坐在婴儿车里的母亲的婴儿。,DP1,坐在婴儿车里,婴儿,母亲,,,,,
+CH,6,6,2,约翰逊先生拜访了坐在婴儿车里的婴儿的母亲。,DP2,坐在婴儿车里,母亲,婴儿,,,,,
+CH,7,7,3,记者采访了正在学走路的孩子的哥哥。,ambiguous,正在学走路,哥哥,孩子,,,,,
+CH,8,8,3,记者采访了正在学走路的徒步者的幼儿。,DP1,正在学走路,幼儿,徒步者,,,,,
+CH,9,9,3,记者采访了正在学走路的幼儿的父亲。,DP2,正在学走路,父亲,幼儿,,,,,
+CH,10,10,4,玛丽爱上了正在考试的小伙子的姐姐。,ambiguous,正在考试,姐姐,小伙子,,,,,
+CH,11,11,4,玛丽爱上了正在考试的婴儿的姐姐。,DP1,正在考试,姐姐,婴儿,,,,,
+CH,12,12,4,玛丽爱上了正在考试的姐姐的婴儿。,DP2,正在考试,婴儿,姐姐,,,,,
+CH,13,13,5,约翰喜欢跑马拉松的运动员的叔叔。,ambiguous,跑马拉松,叔叔,运动员,,,,,
+CH,14,14,5,约翰喜欢跑马拉松的小宝宝的叔叔。,DP1,跑马拉松,叔叔,小宝宝,,,,,
+CH,15,15,5,约翰喜欢跑马拉松的叔叔的小宝宝。,DP2,跑马拉松,小宝宝,叔叔,,,,,
+CH,16,16,6,每个人都知道正在爬行的婴儿的玩伴。,ambiguous,正在爬行,玩伴,婴儿,,,,,
+CH,17,17,6,每个人都知道正在爬行的保姆的婴儿。,DP1,正在爬行,婴儿,保姆,,,,,
+CH,18,18,6,每个人都知道正在爬行的婴儿的保姆。,DP2,正在爬行,保姆,婴儿,,,,,
+CH,19,19,7,小美惹怒了正在考驾照的青少年的奶奶。,ambiguous,正在考驾照,奶奶,青少年,,,,,
+CH,20,20,7,小美惹怒了正在考驾照的新生儿的奶奶。,DP1,正在考驾照,奶奶,新生儿,,,,,
+CH,21,21,7,小美惹怒了正在考驾照的奶奶的新生儿。,DP2,正在考驾照,新生儿,奶奶,,,,,
+CH,22,22,8,米勇先生忽视了开始上幼儿园的孙女的朋友。,ambiguous,开始上幼儿园,朋友,孙女,,,,,
+CH,23,23,8,米勇先生忽视了开始上幼儿园的男朋友的孙女。,DP1,开始上幼儿园,孙女,男朋友,,,,,
+CH,24,24,8,米勇先生忽视了开始上幼儿园的孙女的父亲。,DP2,开始上幼儿园,父亲,孙女,,,,,
+CH,25,25,9,玛丽知道正在上大学的阿姨的知己。,ambiguous,正在上大学,知己,阿姨,,,,,
+CH,26,26,9,玛丽知道正在上大学的小孩的阿姨。,DP1,正在上大学,阿姨,小孩,,,,,
+CH,27,27,9,玛丽知道正在上大学的阿姨的小孩。,DP2,正在上大学,小孩,阿姨,,,,,
+CH,28,28,10,小红认出了正在参加狂欢派对的叔叔的朋友。,ambiguous,正在参加狂欢派对,朋友,叔叔,,,,,
+CH,29,29,10,小红认出了正在参加狂欢派对的幼儿的叔叔。,DP1,正在参加狂欢派对,叔叔,幼儿,,,,,
+CH,30,30,10,小红认出了正在参加狂欢派对的叔叔的幼儿。,DP2,正在参加狂欢派对,幼儿,叔叔,,,,,
+CH,31,31,11,小明采访了正在学说话的婴儿的姐姐。,ambiguous,正在学说话,姐姐,婴儿,,,,,
+CH,32,32,11,小明采访了正在学说话的母亲的婴儿。,DP1,正在学说话,婴儿,母亲,,,,,
+CH,33,33,11,小明采访了正在学说话的婴儿的母亲。,DP2,正在学说话,母亲,婴儿,,,,,
+CH,34,34,12,朋友们喜欢正在做微积分的老师的爷爷。,ambiguous,正在做微积分,爷爷,老师,,,,,
+CH,35,35,12,朋友们喜欢正在做微积分的新生儿的爷爷。,DP1,正在做微积分,爷爷,新生儿,,,,,
+CH,36,36,12,朋友们喜欢正在做微积分的爷爷的新生儿。,DP2,正在做微积分,新生儿,爷爷,,,,,
+CH,37,37,13,服务员看着正在准备退休的奶奶的朋友。,ambiguous,正在准备退休,朋友,奶奶,,,,,
+CH,38,38,13,服务员看着正在准备退休的孩子的奶奶。,DP1,正在准备退休,奶奶,孩子,,,,,
+CH,39,39,13,服务员看着正在准备退休的奶奶的孩子。,DP2,正在准备退休,孩子,奶奶,,,,,
+CH,40,40,14,租客问候正在吃母乳的孩子的姐姐。,ambiguous,正在吃母乳,姐姐,孩子,,,,,
+CH,41,41,14,租客问候正在吃母乳的继父的孩子。,DP1,正在吃母乳,孩子,继父,,,,,
+CH,42,42,14,租客问候正在吃母乳的孩子的继父。,DP2,正在吃母乳,继父,孩子,,,,,
+CH,43,43,15,小学生戏弄了正在辛苦完成作业的学生的朋友。,ambiguous,正在辛苦完成作业,朋友,学生,,,,,
+CH,44,44,15,小学生戏弄了正在辛苦完成作业的教授的学生。,DP1,正在辛苦完成作业,学生,教授,,,,,
+CH,45,45,15,小学生戏弄了正在辛苦完成作业的学生的教授。,DP2,正在辛苦完成作业,教授,学生,,,,,
+CH,46,46,16,总理欢迎了正在做出管理决策的执行官的同事。,ambiguous,正在做出管理决策,同事,执行官,,,,,
+CH,47,47,16,总理欢迎了正在做出管理决策的助理的执行官。,DP1,正在做出管理决策,执行官,助理,,,,,
+CH,48,48,16,总理欢迎了正在做出管理决策的执行官的助理。,DP2,正在做出管理决策,助理,执行官,,,,,
+CH,49,49,17,妈妈见到了正在进行招收活动的校长的助理。,ambiguous,正在进行招收活动,助理,校长,,,,,
+CH,50,50,17,妈妈见到了正在进行招收活动的幼儿园学生的校长。,DP1,正在进行招收活动,校长,幼儿园学生,,,,,
+CH,51,51,17,妈妈见到了正在进行招收活动的校长的幼儿园学生。,DP2,正在进行招收活动,幼儿园学生,校长,,,,,
+CH,52,52,18,方丈遇见了给全班打不及格分数的老师的教学主任。,ambiguous,给全班打不及格分数,教学主任,老师,,,,,
+CH,53,53,18,方丈遇见了给全班打不及格分数的学生的老师。,DP1,给全班打不及格分数,老师,学生,,,,,
+CH,54,54,18,方丈遇见了给全班打不及格分数的老师的学生。,DP2,给全班打不及格分数,学生,老师,,,,,
+CH,55,55,19,面试官付钱给了驾驶飞机的机长的副驾驶。,ambiguous,驾驶飞机,副驾驶,机长,,,,,
+CH,56,56,19,面试官付钱给了驾驶飞机的乘务员的机长。,DP1,驾驶飞机,机长,乘务员,,,,,
+CH,57,57,19,面试官付钱给了驾驶飞机的机长的乘务员。,DP2,驾驶飞机,乘务员,机长,,,,,
+CH,58,58,20,员工问候了领导公司的经理的同事。,ambiguous,领导公司,同事,经理,,,,,
+CH,59,59,20,员工问候了领导公司的收银员的经理。,DP1,领导公司,经理,收银员,,,,,
+CH,60,60,20,员工问候了领导公司的经理的朋友。,DP2,领导公司,朋友,经理,,,,,
+CH,61,61,21,王伟骂画肖像的艺术家的老师。,ambiguous,画肖像,老师,艺术家,,,,,
+CH,62,62,21,王伟骂画肖像的模特儿的艺术家。,DP1,画肖像,艺术家,模特儿,,,,,
+CH,63,63,21,王伟骂画肖像的艺术家的模特儿。,DP2,画肖像,模特儿,艺术家,,,,,
+CH,64,64,22,学生遇见了管理课程的老师的同事。,ambiguous,管理课程,同事,老师,,,,,
+CH,65,65,22,学生遇见了管理课程的学生的老师。,DP1,管理课程,老师,学生,,,,,
+CH,66,66,22,学生遇见了管理课程的老师的学生。,DP2,管理课程,学生,老师,,,,,
+CH,67,67,23,老板拜访了为案件辩护的辩护人的律师。,ambiguous,为案件辩护,律师,辩护人,,,,,
+CH,68,68,23,老板拜访了为案件辩护的客户的律师。,DP1,为案件辩护,律师,客户,,,,,
+CH,69,69,23,老板拜访了为案件辩护的律师的客户。,DP2,为案件辩护,客户,律师,,,,,
+CH,70,70,24,裁判警告了正在防守球门的球员的队友。,ambiguous,正在防守球门,队友,球员,,,,,
+CH,71,71,24,裁判警告了正在防守球门的教练的球员。,DP1,正在防守球门,球员,教练,,,,,
+CH,72,72,24,裁判警告了正在防守球门的球员的教练。,DP2,正在防守球门,教练,球员,,,,,
+CH,73,73,25,主持人侮辱了以编写软件为生的程序员的同事。,ambiguous,以编写软件为生,同事,程序员,,,,,
+CH,74,74,25,主持人侮辱了以编写软件为生的律师的程序员。,DP1,以编写软件为生,程序员,律师,,,,,
+CH,75,75,25,主持人侮辱了以编写软件为生的程序员的律师。,DP2,以编写软件为生,律师,程序员,,,,,
+CH,76,76,26,客人打动了每天修发动机的机械师的同事。,ambiguous,每天修发动机,同事,机械师,,,,,
+CH,77,77,26,客人打动了每天修发动机的医生的机械师。,DP1,每天修发动机,机械师,医生,,,,,
+CH,78,78,26,客人打动了每天修发动机的机械师的医生。,DP2,每天修发动机,医生,机械师,,,,,
+CH,79,79,27,讲故事者询问了注定成为王子的男孩的表亲。,ambiguous,注定成为王子,表亲,男孩,,,,,
+CH,80,80,27,讲故事者询问了注定成为王子的母亲的男孩。,DP1,注定成为王子,男孩,母亲,,,,,
+CH,81,81,27,讲故事者询问了注定成为王子的男孩的母亲。,DP2,注定成为王子,母亲,男孩,,,,,
+CH,82,82,28,祖父打扰了有深沉低音的歌手的侄子。,ambiguous,有深沉低音,侄子,歌手,,,,,
+CH,83,83,28,祖父打扰了有深沉低音的女孩的叔叔。,DP1,有深沉低音,叔叔,女孩,,,,,
+CH,84,84,28,祖父打扰了有深沉低音的侄子的女朋友。,DP2,有深沉低音,女朋友,侄子,,,,,
+CH,85,85,29,顾客想念每天刮胡子的理发师的孙子。,ambiguous,每天刮胡子,孙子,理发师,,,,,
+CH,86,86,29,顾客想念每天刮胡子的女士的孙子。,DP1,每天刮胡子,孙子,女士,,,,,
+CH,87,87,29,顾客想念每天刮胡子的老人的孙女。,DP2,每天刮胡子,孙女,老人,,,,,
+CH,88,88,30,道长不怎么喜欢即将成为僧侣的信徒的熟人。,ambiguous,即将成为僧侣,熟人,信徒,,,,,
+CH,89,89,30,道长不怎么喜欢即将成为僧侣的女人的熟人。,DP1,即将成为僧侣,熟人,女人,,,,,
+CH,90,90,30,道长不怎么喜欢即将成为僧侣的熟人的女友。,DP2,即将成为僧侣,女友,熟人,,,,,
+CH,91,91,31,客人惩罚了正在庆祝结婚纪念日的姨婆的顾问。,ambiguous,正在庆祝结婚纪念日,顾问,姨婆,,,,,
+CH,92,92,31,客人惩罚了正在庆祝结婚纪念日的幼儿的姨婆。,DP1,正在庆祝结婚纪念日,姨婆,幼儿,,,,,
+CH,93,93,31,客人惩罚了正在庆祝结婚纪念日的姨婆的幼儿。,DP2,正在庆祝结婚纪念日,幼儿,姨婆,,,,,
+CH,94,94,32,医生遇见了长胡子的管理员的侄子。,ambiguous,长胡子,侄子,管理员,,,,,
+CH,95,95,32,医生遇见了长胡子的新娘的侄子。,DP1,长胡子,侄子,新娘,,,,,
+CH,96,96,32,医生遇见了长胡子的侄子的新娘。,DP2,长胡子,新娘,侄子,,,,,
+CH,97,97,33,张先生拜访了怀孕的女人的护士。,ambiguous,怀孕,护士,女人,,,,,
+CH,98,98,33,张先生拜访了怀孕的王子的护士。,DP1,怀孕,护士,王子,,,,,
+CH,99,99,33,张先生拜访了怀孕的护士的王子。,DP2,怀孕,王子,护士,,,,,
+CH,100,100,34,记者采访了长了胡子的壮汉的父亲。,ambiguous,长了胡子,父亲,壮汉,,,,,
+CH,101,101,34,记者采访了长了胡子的婴儿的父亲。,DP1,长了胡子,父亲,婴儿,,,,,
+CH,102,102,34,记者采访了长了胡子的父亲的婴儿。,DP2,长了胡子,婴儿,父亲,,,,,
+CH,103,103,35,街头艺人采访了每天睡九个小时的爷爷的老友。,ambiguous,每天睡九个小时,老友,爷爷,,,,,
+CH,104,104,35,街头艺人采访了每天睡九个小时的失眠者的朋友。,DP1,每天睡九个小时,朋友,失眠者,,,,,
+CH,105,105,35,街头艺人采访了每天睡九个小时的医生的失眠者。,DP2,每天睡九个小时,失眠者,医生,,,,,
+CH,106,106,36,玛丽爱着正在月经期的女牛仔的母亲。,ambiguous,正在月经期,母亲,女牛仔,,,,,
+CH,107,107,36,玛丽爱着正在月经期的男孩的姑姑。,DP1,正在月经期,姑姑,男孩,,,,,
+CH,108,108,36,玛丽爱着正在月经期的女人的侄子。,DP2,正在月经期,侄子,女人,,,,,
+CH,109,109,37,约翰喜欢分娩了的女巫的侄女。,ambiguous,分娩了,侄女,女巫,,,,,
+CH,110,110,37,约翰喜欢分娩了的族长的侄女。,DP1,分娩了,侄女,族长,,,,,
+CH,111,111,37,约翰喜欢分娩了的侄女的族长。,DP2,分娩了,族长,侄女,,,,,
+CH,112,112,38,每个人都认识那位怀孕的女士的姐姐。,ambiguous,怀孕,姐姐,女士,,,,,
+CH,113,113,38,每个人都认识那位怀孕的男孩的姐姐。,DP1,怀孕,姐姐,男孩,,,,,
+CH,114,114,38,每个人都认识怀孕的女士的哥哥。,DP2,怀孕,哥哥,女士,,,,,
+CH,115,115,39,护士咨询了了解心血管系统的医生的同事。,ambiguous,了解心血管系统,同事,医生,,,,,
+CH,116,116,39,护士咨询了了解心血管系统的园丁的医生。,DP1,了解心血管系统,医生,园丁,,,,,
+CH,117,117,39,护士咨询了了解心血管系统的医生的园丁。,DP2,了解心血管系统,园丁,医生,,,,,
+CH,118,118,40,张先生忽视了成为修女的女孩的侄女。,ambiguous,成为修女,侄女,女孩,,,,,
+CH,119,119,40,张先生忽视了成为修女的绅士的侄女。,DP1,成为修女,侄女,绅士,,,,,
+CH,120,120,40,张先生忽视了成为修女的女孩的叔叔。,DP2,成为修女,叔叔,女孩,,,,,
+CH,121,121,41,玛丽认识捐了精的水兵的祖父。,ambiguous,捐了精,祖父,水兵,,,,,
+CH,122,122,41,玛丽认识捐了精的保姆的祖父。,DP1,捐了精,祖父,保姆,,,,,
+CH,123,123,41,玛丽认识捐了精的水兵的女朋友。,DP2,捐了精,女朋友,水兵,,,,,
+CH,124,124,42,丽莎认出了成为奶妈的祖母的女儿。,ambiguous,成为奶妈,女儿,祖母,,,,,
+CH,125,125,42,丽莎认出了成为奶妈的男人的女儿。,DP1,成为奶妈,女儿,男人,,,,,
+CH,126,126,42,丽莎认出了成为奶妈的女人的父亲。,DP2,成为奶妈,父亲,女人,,,,,
+CH,127,127,43,小明采访了接受前列腺检查的男人的父亲。,ambiguous,接受前列腺检查,父亲,男人,,,,,
+CH,128,128,43,小明采访了接受前列腺检查的女孩的父亲。,DP1,接受前列腺检查,父亲,女孩,,,,,
+CH,129,129,43,小明采访了接受前列腺检查的男人的女儿。,DP2,接受前列腺检查,女儿,男人,,,,,
+CH,130,130,44,朋友们喜欢经过更年期的保姆的阿姨。,ambiguous,经过更年期,阿姨,保姆,,,,,
+CH,131,131,44,朋友们喜欢经过更年期的男孩的保姆。,DP1,经过更年期,保姆,男孩,,,,,
+CH,132,132,44,朋友们喜欢经过更年期的保姆的侄子。,DP2,经过更年期,侄子,保姆,,,,,
+CH,133,133,45,服务员观察患有睾丸癌的男人的兄弟。,ambiguous,患有睾丸癌,兄弟,男人,,,,,
+CH,134,134,45,服务员观察患有睾丸癌的女士的兄弟。,DP1,患有睾丸癌,兄弟,女士,,,,,
+CH,135,135,45,服务员观察患有睾丸癌的男人的姐妹。,DP2,患有睾丸癌,姐妹,男人,,,,,
+CH,136,136,46,房客问候了成为代母的太太的闺蜜。,ambiguous,成为代母,闺蜜,太太,,,,,
+CH,137,137,46,房客问候了成为代母的公爵的妻子。,DP1,成为代母,妻子,公爵,,,,,
+CH,138,138,46,房客问候了成为代母的贵妃的丈夫。,DP2,成为代母,丈夫,贵妃,,,,,
+CH,139,139,47,学生嘲笑了正在批改试卷的教授的老师。,ambiguous,正在批改试卷,老师,教授,,,,,
+CH,140,140,47,学生嘲笑了正在批改试卷的幼儿的老师。,DP1,正在批改试卷,老师,幼儿,,,,,
+CH,141,141,47,学生嘲笑了正在批改试卷的老师的幼儿。,DP2,正在批改试卷,幼儿,老师,,,,,
+CH,142,142,48,校长欢迎领取养老金的老兵的导师。,ambiguous,领取养老金,导师,老兵,,,,,
+CH,143,143,48,校长欢迎领取养老金的孩子的曾祖父。,DP1,领取养老金,曾祖父,孩子,,,,,
+CH,144,144,48,校长欢迎领取养老金的曾祖父的孩子。,DP2,领取养老金,孩子,曾祖父,,,,,
+CH,145,145,49,赞助者见到了处于青春期的青少年的同伴。,ambiguous,处于青春期,同伴,青少年,,,,,
+CH,146,146,49,赞助者见到处于青春期的长者的青少年。,DP1,处于青春期,青少年,长者,,,,,
+CH,147,147,49,赞助者见到处于青春期的青少年的祖父。,DP2,处于青春期,祖父,青少年,,,,,
+CH,148,148,50,方丈遇见了正在长牙的幼儿的表亲。,ambiguous,正在长牙,表亲,幼儿,,,,,
+CH,149,149,50,方丈遇见了正在长牙的父亲的婴儿。,DP1,正在长牙,婴儿,父亲,,,,,
+CH,150,150,50,方丈遇见了正在长牙的婴儿的父亲。,DP2,正在长牙,父亲,婴儿,,,,,
+CH,151,151,51,牙仙付钱给正在学数数的小孩的朋友。,ambiguous,正在学数数,朋友,小孩,,,,,
+CH,152,152,51,牙仙付钱给正在学数数的退休人的小孩。,DP1,正在学数数,小孩,退休人,,,,,
+CH,153,153,51,牙仙付钱给正在学数数的孩子的老师。,DP2,正在学数数,老师,孩子,,,,,
+CH,154,154,52,员工问候了正在庆祝结婚周年纪念的曾祖母的同志。,ambiguous,正在庆祝结婚周年纪念,同志,曾祖母,,,,,
+CH,155,155,52,员工问候了正在庆祝结婚周年纪念的幼儿的曾祖母。,DP1,正在庆祝结婚周年纪念,曾祖母,幼儿,,,,,
+CH,156,156,52,员工问候了正在庆祝结婚周年纪念的曾祖母的幼儿。,DP2,正在庆祝结婚周年纪念,幼儿,曾祖母,,,,,
+CH,157,157,53,小明责骂了住在养老院的伯爵的仆人。,ambiguous,住在养老院,仆人,伯爵,,,,,
+CH,158,158,53,小明责骂了住在养老院的青年的姨婆。,DP1,住在养老院,姨婆,青年,,,,,
+CH,159,159,53,小明责骂了住在养老院的伯爵的侄孙。,DP2,住在养老院,侄孙,伯爵,,,,,
+CH,160,160,54,学生遇见正在学习使用便盆的幼儿园生的同学。,ambiguous,正在学习使用便盆,同学,幼儿园生,,,,,
+CH,161,161,54,学生遇见正在学习使用便盆的老板的幼儿园生。,DP1,正在学习使用便盆,幼儿园生,老板,,,,,
+CH,162,162,54,学生遇见正在学习使用便盆的幼儿园生的父亲。,DP2,正在学习使用便盆,父亲,幼儿园生,,,,,
+CH,163,163,55,医院经理拜访正在做手术的医生的外科主任。,ambiguous,正在做手术,外科主任,医生,,,,,
+CH,164,164,55,医院经理拜访正在做手术的婴儿的医生。,DP1,正在做手术,医生,婴儿,,,,,
+CH,165,165,55,医院经理拜访正在做手术的医生的婴儿。,DP2,正在做手术,婴儿,医生,,,,,
+CH,166,166,56,外科总监警告了即将成为父亲的牙医的同事。,ambiguous,即将成为父亲,同事,牙医,,,,,
+CH,167,167,56,外科总监警告了即将成为父亲的女售货员的同事。,DP1,即将成为父亲,同事,女售货员,,,,,
+CH,168,168,56,外科总监警告了即将成为父亲的同事的女售货员。,DP2,即将成为父亲,女售货员,同事,,,,,
+CH,169,169,57,主人侮辱了在餐厅当女服务员的小丑的朋友。,ambiguous,在餐厅当女服务员,朋友,小丑,,,,,
+CH,170,170,57,主人侮辱了在餐厅当女服务员的男孩的朋友。,DP1,在餐厅当女服务员,朋友,男孩,,,,,
+CH,171,171,57,主人侮辱了在餐厅当女服务员的女士的侄子。,DP2,在餐厅当女服务员,侄子,女士,,,,,
+CH,172,172,58,客人帮助了即将成为国王的王子的哥哥。,ambiguous,即将成为国王,哥哥,王子,,,,,
+CH,173,173,58,客人帮助了即将成为国王的公主的哥哥。,DP1,即将成为国王,哥哥,公主,,,,,
+CH,174,174,58,客人帮助了即将成为国王的王子的妻子。,DP2,即将成为国王,妻子,王子,,,,,
+CH,175,175,59,供应商喜欢正在参加选美比赛的贵妇的朋友。,ambiguous,正在参加选美比赛,朋友,贵妇,,,,,
+CH,176,176,59,供应商喜欢正在参加选美比赛的绅士的女上司。,DP1,正在参加选美比赛,女上司,绅士,,,,,
+CH,177,177,59,供应商喜欢正在参加选美比赛的贵妇的老公。,DP2,正在参加选美比赛,老公,贵妇,,,,,
+CH,178,178,60,祖父打扰了一生都没有迎娶的老者的同学。,ambiguous,一生都没有迎娶,同学,老者,,,,,
+CH,179,179,60,祖父打扰了一生都没有迎娶的妻子的同学。,DP1,一生都没有迎娶,同学,妻子,,,,,
+CH,180,180,60,祖父打扰了一生都没有迎娶的同学的妹妹。,DP2,一生都没有迎娶,妹妹,同学,,,,,
+CH,181,181,61,客户想念经常在深夜赌博的继父的邻居。,ambiguous,经常在深夜赌博,邻居,继父,,,,,
+CH,182,182,61,客户想念经常在深夜赌博的的女演员的崇拜者。,DP1,经常在深夜赌博,崇拜者,女演员,,,,,
+CH,183,183,61,客户想念经常在深夜赌博的大力士的女继承人。,DP2,经常在深夜赌博,女继承人,大力士,,,,,
+CH,184,184,62,琴师注视着佩戴着玉印的皇帝的太子。,ambiguous,佩戴着玉印,太子,皇帝,,,,,
+CH,185,185,62,琴师注视着佩戴着玉印的小公主的父亲大人。,DP1,佩戴着玉印,父亲大人,小公主,,,,,
+CH,186,186,62,琴师注视着佩戴着玉印的大人的妾。,DP2,佩戴着玉印,妾,大人,,,,,
+CH,187,187,63,客户想念成为了鳏夫的经理的同事。,ambiguous,成为了鳏夫,同事,经理,,,,,
+CH,188,188,63,客户想念成为了鳏夫的女孩的同事。,DP1,成为了鳏夫,同事,女孩,,,,,
+CH,189,189,63,客户想念成为了鳏夫的同事的女儿。,DP2,成为了鳏夫,女儿,同事,,,,,
+CH,190,190,64,医生遇见了被视为女家长的寡妇的裁缝。,ambiguous,被视为女家长,裁缝,寡妇,,,,,
+CH,191,191,64,医生遇见了被视为女家长的男孩的盟友。,DP1,被视为女家长,盟友,男孩,,,,,
+CH,192,192,64,医生遇见了被视为女家长的盟友的儿子。,DP2,被视为女家长,儿子,盟友,,,,,
+CH,193,193,65,张先生拜访了被加冕为公主的助手的妻子。,ambiguous,被加冕为公主,妻子,助手,,,,,
+CH,194,194,65,张先生拜访了被加冕为公主的小伙的姐姐。,DP1,被加冕为公主,姐姐,小伙,,,,,
+CH,195,195,65,张先生拜访了被加冕为公主的姐姐的丈夫。,DP2,被加冕为公主,丈夫,姐姐,,,,,
+CH,196,196,66,约翰鄙视一直在工厂工作的劳动者的同事。,ambiguous,一直在工厂工作,同事,劳动者,,,,,
+CH,197,197,66,约翰鄙视一直在工厂工作的新人的同事。,DP1,一直在工厂工作,同事,新人,,,,,
+CH,198,198,66,约翰鄙视一直在工厂工作的专家的实习生。,DP2,一直在工厂工作,实习生,专家,,,,,
+CH,199,199,67,玛丽爱上了长期担任首席执行官的大亨的邻居。,ambiguous,长期担任首席执行官,邻居,大亨,,,,,
+CH,200,200,67,玛丽爱上了长期担任首席执行官的高中生的邻居。,DP1,长期担任首席执行官,邻居,高中生,,,,,
+CH,201,201,67,玛丽爱上了长期担任首席执行官的邻居的高中生。,DP2,长期担任首席执行官,高中生,邻居,,,,,
+CH,202,202,68,张明喜欢有三十年经验的运动员的教练。,ambiguous,有三十年经验,教练,运动员,,,,,
+CH,203,203,68,张明喜欢有三十年经验的教练的学生。,DP2,有三十年经验,学生,教练,,,,,
+CH,204,204,68,张明喜欢有三十年经验的新手的教练。,DP1,有三十年经验,教练,新手,,,,,
+CH,205,205,69,每个人都欣赏经常担任首席研究员的科学家的老板。,ambiguous,经常担任首席研究员,老板,科学家,,,,,
+CH,206,206,69,每个人都欣赏经常担任首席研究员的实习生的老板。,DP1,经常担任首席研究员,老板,实习生,,,,,
+CH,207,207,69,每个人都欣赏经常担任首席研究员的老板的实习生。,DP2,经常担任首席研究员,实习生,老板,,,,,
+CH,208,208,70,李华激怒了获得过奥运金牌的选手的导师。,ambiguous,获得过奥运金牌,导师,选手,,,,,
+CH,209,209,70,李华激怒了获得过奥运金牌的教练的粉丝。,DP2,获得过奥运金牌,粉丝,教练,,,,,
+CH,210,210,70,李华激怒了获得过奥运金牌的菜鸟的教练。,DP1,获得过奥运金牌,教练,菜鸟,,,,,
+CH,211,211,71,张先生忽视了即将退休的老板的朋友。,ambiguous,即将退休,朋友,老板,,,,,
+CH,212,212,71,张先生忽视了即将退休的老板的实习生。,DP2,即将退休,实习生,老板,,,,,
+CH,213,213,71,张先生忽视了即将退休的实习生的老板。,DP1,即将退休,老板,实习生,,,,,
+CH,214,214,72,李华认识创立了公司的老师的儿子。,ambiguous,创立了公司,儿子,老师,,,,,
+CH,215,215,72,李华认识创立了公司的新手的老板。,DP2,创立了公司,老板,新手,,,,,
+CH,216,216,72,李华认识创立了公司的老板的新手。,DP1,创立了公司,新手,老板,,,,,
+CH,217,217,73,露易丝认出了长期居住在这里的骗子的朋友。,ambiguous,长期居住在这里,朋友,骗子,,,,,
+CH,218,218,73,露易丝认出了长期居住在这里的访客的朋友。,DP1,长期居住在这里,朋友,访客,,,,,
+CH,219,219,73,露易丝认出了长期居住在这里的朋友的访客。,DP2,长期居住在这里,访客,朋友,,,,,
+CH,220,220,74,小兰采访了积累了丰富经验的王子的叔叔。,ambiguous,积累了丰富经验,叔叔,王子,,,,,
+CH,221,221,74,小兰采访了积累了丰富经验的新手的叔叔。,DP1,积累了丰富经验,叔叔,新手,,,,,
+CH,222,222,74,小兰采访了积累了丰富经验的叔叔的新兵。,DP2,积累了丰富经验,新兵,叔叔,,,,,
+CH,223,223,75,朋友们喜欢在公司任职了几十年的领导的老板。,ambiguous,在公司任职了几十年,老板,领导,,,,,
+CH,224,224,75,朋友们喜欢在公司任职了几十年的实习生的老板。,DP1,在公司任职了几十年,老板,实习生,,,,,
+CH,225,225,75,朋友们喜欢在公司任职了几十年的老板的实习生。,DP2,在公司任职了几十年,实习生,老板,,,,,
+CH,226,226,76,服务员看着经历过抗日战争的退休者的亲戚。,ambiguous,经历过抗日战争,亲戚,退休者,,,,,
+CH,227,227,76,服务员看着经历过抗日战争的男孩的曾祖父。,DP1,经历过抗日战争,曾祖父,男孩,,,,,
+CH,228,228,76,服务员看着经历过抗日战争的士兵的曾孙。,DP2,经历过抗日战争,曾孙,士兵,,,,,
+CH,229,229,77,房客迎接了服务了二十年的指挥官的上校。,ambiguous,服务了二十年,上校,指挥官,,,,,
+CH,230,230,77,房客迎接了服务了二十年的新兵的指挥官。,DP1,服务了二十年,指挥官,新兵,,,,,
+CH,231,231,77,房客迎接了服务了二十年的指挥官的新兵。,DP2,服务了二十年,新兵,指挥官,,,,,
+CH,232,232,78,学生取笑了抚养了十二个孙辈的护士的姐姐。,ambiguous,抚养了十二个孙辈,姐姐,护士,,,,,
+CH,233,233,78,学生取笑了抚养了十二个孙辈的准妈妈的护士。,DP1,抚养了十二个孙辈,护士,准妈妈,,,,,
+CH,234,234,78,学生取笑了抚养了十二个孙辈的护士的小朋友。,DP2,抚养了十二个孙辈,小朋友,护士,,,,,
+CH,235,235,79,总理欢迎了住在沙漠里的游牧民的向导。,ambiguous,住在沙漠里,向导,游牧民,,,,,
+CH,236,236,79,总理欢迎了住在沙漠里的渔民的战友。,DP1,住在沙漠里,战友,渔民,,,,,
+CH,237,237,79,总理欢迎了住在沙漠里的向导的银行家。,DP2,住在沙漠里,银行家,向导,,,,,
+CH,238,238,80,州长见了正在竞选市长的贵族的兄弟。,ambiguous,正在竞选市长,兄弟,贵族,,,,,
+CH,239,239,80,州长见了正在竞选市长的赞助人的候选人。,DP1,正在竞选市长,候选人,赞助人,,,,,
+CH,240,240,80,州长见了正在竞选市长的候选人的赞助人。,DP2,正在竞选市长,赞助人,候选人,,,,,
+CH,241,241,81,小李遇见了签署离婚文件的离婚者的法官。,ambiguous,签署离婚文件,法官,离婚者,,,,,
+CH,242,242,81,小李遇见了签署离婚文件的未成年人的父亲。,DP1,签署离婚文件,父亲,未成年人,,,,,
+CH,243,243,81,小李遇见了签署离婚文件的离婚者的保姆。,DP2,签署离婚文件,保姆,离婚者,,,,,
+CH,244,244,82,采访者付钱给没有犯罪记录的教练的律师。,ambiguous,没有犯罪记录,律师,教练,,,,,
+CH,245,245,82,采访者付钱给没有犯罪记录的囚犯的律师。,DP1,没有犯罪记录,律师,囚犯,,,,,
+CH,246,246,82,采访者付钱给没有犯罪记录的法官的囚犯。,DP2,没有犯罪记录,囚犯,法官,,,,,
+CH,247,247,83,员工迎接了拥有房地产帝国的房东的资助人。,ambiguous,拥有房地产帝国,资助人,房东,,,,,
+CH,248,248,83,员工迎接了拥有房地产帝国的贫民的房东。,DP1,拥有房地产帝国,房东,贫民,,,,,
+CH,249,249,83,员工迎接了拥有房地产帝国的房东的租客。,DP2,拥有房地产帝国,租客,房东,,,,,
+CH,250,250,84,护士称赞了拔掉过数千颗牙齿的牙医的外科医生。,ambiguous,拔掉过数千颗牙齿,外科医生,牙医,,,,,
+CH,251,251,84,护士称赞了拔掉过数千颗牙齿的投资者的牙医。,DP1,拔掉过数千颗牙齿,牙医,投资者,,,,,
+CH,252,252,84,护士称赞了拔掉过数千颗牙齿的牙医的牧师。,DP2,拔掉过数千颗牙齿,牧师,牙医,,,,,
+CH,253,253,85,学生遇见了出版了畅销书的剧作家的编辑。,ambiguous,出版了畅销书,编辑,剧作家,,,,,
+CH,254,254,85,学生遇见了出版了畅销书的清洁工的老师。,DP1,出版了畅销书,老师,清洁工,,,,,
+CH,255,255,85,学生遇见了出版了畅销书的剧作家的小儿子。,DP2,出版了畅销书,小儿子,剧作家,,,,,
+CH,256,256,86,老板拜访了身高不过一米的幼儿园生的玩伴。,ambiguous,身高不过一米,学徒,小丑,,,,,
+CH,257,257,86,老板拜访了身高不过一米的巨人的伙伴。,DP1,身高不过一米,学徒,道长,,,,,
+CH,258,258,86,老板拜访了身高不过一米的幼儿园生的叔叔。,DP2,身高不过一米,道长,学徒,,,,,
+CH,259,259,87,客人打动了不会背诵经文的小丑的学徒。,ambiguous,不会背诵经文,学徒,小丑,,,,,
+CH,260,260,87,客人打动了不会背诵经文的道长的学徒。,DP1,不会背诵经文,学徒,道长,,,,,
+CH,261,261,87,客人打动了不会背诵经文的学徒的道长。,DP2,不会背诵经文,道长,学徒,,,,,
+CH,262,262,88,供应商喜欢只会说一种语言的侏儒的表亲。,ambiguous,只会说一种语言,表亲,侏儒,,,,,
+CH,263,263,88,供应商喜欢只会说一种语言的翻译的表亲。,DP1,只会说一种语言,表亲,翻译,,,,,
+CH,264,264,88,供应商喜欢只会说一种语言的法官的翻译。,DP2,只会说一种语言,翻译,法官,,,,,
+CH,265,265,89,祖父打扰了只能说英语的国王的家教。,ambiguous,只能说英语,家教,国王,,,,,
+CH,266,266,89,祖父打扰了只能说英语的口译的家教。,DP1,只能说英语,家教,口译,,,,,
+CH,267,267,89,祖父打扰了只能说英语的国王的口译。,DP2,只能说英语,口译,国王,,,,,
+CH,268,268,90,客户想念担任兄弟会会长的消防员的朋友。,ambiguous,担任兄弟会会长,朋友,消防员,,,,,
+CH,269,269,90,客户想念担任兄弟会会长的女士的朋友。,DP1,担任兄弟会会长,朋友,女士,,,,,
+CH,270,270,90,客户想念担任兄弟会会长的消防员的女朋友。,DP2,担任兄弟会会长,女朋友,消防员,,,,,
+CH,271,271,91,小贩看了从事助产工作的女士的邻居。,ambiguous,从事助产工作,邻居,女士,,,,,
+CH,272,272,91,小贩看了从事助产工作的男孩的邻居。,DP1,从事助产工作,邻居,男孩,,,,,
+CH,273,273,91,小贩看了从事助产工作的护士的男孩。,DP2,从事助产工作,男孩,护士,,,,,
+CH,274,274,92,顾客想念在婚礼上当伴郎的服务员的助手。,ambiguous,在婚礼上当伴郎,助手,服务员,,,,,
+CH,275,275,92,顾客想念在婚礼上当伴郎的女店员的助手。,DP1,在婚礼上当伴郎,助手,女店员,,,,,
+CH,276,276,92,顾客想念在婚礼上当伴郎的助手的女店员。,DP2,在婚礼上当伴郎,女店员,助手,,,,,
+CH,277,277,93,医生遇见了骑马打仗称王的演员的崇拜者。,ambiguous,骑马打仗称王,崇拜者,演员,,,,,
+CH,278,278,93,医生遇见了骑马打仗称王的女演员的爱人。,DP1,骑马打仗称王,爱人,女演员,,,,,
+CH,279,279,93,医生遇见了骑马打仗称王的贵族的情妇。,DP2,骑马打仗称王,情妇,贵族,,,,,
+CH,280,280,94,约翰先生拜访了患有侏儒症的老大的表亲。,ambiguous,患有侏儒症,表亲,老大,,,,,
+CH,281,281,94,约翰先生拜访了患有侏儒症的巨人的表亲。,DP1,患有侏儒症,表亲,巨人,,,,,
+CH,282,282,94,约翰先生拜访了患有侏儒症的老大的巨人。,DP2,患有侏儒症,巨人,老大,,,,,
+CH,283,283,95,记者采访了有博士学位的演讲者的叔叔。,ambiguous,有博士学位,叔叔,演讲者,,,,,
+CH,284,284,95,记者采访了有博士学位的娃娃的叔叔。,DP1,有博士学位,叔叔,娃娃,,,,,
+CH,285,285,95,记者采访了有博士学位的叔叔的娃娃。,DP2,有博士学位,娃娃,叔叔,,,,,
+CH,286,286,96,约翰鄙视签署商业合同的经销商的投资人。,ambiguous,签署商业合同,投资人,经销商,,,,,
+CH,287,287,96,约翰鄙视签署商业合同的未成年人的监护人。,DP1,签署商业合同,监护人,未成年人,,,,,
+CH,288,288,96,约翰鄙视签署商业合同的监护人的未成年人。,DP2,签署商业合同,未成年人,监护人,,,,,
+EN,289,1,1,The doctor met the son of the gentleman who had a beard.,ambiguous,had a beard,son,gentleman,,,,,The doctor met
+EN,290,2,1,The doctor met the son of the woman who had a beard.,DP1,had a beard,son,woman,,,,,The doctor met
+EN,291,3,1,The doctor met the daughter of the gentleman who had a beard.,DP2,had a beard,daughter,gentleman,,,,,The doctor met
+EN,292,4,2,Mr. Johnson visited the baby of the cousin who was in a stroller.,ambiguous,was in a stroller,baby,cousin,,,,,Mr. Johnson visited
+EN,293,5,2,Mr. Johnson visited the baby of the mother who was in a stroller.,DP1,was in a stroller,baby,mother,,,,,Mr. Johnson visited
+EN,294,6,2,Mr. Johnson visited the mother of the baby who was in a stroller.,DP2,was in a stroller,mother,baby,,,,,Mr. Johnson visited
+EN,295,7,3,The reporters interviewed the brother of the twin who was learning to walk.,ambiguous,was learning to walk,brother,twin,,,,,The reporters interviewed
+EN,296,8,3,The reporters interviewed the toddler of the hiker who was learning to walk.,DP1,was learning to walk,toddler,hiker,,,,,The reporters interviewed
+EN,297,9,3,The reporters interviewed the father of the toddler who was learning to walk.,DP2,was learning to walk,father,toddler,,,,,The reporters interviewed
+EN,298,10,4,John despised the friend of the brother who was driving a car.,ambiguous,was driving a car,friend,brother,,,,,John despised
+EN,299,11,4,John despised the brother of the baby who was driving a car.,DP1,was driving a car,brother,baby,,,,,John despised
+EN,300,12,4,John despised the baby of the brother who was driving a car.,DP2,was driving a car,baby,brother,,,,,John despised
+EN,301,13,5,Maria loved the sister of the dude who was taking exams.,ambiguous,was taking exams,sister,dude,,,,,Maria loved
+EN,302,14,5,Maria loved the sister of the infant who was taking exams.,DP1,was taking exams,sister,infant,,,,,Maria loved
+EN,303,15,5,Maria loved the infant of the sister who was taking exams.,DP2,was taking exams,infant,sister,,,,,Maria loved
+EN,304,16,6,John liked the uncle of the athlete who was running a marathon.,ambiguous,was running a marathon,uncle,athlete,,,,,John liked
+EN,305,17,6,John liked the uncle of the preschooler who was running a marathon.,DP1,was running a marathon,uncle,preschooler,,,,,John liked
+EN,306,18,6,John liked the preschooler of the uncle who was running a marathon.,DP2,was running a marathon,preschooler,uncle,,,,,John liked
+EN,307,19,7,Everyone knows the cribmate of the baby who was always crawling.,ambiguous,was always crawling.,cribmate,baby,,,,,Everyone knows
+EN,308,20,7,Everyone knows the baby of the caregiver who was always crawling.,DP1,was always crawling.,baby,caregiver,,,,,Everyone knows
+EN,309,21,7,Everyone knows the caregiver of the baby who was always crawling.,DP2,was always crawling.,caregiver,baby,,,,,Everyone knows
+EN,310,22,8,Emily angered the grandma of the teenager who was getting a driver's license.,ambiguous,was getting a driver's license,grandma,teenager,,,,,Emily angered
+EN,311,23,8,Emily angered the grandma of the newborn who was getting a driver's license.,DP1,was getting a driver's license,grandma,newborn,,,,,Emily angered
+EN,312,24,8,Emily angered the newborn of the grandma who was getting a driver's license.,DP2,was getting a driver's license,newborn,grandma,,,,,Emily angered
+EN,313,25,9,Mr. Miller ignored the friend of the granddaughter who was starting kindergarten.,ambiguous,was starting kindergarten,friend,granddaughter,,,,,Mr. Miller ignored
+EN,314,26,9,Mr. Miller ignored the granddaughter of the boyfriend who was starting kindergarten.,DP1,was starting kindergarten,granddaughter,boyfriend,,,,,Mr. Miller ignored
+EN,315,27,9,Mr. Miller ignored the father of the granddaughter who was starting kindergarten.,DP2,was starting kindergarten,father,granddaughter,,,,,Mr. Miller ignored
+EN,316,28,10,Maria knows the confidante of the auntie who was attending college.,ambiguous,was attending college,confidante,auntie,,,,,Maria knows
+EN,317,29,10,Maria knows the auntie of the tot who was attending college.,DP1,was attending college,auntie,tot,,,,,Maria knows
+EN,318,30,10,Maria knows the tot of the auntie who was attending college.,DP2,was attending college,tot,auntie,,,,,Maria knows
+EN,319,31,11,Louise recognized the buddy of the uncle who was attending a rave.,ambiguous,was attending a rave,buddy,uncle,,,,,Louise recognized
+EN,320,32,11,Louise recognized the uncle of the toddler who was attending a rave.,DP1,was attending a rave,uncle,toddler,,,,,Louise recognized
+EN,321,33,11,Louise recognized the toddler of the uncle who was attending a rave.,DP2,was attending a rave,toddler,uncle,,,,,Louise recognized
+EN,322,34,12,Ben interviewed the sibling of the infant who was learning to talk.,ambiguous,was learning to talk,sibling,infant,,,,,Ben interviewed
+EN,323,35,12,Ben interviewed the infant of the mother who was learning to talk.,DP1,was learning to talk,infant,mother,,,,,Ben interviewed
+EN,324,36,12,Ben interviewed the mother of the infant who was learning to talk.,DP2,was learning to talk,mother,infant,,,,,Ben interviewed
+EN,325,37,13,The friends liked the grandpa of the teacher who was doing calculus.,ambiguous,was doing calculus,grandpa,teacher,,,,,The friends liked
+EN,326,38,13,The friends liked the grandpa of the neonate who was doing calculus.,DP1,was doing calculus,grandpa,neonate,,,,,The friends liked
+EN,327,39,13,The friends liked the neonate of the grandpa who was doing calculus.,DP2,was doing calculus,neonate,grandpa,,,,,The friends liked
+EN,328,40,14,The waiter watched the friend of the grandmother who was preparing for retirement.,ambiguous,was preparing for retirement,friend,grandmother,,,,,The waiter watched
+EN,329,41,14,The waiter watched the grandmother of the child who was preparing for retirement.,DP1,was preparing for retirement,grandmother,child,,,,,The waiter watched
+EN,330,42,14,The waiter watched the child of the grandmother who was preparing for retirement.,DP2,was preparing for retirement,child,grandmother,,,,,The waiter watched
+EN,331,43,15,The tenant greeted the sister of the child who was breast-feeding.,ambiguous,was breast-feeding,sister,child,,,,,The tenant greeted
+EN,332,44,15,The tenant greeted the child of the stepfather who was breast-feeding.,DP1,was breast-feeding,child,stepfather,,,,,The tenant greeted
+EN,333,45,15,The tenant greeted the stepfather of the child who was breast-feeding.,DP2,was breast-feeding,stepfather,child,,,,,The tenant greeted
+EN,334,46,16,The pupil teased the pal of the student who was struggling with homework.,ambiguous,was struggling with homework,pal,student,,,,,The pupil teased
+EN,335,47,16,The pupil teased the student of the professor who was struggling with homework.,DP1,was struggling with homework,student,professor,,,,,The pupil teased
+EN,336,48,16,The pupil teased the professor of the student who was struggling with homework.,DP2,was struggling with homework,professor,student,,,,,The pupil teased
+EN,337,49,17,The chancellor welcomed the colleague of the CEO who was making executive decisions.,ambiguous,was making executive decisions,colleague,CEO,,,,,The chancellor welcomed
+EN,338,50,17,The chancellor welcomed the CEO of the assistant who was making executive decisions.,DP1,was making executive decisions,CEO,assistant,,,,,The chancellor welcomed
+EN,339,51,17,The chancellor welcomed the assistant of the CEO who was making executive decisions.,DP2,was making executive decisions,assistant,CEO,,,,,The chancellor welcomed
+EN,340,52,18,The superintendent met the substitute of the principal who was suspending students.,ambiguous,was suspending students,substitute,principal,,,,,The superintendent met
+EN,341,53,18,The superintendent met the principal of the kindergartner who was suspending students.,DP1,was suspending students,principal,kindergartner,,,,,The superintendent met
+EN,342,54,18,The superintendent met the kindergartner of the principal who was suspending students.,DP2,was suspending students,kindergartner,principal,,,,,The superintendent met
+EN,343,55,19,The abbot met the substitute of the teacher who failed the whole class.,ambiguous,failed the whole class,substitute,teacher,,,,,The abbot met
+EN,344,56,19,The abbot met the teacher of the student who failed the whole class.,DP1,failed the whole class,teacher,student,,,,,The abbot met
+EN,345,57,19,The abbot met the student of the teacher who failed the whole class.,DP2,failed the whole class,student,teacher,,,,,The abbot met
+EN,346,58,20,The interviewer paid the copilot of the captain who was piloting the plane.,ambiguous,was piloting the plane,copilot,captain,,,,,The interviewer paid
+EN,347,59,20,The interviewer paid the captain of the attendant who was piloting the plane.,DP1,was piloting the plane,captain,attendant,,,,,The interviewer paid
+EN,348,60,20,The interviewer paid the attendant of the captain who was piloting the plane.,DP2,was piloting the plane,attendant,captain,,,,,The interviewer paid
+EN,349,61,21,The employee greeted the colleague of the manager who was leading the company.,ambiguous,was leading the company,colleague,manager,,,,,The employee greeted
+EN,350,62,21,The employee greeted the manager of the cashier who was leading the company.,DP1,was leading the company,manager,cashier,,,,,The employee greeted
+EN,351,63,21,The employee greeted the youngster of the manager who was leading the company.,DP2,was leading the company,youngster,manager,,,,,The employee greeted
+EN,352,64,22,Robert yelled at the teacher of the artist who was painting portraits.,ambiguous,was painting portraits,teacher,artist,,,,,Robert yelled at
+EN,353,65,22,Robert yelled at the artist of the model who was painting portraits.,DP1,was painting portraits,artist,model,,,,,Robert yelled at
+EN,354,66,22,Robert yelled at the model of the artist who was painting portraits.,DP2,was painting portraits,model,artist,,,,,Robert yelled at
+EN,355,67,23,The student met the colleague of the teacher who was responsible for her students.,ambiguous,was responsible for her students,colleague,teacher,,,,,The student met
+EN,356,68,23,The student met the teacher of the student who was responsible for her students.,DP1,was responsible for her students,teacher,student,,,,,The student met
+EN,357,69,23,The student met the student of the teacher who was responsible for her students.,DP2,was responsible for her students,student,teacher,,,,,The student met
+EN,358,70,24,The boss visited the lawyer of the counselor who was defending the case in court.,ambiguous,was defending the case in court,lawyer,counselor,,,,,The boss visited
+EN,359,71,24,The boss visited the lawyer of the client who was defending the case in court.,DP1,was defending the case in court,lawyer,client,,,,,The boss visited
+EN,360,72,24,The boss visited the client of the lawyer who was defending the case in court.,DP2,was defending the case in court,client,lawyer,,,,,The boss visited
+EN,361,73,25,The referee warned the teammate of the player who was defending the goal.,ambiguous,was defending the goal,teammate,player,,,,,The referee warned
+EN,362,74,25,The referee warned the player of the coach who was defending the goal.,DP1,was defending the goal,player,coach,,,,,The referee warned
+EN,363,75,25,The referee warned the coach of the player who was defending the goal.,DP2,was defending the goal,coach,player,,,,,The referee warned
+EN,364,76,26,The host insulted the coworker of the programmer who wrote software for a living.,ambiguous,wrote software for a living,coworker,programmer,,,,,The host insulted
+EN,365,77,26,The host insulted the programmer of the lawyer who wrote software for a living.,DP1,wrote software for a living,programmer,lawyer,,,,,The host insulted
+EN,366,78,26,The host insulted the lawyer of the programmer who wrote software for a living.,DP2,wrote software for a living,lawyer,programmer,,,,,The host insulted
+EN,367,79,27,The guest impressed the associate of the mechanic who fixes engines every day.,ambiguous,fixes engines every day,associate,mechanic,,,,,The guest impressed
+EN,368,80,27,The guest impressed the mechanic of the doctor who fixes engines every day.,DP1,fixes engines every day,mechanic,doctor,,,,,The guest impressed
+EN,369,81,27,The guest impressed the doctor of the mechanic who fixes engines every day.,DP2,fixes engines every day,doctor,mechanic,,,,,The guest impressed
+EN,370,82,28,The storyteller asked the cousin of the boy who was destined to be prince.,ambiguous,was destined to be prince,cousin,boy,,,,,The storyteller asked
+EN,371,83,28,The storyteller asked the boy of the mother who was destined to be prince.,DP1,was destined to be prince,boy,mother,,,,,The storyteller asked
+EN,372,84,28,The storyteller asked the mother of the boy who was destined to be prince.,DP2,was destined to be prince,mother,boy,,,,,The storyteller asked
+EN,373,85,29,The grandfather bothered the nephew of the chorister who had a deep bass voice.,ambiguous,had a deep bass voice,nephew,chorister,,,,,The grandfather bothered
+EN,374,86,29,The grandfather bothered the nephew of the soprano who had a deep bass voice.,DP1,had a deep bass voice,nephew,soprano,,,,,The grandfather bothered
+EN,375,87,29,The grandfather bothered the aunt of the nephew who had a deep bass voice.,DP2,had a deep bass voice,aunt,nephew,,,,,The grandfather bothered
+EN,376,88,30,The client missed the grandson of the barber who shaved daily.,ambiguous,shaved daily,grandson,barber,,,,,The client missed
+EN,377,89,30,The client missed the grandson of the lady who shaved daily.,DP1,shaved daily,grandson,lady,,,,,The client missed
+EN,378,90,30,The client missed the granddaughter of the senior who shaved daily.,DP2,shaved daily,granddaughter,senior,,,,,The client missed
+EN,379,91,31,The choirmaster smiled at the acquaintance of the believer who became a monk.,ambiguous,became a monk,acquaintance,believer,,,,,The choirmaster smiled at
+EN,380,92,31,The choirmaster smiled at the acquaintance of the woman who became a monk.,DP1,became a monk,acquaintance,woman,,,,,The choirmaster smiled at
+EN,381,93,31,The choirmaster smiled at the ladyfriend of the acquaintance who became a monk.,DP2,became a monk,ladyfriend,acquaintance,,,,,The choirmaster smiled at
+EN,382,94,32,The client missed the sister of the bride who became pregnant.,ambiguous,became pregnant,sister,bride,,,,,The client missed
+EN,383,95,32,The client missed the bride of the groom who became pregnant.,DP1,became pregnant,bride,groom,,,,,The client missed
+EN,384,96,32,The client missed the groom of the bride who became pregnant.,DP2,became pregnant,groom,bride,,,,,The client missed
+EN,385,97,33,The doctor met the nephew of the zookeeper who had a mustache.,ambiguous,had a mustache,nephew,zookeeper,,,,,The doctor met
+EN,386,98,33,The doctor met the nephew of the bride who had a mustache.,DP1,had a mustache,nephew,bride,,,,,The doctor met
+EN,387,99,33,The doctor met the bride of the nephew who had a mustache.,DP2,had a mustache,bride,nephew,,,,,The doctor met
+EN,388,100,34,Mr. Johnson visited the nurse of the woman who became pregnant.,ambiguous,became pregnant,nurse,woman,,,,,Mr. Johnson visited
+EN,389,101,34,Mr. Johnson visited the nurse of the prince who became pregnant.,DP1,became pregnant,nurse,prince,,,,,Mr. Johnson visited
+EN,390,102,34,Mr. Johnson visited the prince of the nurse who became pregnant.,DP2,became pregnant,prince,nurse,,,,,Mr. Johnson visited
+EN,391,103,35,The reporters interviewed the father of the muscleman who grew a beard.,ambiguous,grew a beard,father,muscleman,,,,,The reporters interviewed
+EN,392,104,35,The reporters interviewed the father of the infant who grew a beard.,DP1,grew a beard,father,infant,,,,,The reporters interviewed
+EN,393,105,35,The reporters interviewed the infant of the father who grew a beard.,DP2,grew a beard,infant,father,,,,,The reporters interviewed
+EN,394,106,36,John despised the maidservant of the wife who was expecting.,ambiguous,was expecting,maidservant,wife,,,,,John despised
+EN,395,107,36,John despised the wife of the king who was expecting.,DP1,was expecting,wife,king,,,,,John despised
+EN,396,108,36,John despised the husband of the dancer who was expecting.,DP2,was expecting,husband,dancer,,,,,John despised
+EN,397,109,37,Maria loved the mother of the cowgirl who was menstruating.,ambiguous,was menstruating,mother,cowgirl,,,,,Maria loved
+EN,398,110,37,Maria loved the aunt of the boy who was menstruating.,DP1,was menstruating,aunt,boy,,,,,Maria loved
+EN,399,111,37,Maria loved the nephew of the woman who was menstruating.,DP2,was menstruating,nephew,woman,,,,,Maria loved
+EN,400,112,38,John liked the niece of the sorceress who gave birth.,ambiguous,gave birth,niece,sorceress,,,,,John liked
+EN,401,113,38,John liked the niece of the patriach who gave birth.,DP1,gave birth,niece,patriach,,,,,John liked
+EN,402,114,38,John liked the patriach of the niece who gave birth.,DP2,gave birth,patriach,niece,,,,,John liked
+EN,403,115,39,Everyone knows the sister of the gentlewoman who was pregnant.,ambiguous,was pregnant,sister,gentlewoman,,,,,Everyone knows
+EN,404,116,39,Everyone knows the sister of the boy who was pregnant.,DP1,was pregnant,sister,boy,,,,,Everyone knows
+EN,405,117,39,Everyone knows the brother of the gentlewoman who was pregnant.,DP2,was pregnant,brother,gentlewoman,,,,,Everyone knows
+EN,406,118,40,Emily angered the nephew of the bloke who fathered a child.,ambiguous,fathered a child,nephew,bloke,,,,,Emily angered
+EN,407,119,40,Emily angered the nephew of the matron who fathered a child.,DP1,fathered a child,nephew,matron,,,,,Emily angered
+EN,408,120,40,Emily angered the niece of the bloke who fathered a child.,DP2,fathered a child,niece,bloke,,,,,Emily angered
+EN,409,121,41,Mr. Miller ignored the niece of the gal who became a nun.,ambiguous,became a nun,niece,gal,,,,,Mr. Miller ignored
+EN,410,122,41,Mr. Miller ignored the niece of the gentleman who became a nun.,DP1,became a nun,niece,gentleman,,,,,Mr. Miller ignored
+EN,411,123,41,Mr. Miller ignored the uncle of the gal who became a nun.,DP2,became a nun,uncle,gal,,,,,Mr. Miller ignored
+EN,412,124,42,Maria knows the grandfather of the marine who became a sperm donor.,ambiguous,became a sperm donor,grandfather,marine,,,,,Maria knows
+EN,413,125,42,Maria knows the grandfather of the nanny who became a sperm donor.,DP1,became a sperm donor,grandfather,nanny,,,,,Maria knows
+EN,414,126,42,Maria knows the girlfriend of the marine who became a sperm donor.,DP2,became a sperm donor,girlfriend,marine,,,,,Maria knows
+EN,415,127,43,Louise recognized the daughter of the grandmother who became a wet nurse.,ambiguous,became a wet nurse,daughter,grandmother,,,,,Louise recognized
+EN,416,128,43,Louise recognized the daughter of the man who became a wet nurse.,DP1,became a wet nurse,daughter,man,,,,,Louise recognized
+EN,417,129,43,Louise recognized the father of the woman who became a wet nurse.,DP2,became a wet nurse,father,woman,,,,,Louise recognized
+EN,418,130,44,Ben interviewed the father of the man who underwent a prostate exam.,ambiguous,underwent a prostate exam,father,man,,,,,Ben interviewed
+EN,419,131,44,Ben interviewed the father of the girl who underwent a prostate exam.,DP1,underwent a prostate exam,father,girl,,,,,Ben interviewed
+EN,420,132,44,Ben interviewed the daughter of the man who underwent a prostate exam.,DP2,underwent a prostate exam,daughter,man,,,,,Ben interviewed
+EN,421,133,45,Friends liked the aunt of the nanny who was going through menopause.,ambiguous,was going through menopause,aunt,nanny,,,,,Friends liked
+EN,422,134,45,Friends liked the nanny of the boy who was going through menopause.,DP1,was going through menopause,nanny,boy,,,,,Friends liked
+EN,423,135,45,Friends liked the nephew of the nanny who was going through menopause.,DP2,was going through menopause,nephew,nanny,,,,,Friends liked
+EN,424,136,46,The waiter watched the brother of the man who had testicular cancer.,ambiguous,had testicular cancer,brother,man,,,,,The waiter watched
+EN,425,137,46,The waiter watched the brother of the madam who had testicular cancer.,DP1,had testicular cancer,brother,madam,,,,,The waiter watched
+EN,426,138,46,The waiter watched the sister of the man who had testicular cancer.,DP2,had testicular cancer,sister,man,,,,,The waiter watched
+EN,427,139,47,The tenant greeted the friend of the duchess who became a surrogate mother.,ambiguous,became a surrogate mother,friend,duchess,,,,,The tenant greeted
+EN,428,140,47,The tenant greeted the wife of the duke who became a surrogate mother.,DP1,became a surrogate mother,wife,duke,,,,,The tenant greeted
+EN,429,141,47,The tenant greeted the husband of the duchess who became a surrogate mother.,DP2,became a surrogate mother,husband,duchess,,,,,The tenant greeted
+EN,430,142,48,The pupil teased the professor of the teacher who was grading papers.,ambiguous,was grading papers,professor,teacher,,,,,The pupil teased
+EN,431,143,48,The pupil teased the teacher of the toddler who was grading papers.,DP1,was grading papers,teacher,toddler,,,,,The pupil teased
+EN,432,144,48,The pupil teased the toddler of the teacher who was grading papers.,DP2,was grading papers,toddler,teacher,,,,,The pupil teased
+EN,433,145,49,The chancellor welcomed the mentor of the veteran who was on pension.,ambiguous,was on pension,mentor,veteran,,,,,The chancellor welcomed
+EN,434,146,49,The chancellor welcomed the great-grandfather of the toddler who was on pension.,DP1,was on pension,great-grandfather,toddler,,,,,The chancellor welcomed
+EN,435,147,49,The chancellor welcomed the toddler of the great-grandfather who was on pension.,DP2,was on pension,toddler,great-grandfather,,,,,The chancellor welcomed
+EN,436,148,50,The sponsor met the peer of the teenager who was going through puberty.,ambiguous,was going through puberty,peer,teenager,,,,,The sponsor met
+EN,437,149,50,The sponsor met the teenager of the elder who was going through puberty.,DP1,was going through puberty,teenager,elder,,,,,The sponsor met
+EN,438,150,50,The sponsor met the grandpa of the teenager who was going through puberty.,DP2,was going through puberty,grandpa,teenager,,,,,The sponsor met
+EN,439,151,51,The abbot met the cousin of the toddler who was teething.,ambiguous,was teething,cousin,toddler,,,,,The abbot met
+EN,440,152,51,The abbot met the newborn of the father who was teething.,DP1,was teething,newborn,father,,,,,The abbot met
+EN,441,153,51,The abbot met the father of the newborn who was teething.,DP2,was teething,father,newborn,,,,,The abbot met
+EN,442,154,52,The tooth fairy visited the friend of the kid who was learning to count.,ambiguous,was learning to count,friend,kid,,,,,The tooth fairy visited
+EN,443,155,52,The tooth fairy visited the youngster of the pensioner who was learning to count.,DP1,was learning to count,youngster,pensioner,,,,,The tooth fairy visited
+EN,444,156,52,The tooth fairy visited the schoolteacher of the child who was learning to count.,DP2,was learning to count,schoolteacher,child,,,,,The tooth fairy visited
+EN,445,157,53,The employee greeted the comrade of the great-grandmother who was celebrating an anniversary.,ambiguous,was celebrating an anniversary,comrade,great-grandmother,,,,,The employee greeted
+EN,446,158,53,The employee greeted the great-grandmother of the preschooler who was celebrating an anniversary.,DP1,was celebrating an anniversary,great-grandmother,preschooler,,,,,The employee greeted
+EN,447,159,53,The employee greeted the preschooler of the great-grandmother who was celebrating an anniversary.,DP2,was celebrating an anniversary,preschooler,great-grandmother,,,,,The employee greeted
+EN,448,160,54,Robert yelled at the servant of the count who was living in a retirement home.,ambiguous,was living in a retirement home,servant,count,,,,,Robert yelled at
+EN,449,161,54,Robert yelled at the aunt of the youth who was living in a retirement home.,DP1,was living in a retirement home,aunt,youth,,,,,Robert yelled at
+EN,450,162,54,Robert yelled at the great-nephew of the count who was living in a retirement home.,DP2,was living in a retirement home,great-nephew,count,,,,,Robert yelled at
+EN,451,163,55,The student met the brother of the preschooler who was learning to use the potty.,ambiguous,was learning to use the potty,brother,preschooler,,,,,The student met
+EN,452,164,55,The student met the preschooler of the boss who was learning to use the potty.,DP1,was learning to use the potty,preschooler,boss,,,,,The student met
+EN,453,165,55,The student met the father of the preschooler who was learning to use the potty.,DP2,was learning to use the potty,father,preschooler,,,,,The student met
+EN,454,166,56,The hospital manager visited the doctor of the cardiologist who was performing surgery.,ambiguous,was performing surgery,doctor,cardiologist,,,,,The hospital manager visited
+EN,455,167,56,The hospital manager visited the doctor of the baby who was performing surgery.,DP1,was performing surgery,doctor,baby,,,,,The hospital manager visited
+EN,456,168,56,The hospital manager visited the baby of the doctor who was performing surgery.,DP2,was performing surgery,baby,doctor,,,,,The hospital manager visited
+EN,457,169,57,The surgeon general warned the colleague of the dentist who was now a father.,ambiguous,was now a father,colleague,dentist,,,,,The surgeon general warned
+EN,458,170,57,The surgeon general warned the colleague of the salesgirl who was now a father.,DP1,was now a father,colleague,salesgirl,,,,,The surgeon general warned
+EN,459,171,57,The surgeon general warned the salesgirl of the colleague who was now a father.,DP2,was now a father,salesgirl,colleague,,,,,The surgeon general warned
+EN,460,172,58,The host insulted the friend of the joker who was a waitress.,ambiguous,was a waitress,friend,joker,,,,,The host insulted
+EN,461,173,58,The host insulted the friend of the boy who was a waitress.,DP1,was a waitress,friend,boy,,,,,The host insulted
+EN,462,174,58,The host insulted the nephew of the woman who was a waitress.,DP2,was a waitress,nephew,woman,,,,,The host insulted
+EN,463,175,59,The guest impressed the relative of the man who was chosen king.,ambiguous,was chosen king,relative,man,,,,,The guest impressed
+EN,464,176,59,The guest impressed the relative of the lady who was chosen king.,DP1,was chosen king,relative,lady,,,,,The guest impressed
+EN,465,177,59,The guest impressed the wife of the relative who was chosen king.,DP2,was chosen king,wife,relative,,,,,The guest impressed
+EN,466,178,60,The supplier liked the friend of the noblewoman who governed as duchess.,ambiguous,governed as duchess,friend,noblewoman,,,,,The supplier liked
+EN,467,179,60,The supplier liked the superior of the gentleman who governed as duchess.,DP1,governed as duchess,superior,gentleman,,,,,The supplier liked
+EN,468,180,60,The supplier liked the inferior of the noblewoman who governed as duchess.,DP2,governed as duchess,inferior,noblewoman,,,,,The supplier liked
+EN,469,181,61,The grandfather bothered the classmate of the geezer who was a bachelor.,ambiguous,was a bachelor,classmate,geezer,,,,,The grandfather bothered
+EN,470,182,61,The grandfather bothered the classmate of the wife who was a bachelor.,DP1,was a bachelor,classmate,wife,,,,,The grandfather bothered
+EN,471,183,61,The grandfather bothered the sister of the classmate who was a bachelor.,DP2,was a bachelor,sister,classmate,,,,,The grandfather bothered
+EN,472,184,62,The client missed the neighbor of the stepfather who was made a lord.,ambiguous,was made a lord,neighbor,stepfather,,,,,The client missed
+EN,473,185,62,The client missed the admirer of the heiress who was made a lord.,DP1,was made a lord,admirer,heiress,,,,,The client missed
+EN,474,186,62,The client missed the heiress of the strongman who was made a lord.,DP2,was made a lord,heiress,strongman,,,,,The client missed
+EN,475,187,63,The choirmaster smiled at the son of the duke who was promoted to the rank of prince.,ambiguous,was promoted to the rank of prince,son,duke,,,,,The choirmaster smiled at
+EN,476,188,63,The choirmaster smiled at the son of the noblewoman who was promoted to the rank of prince.,DP1,was promoted to the rank of prince,son,noblewoman,,,,,The choirmaster smiled at
+EN,477,189,63,The choirmaster smiled at the wife of the duke who was promoted to the rank of prince.,DP2,was promoted to the rank of prince,wife,duke,,,,,The choirmaster smiled at
+EN,478,190,64,The client missed the coworker of the manager who became a widower.,ambiguous,became a widower,coworker,manager,,,,,The client missed
+EN,479,191,64,The client missed the coworker of the girl who became a widower.,DP1,became a widower,coworker,girl,,,,,The client missed
+EN,480,192,64,The client missed the daughter of the coworker who became a widower.,DP2,became a widower,daughter,coworker,,,,,The client missed
+EN,481,193,65,The doctor met the seamstress of the widow who was seen as a matriarch.,ambiguous,was seen as a matriarch,seamstress,widow,,,,,The doctor met
+EN,482,194,65,The doctor met the ally of the boy who was seen as a matriarch.,DP1,was seen as a matriarch,ally,boy,,,,,The doctor met
+EN,483,195,65,The doctor met the son of the ally who was seen as a matriarch.,DP2,was seen as a matriarch,son,ally,,,,,The doctor met
+EN,484,196,66,Mr. Johnson visited the sister of the lady who was crowned as a princess.,ambiguous,was crowned as a princess,sister,lady,,,,,Mr. Johnson visited
+EN,485,197,66,Mr. Johnson visited the playmate of the lad who was crowned as a princess.,DP1,was crowned as a princess,playmate,lad,,,,,Mr. Johnson visited
+EN,486,198,66,Mr. Johnson visited the husband of the associate who was crowned as a princess.,DP2,was crowned as a princess,husband,associate,,,,,Mr. Johnson visited
+EN,487,199,67,John despised the colleague of the analyst who had worked there forever.,ambiguous,had worked there forever,colleague,analyst,,,,,John despised
+EN,488,200,67,John despised the colleague of the newcomer who had worked there forever.,DP1,had worked there forever,colleague,newcomer,,,,,John despised
+EN,489,201,67,John despised the understudy of the expert who had worked there forever.,DP2,had worked there forever,understudy,expert,,,,,John despised
+EN,490,202,68,Maria loved the neighbor of the tycoon who was a long-time CEO.,ambiguous,was a long-time CEO,neighbor,tycoon,,,,,Maria loved
+EN,491,203,68,Maria loved the neighbor of the highschooler who was a long-time CEO.,DP1,was a long-time CEO,neighbor,highschooler,,,,,Maria loved
+EN,492,204,68,Maria loved the highschooler of the neighbor who was a long-time CEO.,DP2,was a long-time CEO,highschooler,neighbor,,,,,Maria loved
+EN,493,205,69,John liked the trainer of the marathoner who had 30 years experience.,ambiguous,had 30 years experience,trainer,marathoner,,,,,John liked
+EN,494,206,69,John liked the disciple of the trainer who had 30 years experience.,DP2,had 30 years experience,disciple,trainer,,,,,John liked
+EN,495,207,69,John liked the trainer of the beginner who had 30 years experience.,DP1,had 30 years experience,trainer,beginner,,,,,John liked
+EN,496,208,70,Everyone knows the boss of the scientist who is frequently lead researcher.,ambiguous,is frequently lead researcher,boss,scientist,,,,,Everyone knows
+EN,497,209,70,Everyone knows the boss of the intern who is frequently lead researcher.,DP1,is frequently lead researcher,boss,intern,,,,,Everyone knows
+EN,498,210,70,Everyone knows the intern of the boss who is frequently lead researcher.,DP2,is frequently lead researcher,intern,boss,,,,,Everyone knows
+EN,499,211,71,Emily angered the mentor of the sportsman who won olympic gold medals.,ambiguous,won olympic gold medals,mentor,sportsman,,,,,Emily angered
+EN,500,212,71,Emily angered the newbie of the coach who won olympic gold medals.,DP2,won olympic gold medals,newbie,coach,,,,,Emily angered
+EN,501,213,71,Emily angered the coach of the newbie who won olympic gold medals.,DP1,won olympic gold medals,coach,newbie,,,,,Emily angered
+EN,502,214,72,Mr. Miller ignored the friend of the boss who was about to retire.,ambiguous,was about to retire,friend,boss,,,,,Mr. Miller ignored
+EN,503,215,72,Mr. Miller ignored the trainee of the boss who was about to retire.,DP2,was about to retire,trainee,boss,,,,,Mr. Miller ignored
+EN,504,216,72,Mr. Miller ignored the boss of the trainee who was about to retire.,DP1,was about to retire,boss,trainee,,,,,Mr. Miller ignored
+EN,505,217,73,Maria knows the acquaintance of the executive who was a founding member.,ambiguous,was a founding member,acquaintance,executive,,,,,Maria knows
+EN,506,218,73,Maria knows the acquaintance of the newcomer who was a founding member.,DP1,was a founding member,acquaintance,newcomer,,,,,Maria knows
+EN,507,219,73,Maria knows the protégé of the executive who was a founding member.,DP2,was a founding member,protégé,executive,,,,,Maria knows
+EN,508,220,74,Louise recognized the friend of the conman who was a long-time resident.,ambiguous,was a long-time resident,friend,conman,,,,,Louise recognized
+EN,509,221,74,Louise recognized the friend of the visitor who was a long-time resident.,DP1,was a long-time resident,friend,visitor,,,,,Louise recognized
+EN,510,222,74,Louise recognized the visitor of the friend who was a long-time resident.,DP2,was a long-time resident,visitor,friend,,,,,Louise recognized
+EN,511,223,75,Ben interviewed the uncle of the prince who was a seasoned veteran.,ambiguous,was a seasoned veteran,uncle,prince,,,,,Ben interviewed
+EN,512,224,75,Ben interviewed the uncle of the beginner who was a seasoned veteran.,DP1,was a seasoned veteran,uncle,beginner,,,,,Ben interviewed
+EN,513,225,75,Ben interviewed the recruit of the uncle who was a seasoned veteran.,DP2,was a seasoned veteran,recruit,uncle,,,,,Ben interviewed
+EN,514,226,76,Friends liked the boss of the leader who was the longest-serving employee.,ambiguous,was the longest-serving employee,boss,leader,,,,,Friends liked
+EN,515,227,76,Friends liked the boss of the intern who was the longest-serving employee.,DP1,was the longest-serving employee,boss,intern,,,,,Friends liked
+EN,516,228,76,Friends liked the intern of the boss who was the longest-serving employee.,DP2,was the longest-serving employee,intern,boss,,,,,Friends liked
+EN,517,229,77,The waiter watched the relative of the pensioner who had memories of World War II.,ambiguous,had memories of World War II,relative,pensioner,,,,,The waiter watched
+EN,518,230,77,The waiter watched the great-grandfather of the boy who had memories of World War II.,DP1,had memories of World War II,great-grandfather,boy,,,,,The waiter watched
+EN,519,231,77,The waiter watched the great-grandson of the soldier who had memories of World War II.,DP2,had memories of World War II,great-grandson,soldier,,,,,The waiter watched
+EN,520,232,78,The tenant greeted the colonel of the commander who had served for 20 years.,ambiguous,had served for 20 years,colonel,commander,,,,,The tenant greeted
+EN,521,233,78,The tenant greeted the commander of the recruit who had served for 20 years.,DP1,had served for 20 years,commander,recruit,,,,,The tenant greeted
+EN,522,234,78,The tenant greeted the recruit of the commander who had served for 20 years.,DP2,had served for 20 years,recruit,commander,,,,,The tenant greeted
+EN,523,235,79,The pupil teased the stockbroker of the nurse who was grandmother of twelve.,ambiguous,was grandmother of twelve,stockbroker,nurse,,,,,The pupil teased
+EN,524,236,79,The pupil teased the nurse of the mother-to-be who was grandmother of twelve.,DP1,was grandmother of twelve,nurse,mother-to-be,,,,,The pupil teased
+EN,525,237,79,The pupil teased the brother of the nurse who was grandmother of twelve.,DP2,was grandmother of twelve,brother,nurse,,,,,The pupil teased
+EN,526,238,80,The governor met the brother of the aristocrat who was running for mayor.,ambiguous,was running for mayor,brother,aristocrat,,,,,The governor met
+EN,527,239,80,The governor met the candidate of the sponsor who was running for mayor.,DP1,was running for mayor,candidate,sponsor,,,,,The governor met
+EN,528,240,80,The governor met the sponsor of the candidate who was running for mayor.,DP2,was running for mayor,sponsor,candidate,,,,,The governor met
+EN,529,241,81,The imam met the judge of the divorcee who signed the divorce papers yesterday.,ambiguous,signed the divorce papers yesterday,judge,divorcee,,,,,The imam met
+EN,530,242,81,The imam met the parent of the minor who signed the divorce papers yesterday.,DP1,signed the divorce papers yesterday,parent,minor,,,,,The imam met
+EN,531,243,81,The imam met the baby of the divorcee who signed the divorce papers yesterday.,DP2,signed the divorce papers yesterday,baby,divorcee,,,,,The imam met
+EN,532,244,82,The reporter interviewed the lawyer of the coach who had no criminal record.,ambiguous,had no criminal record,lawyer,coach,,,,,The reporter interviewed
+EN,533,245,82,The reporter interviewed the lawyer of the convict who had no criminal record.,DP1,had no criminal record,lawyer,convict,,,,,The reporter interviewed
+EN,534,246,82,The reporter interviewed the prisoner of the judge who had no criminal record.,DP2,had no criminal record,prisoner,judge,,,,,The reporter interviewed
+EN,535,247,83,The employee greeted the backer of the landlord who had a real estate empire.,ambiguous,had a real estate empire,backer,landlord,,,,,The employee greeted
+EN,536,248,83,The employee greeted the landlord of the pauper who had a real estate empire.,DP1,had a real estate empire,landlord,pauper,,,,,The employee greeted
+EN,537,249,83,The employee greeted the tenant of the landlord who had a real estate empire.,DP2,had a real estate empire,tenant,landlord,,,,,The employee greeted
+EN,538,250,84,Robert yelled at the assistant of the dentist who had examined thousands of teeth.,ambiguous,had examined thousands of teeth,assistant,dentist,,,,,Robert yelled at
+EN,539,251,84,Robert yelled at the dentist of the investor who had examined thousands of teeth.,DP1,had examined thousands of teeth,dentist,investor,,,,,Robert yelled at
+EN,540,252,84,Robert yelled at the priest of the dentist who had examined thousands of teeth.,DP2,had examined thousands of teeth,priest,dentist,,,,,Robert yelled at
+EN,541,253,85,The student met the editor of the playwright who was a bestselling author.,ambiguous,was a bestselling author,editor,playwright,,,,,The student met
+EN,542,254,85,The student met the acquaintance of the illiterate who was a bestselling author.,DP1,was a bestselling author,acquaintance,illiterate,,,,,The student met
+EN,543,255,85,The student met the baby of the playwright who was a bestselling author.,DP2,was a bestselling author,baby,playwright,,,,,The student met
+EN,544,256,86,The boss visited the friend of the warden who was constantly involved in graft.,ambiguous,was constantly involved in graft,friend,warden,,,,,The boss visited
+EN,545,257,86,The boss visited the warden of the prisoner who was constantly involved in graft.,DP1,was constantly involved in graft,warden,prisoner,,,,,The boss visited
+EN,546,258,86,The boss visited the prisoner of the warden who was constantly involved in graft.,DP2,was constantly involved in graft,prisoner,warden,,,,,The boss visited
+EN,547,259,87,The guest impressed the acolyte of the clown who didn't know his prayers.,ambiguous,didn't know his prayers,acolyte,clown,,,,,The guest impressed
+EN,548,260,87,The guest impressed the acolyte of the cleric who didn't know his prayers.,DP1,didn't know his prayers,acolyte,cleric,,,,,The guest impressed
+EN,549,261,87,The guest impressed the cleric of the acolyte who didn't know his prayers.,DP2,didn't know his prayers,cleric,acolyte,,,,,The guest impressed
+EN,550,262,88,The supplier liked the cousin of the dwarf who was monolingual.,ambiguous,was monolingual,cousin,dwarf,,,,,The supplier liked
+EN,551,263,88,The supplier liked the cousin of the interpreter who was monolingual.,DP1,was monolingual,cousin,interpreter,,,,,The supplier liked
+EN,552,264,88,The supplier liked the interpreter of the judge who was monolingual.,DP2,was monolingual,interpreter,judge,,,,,The supplier liked
+EN,553,265,89,The grandfather bothered the tutor of the king who could only speak english.,ambiguous,could only speak english,tutor,king,,,,,The grandfather bothered
+EN,554,266,89,The grandfather bothered the tutor of the polyglot who could only speak english.,DP1,could only speak english,tutor,polyglot,,,,,The grandfather bothered
+EN,555,267,89,The grandfather bothered the polyglot of the king who could only speak english.,DP2,could only speak english,polyglot,king,,,,,The grandfather bothered
+EN,556,268,90,The client missed the friend of the fireman who was the fraternity president.,ambiguous,was the fraternity president,friend,fireman,,,,,The client missed
+EN,557,269,90,The client missed the friend of the woman who was the fraternity president.,DP1,was the fraternity president,friend,woman,,,,,The client missed
+EN,558,270,90,The client missed the girlfriend of the fireman who was the fraternity president.,DP2,was the fraternity president,girlfriend,fireman,,,,,The client missed
+EN,559,271,91,The choirmaster smiled at the daughter of the neighbor who was a midwife.,ambiguous,was a midwife,daughter,neighbor,,,,,The choirmaster smiled at
+EN,560,272,91,The choirmaster smiled at the neighbor of the boy who was a midwife.,DP1,was a midwife,neighbor,boy,,,,,The choirmaster smiled at
+EN,561,273,91,The choirmaster smiled at the boy of the neighbor who was a midwife.,DP2,was a midwife,boy,neighbor,,,,,The choirmaster smiled at
+EN,562,274,92,The client missed the helper of the waiter who was best man at the wedding.,ambiguous,was best man at the wedding,helper,waiter,,,,,The client missed
+EN,563,275,92,The client missed the helper of the waitress who was best man at the wedding.,DP1,was best man at the wedding,helper,waitress,,,,,The client missed
+EN,564,276,92,The client missed the waitress of the helper who was best man at the wedding.,DP2,was best man at the wedding,waitress,helper,,,,,The client missed
+EN,565,277,93,The doctor met the admirer of the actor who ruled as king over a small country.,ambiguous,ruled as king over a small country,admirer,actor,,,,,The doctor met
+EN,566,278,93,The doctor met the lover of the actress who ruled as king over a small country.,DP1,ruled as king over a small country,lover,actress,,,,,The doctor met
+EN,567,279,93,The doctor met the mistress of the nobleman who ruled as king over a small country.,DP2,ruled as king over a small country,mistress,nobleman,,,,,The doctor met
+EN,568,280,94,Mr. Johnson visited the cousin of the mafioso who had dwarfism.,ambiguous,had dwarfism,cousin,mafioso,,,,,Mr. Johnson visited
+EN,569,281,94,Mr. Johnson visited the cousin of the giant who had dwarfism.,DP1,had dwarfism,cousin,giant,,,,,Mr. Johnson visited
+EN,570,282,94,Mr. Johnson visited the giant of the mafioso who had dwarfism.,DP2,had dwarfism,giant,mafioso,,,,,Mr. Johnson visited
+EN,571,283,95,The reporters interviewed the uncle of the speaker who had a PhD.,ambiguous,had a PhD,uncle,speaker,,,,,The reporters interviewed
+EN,572,284,95,The reporters interviewed the uncle of the preschooler who had a PhD.,DP1,had a PhD,uncle,preschooler,,,,,The reporters interviewed
+EN,573,285,95,The reporters interviewed the preschooler of the uncle who had a PhD.,DP2,had a PhD,preschooler,uncle,,,,,The reporters interviewed
+EN,574,286,96,The chancellor welcomed the camel-driver of the bedouin who lived in the desert.,ambiguous,lived in the desert,camel-driver,bedouin,,,,,The chancellor welcomed
+EN,575,287,96,The chancellor welcomed the correspondent of the fisherman who lived in the desert.,DP1,lived in the desert,correspondent,fisherman,,,,,The chancellor welcomed
+EN,576,288,96,The chancellor welcomed the financier of the camel-driver who lived in the desert.,DP2,lived in the desert,financier,camel-driver,,,,,The chancellor welcomed
+JP,577,1,1,医者がひげを伸ばしていた紳士の息子に会った。,ambiguous,ひげを伸ばしていた,息子,紳士,医者が,会った。,,,
+JP,578,2,1,医者がひげを伸ばしていた女性の息子に会った。,DP1,ひげを伸ばしていた,息子,女性,医者が,会った。,,,
+JP,579,3,1,医者がひげを伸ばしていた紳士の娘に会った。,DP2,ひげを伸ばしていた,娘,紳士,医者が,会った。,,,
+JP,580,4,2,ジョンソンさんがベビーカーに乗っていた赤ちゃんのいとこを見た。,ambiguous,ベビーカーに乗っていた,いとこ,赤ちゃん,ジョンソンさんが,見た。,,,
+JP,581,5,2,ジョンソンさんがベビーカーに乗っていた母親の赤ちゃんを見た。,DP1,ベビーカーに乗っていた,赤ちゃん,母親,ジョンソンさんが,見た。,,,
+JP,582,6,2,ジョンソンさんがベビーカーに乗っていた赤ちゃんの母親を見た。,DP2,ベビーカーに乗っていた,母親,赤ちゃん,ジョンソンさんが,見た。,,,
+JP,583,7,3,レポーターが歩き始めの段階であった弟の友達を観察した。,ambiguous,歩き始めの段階であった,友達,弟,レポーターが,観察した。,,,
+JP,584,8,3,レポーターが歩き始めの段階であった登山家の幼児を観察した,DP1,歩き始めの段階であった,幼児,登山家,レポーターが,観察した,,,
+JP,585,9,3,レポーターが歩き始めの段階であった幼児の父親を観察した。,DP2,歩き始めの段階であった,父親,幼児,レポーターが,観察した。,,,
+JP,586,10,4,ジョンが車を運転していた兄の友人を可愛がった。,ambiguous,車を運転していた,友人,兄,ジョンが,った。,,,
+JP,587,11,4,ジョンが車を運転していた赤ん坊の兄を可愛がった。,DP1,車を運転していた,兄を可愛,赤ん坊,ジョンが,った。,,,
+JP,588,12,4,ジョンが車を運転していた兄の赤ん坊を可愛がった。,DP2,車を運転していた,赤ん坊を可愛,兄,ジョンが,った。,,,
+JP,589,13,5,花子が試験を受けている男の兄を見た。,ambiguous,試験を受けている,兄,男,花子が,見た。,,,
+JP,590,14,5,花子が試験を受けている赤ちゃんの姉を見た。,DP1,試験を受けている,姉,赤ちゃん,花子が,見た。,,,
+JP,591,15,5,花子が試験を受けている姉の赤ちゃんを見た。,DP2,試験を受けている,赤ちゃん,姉,花子が,見た。,,,
+JP,592,16,6,ジョンがマラソンを走っていた運動選手のおじさんを無視した。,ambiguous,マラソンを走っていた,おじさん,運動選手,ジョンが,無視した。,,,
+JP,593,17,6,ジョンがマラソンを走っていた幼稚園児のおじさんを無視した。,DP1,マラソンを走っていた,おじさん,幼稚園児,ジョンが,無視した。,,,
+JP,594,18,6,ジョンがマラソンを走っていたおじさんの幼児を無視した。,DP2,マラソンを走っていた,幼児,おじさん,ジョンが,無視した。,,,
+JP,595,19,7,みんながはいはいしていた赤ちゃんの友達を知っている。,ambiguous,はいはいしていた,友達,赤ちゃん,みんなが,知っている。,,,
+JP,596,20,7,みんながはいはいしていた世話人の赤ちゃんを知っている。,DP1,はいはいしていた,赤ちゃん,世話人,みんなが,知っている。,,,
+JP,597,21,7,みんながはいはいしていた赤ちゃんの世話人を知っている。,DP2,はいはいしていた,世話人,赤ちゃん,みんなが,知っている。,,,
+JP,598,22,8,エミリーが運転免許を取っていたティーンエイジャーのおばあさんを怒らせた。,ambiguous,運転免許を取っていた,おばあさん,ティーンエイジャー,エミリーが,怒らせた。,,,
+JP,599,23,8,エミリーが運転免許を取っていた赤ちゃんのおばあさんを怒らせた。,DP1,運転免許を取っていた,おばあさん,赤ちゃん,エミリーが,怒らせた。,,,
+JP,600,24,8,エミリーが運転免許を取っていたおばあさんの赤ちゃんを怒らせた。,DP2,運転免許を取っていた,赤ちゃん,おばあさん,エミリーが,怒らせた。,,,
+JP,601,25,9,ミラーさんが幼稚園に通い始める孫の友達を無視した。,ambiguous,幼稚園に通い始める,友達,孫,ミラーさんが,無視した。,,,
+JP,602,26,9,ミラーさんが幼稚園に通い始める男友達の孫を無視した。,DP1,幼稚園に通い始める,孫,男友達,ミラーさんが,無視した。,,,
+JP,603,27,9,ミラーさんが幼稚園に通い始める孫の先生を無視した。,DP2,幼稚園に通い始める,先生,孫,ミラーさんが,無視した。,,,
+JP,604,28,10,マリアが大学に通っていたおばさんの親友を知っている。,ambiguous,大学に通っていた,親友,おばさん,マリアが,知っている。,,,
+JP,605,29,10,マリアが大学に通っていた子供のおばさんを知っている。,DP1,大学に通っていた,おばさん,子供,マリアが,知っている。,,,
+JP,606,30,10,マリアが大学に通っていたおばさんの子供を知っている。,DP2,大学に通っていた,子供,おばさん,マリアが,知っている。,,,
+JP,607,31,11,ルイーズがレイブに参加していたおじさんの友達を認識した。,ambiguous,レイブに参加していた,友達,おじさん,ルイーズが,認識した。,,,
+JP,608,32,11,ルイーズがレイブに参加していた幼児のおじさんを認識した。,DP1,レイブに参加していた,おじさん,幼児,ルイーズが,認識した。,,,
+JP,609,33,11,ルイーズがレイブに参加していたおじさんの幼児を認識した。,DP2,レイブに参加していた,幼児,おじさん,ルイーズが,認識した。,,,
+JP,610,34,12,ベンが言葉を覚え始めた赤ちゃんの弟にインタビューした。,ambiguous,言葉を覚え始めた,弟,赤ちゃん,ベンが,インタビューした。,,,
+JP,611,35,12,ベンが言葉を覚え始めた母親の赤ちゃんにインタビューした。,DP1,言葉を覚え始めた,赤ちゃん,母親,ベンが,インタビューした。,,,
+JP,612,36,12,ベンが言葉を覚え始めた赤ちゃんの母親にインタビューした。,DP2,言葉を覚え始めた,母親,赤ちゃん,ベンが,インタビューした。,,,
+JP,613,37,13,友達が微分積分をしていた先生のおじいさんに挨拶した。,ambiguous,微分積分をしていた,おじいさん,先生,友達が,挨拶した。,,,
+JP,614,38,13,友達が微分積分をしていた新生児のおじいさんに挨拶した。,DP1,微分積分をしていた,おじいさん,新生児,友達が,挨拶した。,,,
+JP,615,39,13,友達が微分積分をしていたおじいさんの新生児に挨拶した。,DP2,微分積分をしていた,新生児,おじいさん,友達が,挨拶した。,,,
+JP,616,40,14,ウェイターが退職の準備をしていた祖母の友人を見た。,ambiguous,退職の準備をしていた,友人,祖母,ウェイターが,見た。,,,
+JP,617,41,14,ウェイターが退職の準備をしていた子供の祖母を見た。,DP1,退職の準備をしていた,祖母,子供,ウェイターが,見た。,,,
+JP,618,42,14,ウェイターが退職の準備をしていた祖母の子供を見た。,DP2,退職の準備をしていた,子供,祖母,ウェイターが,見た。,,,
+JP,619,43,15,借家人がおっぱいを飲んでいる子供の妹に挨拶した。,ambiguous,おっぱいを飲んでいる,妹,子供,借家人が,挨拶した。,,,
+JP,620,44,15,借家人がおっぱいを飲んでいる継父の子供に挨拶した。,DP1,おっぱいを飲んでいる,子供,継父,借家人が,挨拶した。,,,
+JP,621,45,15,借家人がおっぱいを飲んでいる子供の継父に挨拶した。,DP2,おっぱいを飲んでいる,継父,子供,借家人が,挨拶した。,,,
+JP,622,46,16,生徒が宿題で苦労していた学生の友達をからかった。,ambiguous,宿題で苦労していた,友達,学生,生徒が,からかった。,,,
+JP,623,47,16,生徒が宿題で苦労していた教授の学生をからかった。,DP1,宿題で苦労していた,学生,教授,生徒が,からかった。,,,
+JP,624,48,16,生徒が宿題で苦労していた学生の教授をからかった。,DP2,宿題で苦労していた,教授,学生,生徒が,からかった。,,,
+JP,625,49,17,学長が経営判断をしていた社長の同僚を迎えた。,ambiguous,経営判断をしていた,同僚,社長,学長が,迎えた。,,,
+JP,626,50,17,学長が経営判断をしていた助手の社長を迎えた。,DP1,経営判断をしていた,社長,助手,学長が,迎えた。,,,
+JP,627,51,17,学長が経営判断をしていた社長の助手を迎えた。,DP2,経営判断をしていた,助手,社長,学長が,迎えた。,,,
+JP,628,52,18,教育長が生徒を停学処分にしていた園長の代理に会った。,ambiguous,生徒を停学処分にしていた,代理,園長,教育長が,会った。,,,
+JP,629,53,18,教育長が生徒を停学処分にしていた園児の園長に会った。,DP1,生徒を停学処分にしていた,園長,園児,教育長が,会った。,,,
+JP,630,54,18,教育長が生徒を停学処分にしていた園長の園児に会った。,DP2,生徒を停学処分にしていた,園児,園長,教育長が,会った。,,,
+JP,631,55,19,住職が全クラスを落第させてしまった教師の代理人に会った。,ambiguous,全クラスを落第させてしまった,代理人,教師,住職が,会った。,,,
+JP,632,56,19,住職が全クラスを落第させてしまった生徒の教師に会った。,DP1,全クラスを落第させてしまった,教師,生徒,住職が,会った。,,,
+JP,633,57,19,住職が全クラスを落第させてしまった教師の生徒に会った。,DP2,全クラスを落第させてしまった,生徒,教師,住職が,会った。,,,
+JP,634,58,20,面接官が飛行機を操縦していた機長の副操縦士に支払った。,ambiguous,飛行機を操縦していた,副操縦士,機長,面接官が,支払った。,,,
+JP,635,59,20,面接官が飛行機を操縦していた乗務員の機長に支払った。,DP1,飛行機を操縦していた,機長,乗務員,面接官が,支払った。,,,
+JP,636,60,20,面接官が飛行機を操縦していた機長の乗務員に支払った。,DP2,飛行機を操縦していた,乗務員,機長,面接官が,支払った。,,,
+JP,637,61,21,社員が会社を率いていた管理者の同僚に挨拶した。,ambiguous,会社を率いていた,同僚,管理者,社員が,挨拶した。,,,
+JP,638,62,21,社員が会社を率いていたレジ係の管理者に挨拶した。,DP1,会社を率いていた,管理者,レジ係,社員が,挨拶した。,,,
+JP,639,63,21,社員が会社を率いていた管理者の若者に挨拶した。,DP2,会社を率いていた,若者,管理者,社員が,挨拶した。,,,
+JP,640,64,22,太郎が肖像画を描いていた画家の先生に怒鳴った。,ambiguous,肖像画を描いていた,先生,画家,太郎が,怒鳴った。,,,
+JP,641,65,22,太郎が肖像画を描いていたモデルの画家に怒鳴った。,DP1,肖像画を描いていた,画家,モデル,太郎が,怒鳴った。,,,
+JP,642,66,22,太郎が肖像画を描いていた画家のモデルに怒鳴った。,DP2,肖像画を描いていた,モデル,画家,太郎が,怒鳴った。,,,
+JP,643,67,23,学生が授業を管理していた先生の同僚に会った。,ambiguous,授業を管理していた,同僚,先生,学生が,会った。,,,
+JP,644,68,23,学生が授業を管理していた生徒の先生に会った。,DP1,授業を管理していた,先生,生徒,学生が,会った。,,,
+JP,645,69,23,学生が授業を管理していた先生の生徒に会った。,DP2,授業を管理していた,生徒,先生,学生が,会った。,,,
+JP,646,70,24,上司が事件を起訴していた検察官の弁護士を訪ねた。,ambiguous,事件を起訴していた,弁護士,検察官,上司が,訪ねた。,,,
+JP,647,71,24,上司が事件を起訴していた依頼人の弁護士を訪ねた。,DP1,事件を起訴していた,弁護士,依頼人,上司が,訪ねた。,,,
+JP,648,72,24,上司が事件を起訴していた弁護士の依頼人を訪ねた。,DP2,事件を起訴していた,依頼人,弁護士,上司が,訪ねた。,,,
+JP,649,73,25,レフェリーがゴールを守っていた選手のチームメイトに警告した。,ambiguous,ゴールを守っていた,チームメイト,選手,レフェリーが,警告した。,,,
+JP,650,74,25,レフェリーがゴールを守っていたコーチの選手に警告した。,DP1,ゴールを守っていた,選手,コーチ,レフェリーが,警告した。,,,
+JP,651,75,25,レフェリーがゴールを守っていた選手のコーチに警告した。,DP2,ゴールを守っていた,コーチ,選手,レフェリーが,警告した。,,,
+JP,652,76,26,司会者がソフトウェア開発で生計を立てていたプログラマーの同僚を侮辱した。,ambiguous,ソフトウェア開発で生計を立てていた,同僚,プログラマー,司会者が,侮辱した。,,,
+JP,653,77,26,司会者がソフトウェア開発で生計を立てていた弁護士のプログラマーを侮辱した。,DP1,ソフトウェア開発で生計を立てていた,プログラマー,弁護士,司会者が,侮辱した。,,,
+JP,654,78,26,司会者がソフトウェア開発で生計を立てていたプログラマーの弁護士を侮辱した。,DP2,ソフトウェア開発で生計を立てていた,弁護士,プログラマー,司会者が,侮辱した。,,,
+JP,655,79,27,客が毎日エンジンを修理していた整備士の仲間を感心させた。,ambiguous,毎日エンジンを修理していた,仲間,整備士,客が,感心させた。,,,
+JP,656,80,27,客が毎日エンジンを修理していた医者の整備士を感心させた。,DP1,毎日エンジンを修理していた,整備士,医者,客が,感心させた。,,,
+JP,657,81,27,客が毎日エンジンを修理していた整備士の医者を感心させた。,DP2,毎日エンジンを修理していた,医者,整備士,客が,感心させた。,,,
+JP,658,82,28,語り手が王子になる運命である少年のいとこに尋ねた。,ambiguous,王子になる,いとこ,運命である少年,語り手が,尋ねた。,,,
+JP,659,83,28,語り手が王子になる運命である母の少年に尋ねた。,DP1,王子になる,少年,運命である母,語り手が,尋ねた。,,,
+JP,660,84,28,語り手が王子になる運命である少年の母に尋ねた。,DP2,王子になる,母,運命である少年,語り手が,尋ねた。,,,
+JP,661,85,29,祖父がどっしりとしたバリトンの声を持つ歌手の甥を困らせた。,ambiguous,どっしりとしたバリトンの声を持つ,甥,歌手,祖父が,困らせた。,,,
+JP,662,86,29,祖父がどっしりとしたバリトンの声を持つソプラノの甥を困らせた。,DP1,どっしりとしたバリトンの声を持つ,甥,ソプラノ,祖父が,困らせた。,,,
+JP,663,87,29,祖父がどっしりとしたバリトンの声を持つ甥の伯母を困らせた。,DP2,どっしりとしたバリトンの声を持つ,伯母,甥,祖父が,困らせた。,,,
+JP,664,88,30,依頼人が毎日髭を剃る床屋の孫を見逃した。,ambiguous,毎日髭を剃る,孫,床屋,依頼人が,見逃した。,,,
+JP,665,89,30,依頼人が毎日髭を剃る女性の孫を見逃した。,DP1,毎日髭を剃る,孫,女性,依頼人が,見逃した。,,,
+JP,666,90,30,依頼人が毎日髭を剃る年寄りの孫娘を見逃した。,DP2,毎日髭を剃る,孫娘,年寄り,依頼人が,見逃した。,,,
+JP,667,91,31,合唱指導者が修道士になった信者の知人に笑った。,ambiguous,修道士になった,知人,信者,合唱指導者が,笑った。,,,
+JP,668,92,31,合唱指導者が修道士になった女性の知人に笑った。,DP1,修道士になった,知人,女性,合唱指導者が,笑った。,,,
+JP,669,93,31,合唱指導者が修道士になった知人のガールフレンドに笑った。,DP2,修道士になった,ガールフレンド,知人,合唱指導者が,笑った。,,,
+JP,670,94,32,依頼人が妊娠した花嫁の妹を恋しく思った。,ambiguous,妊娠した,妹,花嫁,依頼人が,恋しく思った。,,,
+JP,671,95,32,依頼人が妊娠した新郎の花嫁を恋しく思った。,DP1,妊娠した,花嫁,新郎,依頼人が,恋しく思った。,,,
+JP,672,96,32,依頼人が妊娠した花嫁の新郎を恋しく思った。,DP2,妊娠した,新郎,花嫁,依頼人が,恋しく思った。,,,
+JP,673,97,33,医者が口ひげを生やした飼育員の甥に会った。,ambiguous,口ひげを生やした,甥,飼育員,医者が,会った。,,,
+JP,674,98,33,医者が口ひげを生やした花嫁の甥に会った。,DP1,口ひげを生やした,甥,花嫁,医者が,会った。,,,
+JP,675,99,33,医者が口ひげを生やした甥の花嫁に会った。,DP2,口ひげを生やした,花嫁,甥,医者が,会った。,,,
+JP,676,100,34,山田さんが産気づいた女性の看護師を訪ねた。,ambiguous,産気づいた,看護師,女性,山田さんが,訪ねた。,,,
+JP,677,101,34,山田さんが産気づいた王子の看護師を訪ねた。,DP1,産気づいた,看護師,王子,山田さんが,訪ねた。,,,
+JP,678,102,34,山田さんが産気づいた看護師の王子を訪ねた。,DP2,産気づいた,王子,看護師,山田さんが,訪ねた。,,,
+JP,679,103,35,記者たちが髭を生やした筋肉男の父親にインタビューした。,ambiguous,髭を生やした,父親,筋肉男,記者たちが,インタビューした。,,,
+JP,680,104,35,記者たちが髭を生やした乳児の父親にインタビューした。,DP1,髭を生やした,父親,乳児,記者たちが,インタビューした。,,,
+JP,681,105,35,記者たちが髭を生やした父親の乳児にインタビューした。,DP2,髭を生やした,乳児,父親,記者たちが,インタビューした。,,,
+JP,682,106,36,太郎が妊娠している妻の使用人を嫌った。,ambiguous,妊娠している,使用人,妻,太郎が,嫌った。,,,
+JP,683,107,36,太郎が妊娠している王の妾を嫌った。,DP1,妊娠している,妾,王,太郎が,嫌った。,,,
+JP,684,108,36,太郎が妊娠しているダンサーの夫を嫌った。,DP2,妊娠している,夫,ダンサー,太郎が,嫌った。,,,
+JP,685,109,37,マリアが生理中だったカウガールの母を愛した。,ambiguous,生理中だ,母,ったカウガール,マリアが,愛した。,,,
+JP,686,110,37,マリアが生理中だった男子の叔母を愛した。,DP1,生理中だ,叔母,った男子,マリアが,愛した。,,,
+JP,687,111,37,マリアが生理中だった女性の甥を愛した。,DP2,生理中だ,甥,った女性,マリアが,愛した。,,,
+JP,688,112,38,太郎が子供を産んだ魔女の姪を好んだ。,ambiguous,子供を産んだ,姪,魔女,太郎が,好んだ。,,,
+JP,689,113,38,太郎が子供を産んだ家長の姪を好んだ。,DP1,子供を産んだ,姪,家長,太郎が,好んだ。,,,
+JP,690,114,38,太郎が子供を産んだ姪の家長を好んだ。,DP2,子供を産んだ,家長,姪,太郎が,好んだ。,,,
+JP,691,115,39,皆が出産を控えた貴婦人の妹を知っている。,ambiguous,出産を控えた,妹,貴婦人,皆が,知っている。,,,
+JP,692,116,39,皆が出産を控えた少年の妹を知っている。,DP1,出産を控えた,妹,少年,皆が,知っている。,,,
+JP,693,117,39,皆が出産を控えた貴婦人の兄を知っている。,DP2,出産を控えた,兄,貴婦人,皆が,知っている。,,,
+JP,694,118,40,エミが女性を妊娠させてしまった男の甥に怒った。,ambiguous,女性を妊娠させてしまった,甥,男,エミが,怒った。,,,
+JP,695,119,40,エミが女性を妊娠させてしまった婦人の甥に怒った。,DP1,女性を妊娠させてしまった,甥,婦人,エミが,怒った。,,,
+JP,696,120,40,エミが女性を妊娠させてしまった男の姪に怒った。,DP2,女性を妊娠させてしまった,姪,男,エミが,怒った。,,,
+JP,697,121,41,田中さんが尼になった女性の姪を無視した。,ambiguous,尼になった,姪,女性,田中さんが,無視した。,,,
+JP,698,122,41,田中さんが尼になった紳士の姪を無視した。,DP1,尼になった,姪,紳士,田中さんが,無視した。,,,
+JP,699,123,41,田中さんが尼になった女性の叔父を無視した。,DP2,尼になった,叔父,女性,田中さんが,無視した。,,,
+JP,700,124,42,マリアが精子提供者になった海兵の祖父を知っている。,ambiguous,精子提供者になった,祖父,海兵,マリアが,知っている。,,,
+JP,701,125,42,マリアが精子提供者になった保母の祖父を知っている。,DP1,精子提供者になった,祖父,保母,マリアが,知っている。,,,
+JP,702,126,42,マリアが精子提供者になった海兵の彼女を知っている。,DP2,精子提供者になった,彼女,海兵,マリアが,知っている。,,,
+JP,703,127,43,ルイーズが乳母になった祖母の娘を認識した。,ambiguous,乳母になった,娘,祖母,ルイーズが,認識した。,,,
+JP,704,128,43,ルイーズが乳母になった男の娘を認識した。,DP1,乳母になった,娘,男,ルイーズが,認識した。,,,
+JP,705,129,43,ルイーズが乳母になった女の父を認識した。,DP2,乳母になった,父,女,ルイーズが,認識した。,,,
+JP,706,130,44,ベンが前立腺検査を受けた男の父にインタビューした。,ambiguous,前立腺検査を受けた,父,男,ベンが,インタビューした。,,,
+JP,707,131,44,ベンが前立腺検査を受けた少女の父にインタビューした。,DP1,前立腺検査を受けた,父,少女,ベンが,インタビューした。,,,
+JP,708,132,44,ベンが前立腺検査を受けた男の娘にインタビューした。,DP2,前立腺検査を受けた,娘,男,ベンが,インタビューした。,,,
+JP,709,133,45,友達が更年期だったおばさんの女友達を好んだ。,ambiguous,更年期だった,おばさん,女友達,友達が,好んだ。,,,
+JP,710,134,45,友達が更年期だった男の子のおばさんを好んだ。,DP1,更年期だった,おばさん,男の子,友達が,好んだ。,,,
+JP,711,135,45,友達が更年期だったおばさんのおいを好んだ。,DP2,更年期だった,おい,おばさん,友達が,好んだ。,,,
+JP,712,136,46,ウェイターが睾丸癌だった男の兄を見た。,ambiguous,睾丸癌だった,兄,男,ウェイターが,見た。,,,
+JP,713,137,46,ウェイターが睾丸癌だった女性の兄を見た。,DP1,睾丸癌だった,兄,女性,ウェイターが,見た。,,,
+JP,714,138,46,ウェイターが睾丸癌だった男の姉を見た。,DP2,睾丸癌だった,姉,男,ウェイターが,見た。,,,
+JP,715,139,47,住人が代理母になった姫君の友達に挨拶した。,ambiguous,代理母になった,友達,姫君,住人が,挨拶した。,,,
+JP,716,140,47,住人が代理母になった公爵の妻に挨拶した。,DP1,代理母になった,妻,公爵,住人が,挨拶した。,,,
+JP,717,141,47,住人が代理母になった姫君の夫に挨拶した。,DP2,代理母になった,夫,姫君,住人が,挨拶した。,,,
+JP,718,142,48,生徒がテストを採点していた教授の先生をからかった。,ambiguous,テストを採点していた,先生,教授,生徒が,からかった。,,,
+JP,719,143,48,生徒がテストを採点していた幼児の先生をからかった。,DP1,テストを採点していた,先生,幼児,生徒が,からかった。,,,
+JP,720,144,48,生徒がテストを採点していた先生の幼児をからかった。,DP2,テストを採点していた,幼児,先生,生徒が,からかった。,,,
+JP,721,145,49,学長が年金をもらっていた教師の友人を歓迎した。,ambiguous,年金をもらっていた,友人,教師,学長が,歓迎した。,,,
+JP,722,146,49,学長が年金をもらっていた幼児の曾祖父を歓迎した。,DP1,年金をもらっていた,曾祖父,幼児,学長が,歓迎した。,,,
+JP,723,147,49,学長が年金をもらっていた曾祖父の幼児を歓迎した。,DP2,年金をもらっていた,幼児,曾祖父,学長が,歓迎した。,,,
+JP,724,148,50,後援者が思春期を迎えている青少年ーの幼なじみに会った。,ambiguous,思春期を迎えている,幼なじみ,青少年ー,後援者が,会った。,,,
+JP,725,149,50,後援者が思春期を迎えている長老のティーンに会った。,DP1,思春期を迎えている,ティーン,長老,後援者が,会った。,,,
+JP,726,150,50,後援者が思春期を迎えているティーンの祖父に会った。,DP2,思春期を迎えている,祖父,ティーン,後援者が,会った。,,,
+JP,727,151,51,住職が歯が生え始めた幼児のいとこに会った。,ambiguous,歯が生え始めた,いとこ,幼児,住職が,会った。,,,
+JP,728,152,51,住職が歯が生え始めた父親の新生児に会った。,DP1,歯が生え始めた,新生児,父親,住職が,会った。,,,
+JP,729,153,51,住職が歯が生え始めた新生児の父親に会った。,DP2,歯が生え始めた,父親,新生児,住職が,会った。,,,
+JP,730,154,52,歯の妖精が数え方を学び始めている幼児の友達に支払った。,ambiguous,数え方を学び始めている,友達,幼児,歯の妖精が,支払った。,,,
+JP,731,155,52,歯の妖精が数え方を学び始めている年金者の孫に支払った。,DP1,数え方を学び始めている,孫,年金者,歯の妖精が,支払った。,,,
+JP,732,156,52,歯の妖精が数え方を学び始めている子供の先生に支払った。,DP2,数え方を学び始めている,先生,子供,歯の妖精が,支払った。,,,
+JP,733,157,53,従業員が結婚記念日を祝っていた曾祖母の仲間に挨拶した。,ambiguous,結婚記念日を祝っていた,仲間,曾祖母,従業員が,挨拶した。,,,
+JP,734,158,53,従業員が結婚記念日を祝っていた年少者の曾祖母に挨拶した。,DP1,結婚記念日を祝っていた,曾祖母,年少者,従業員が,挨拶した。,,,
+JP,735,159,53,従業員が結婚記念日を祝っていた曾祖母の年少者に挨拶した。,DP2,結婚記念日を祝っていた,年少者,曾祖母,従業員が,挨拶した。,,,
+JP,736,160,54,太郎が老人ホームに住んでいた伯爵の用人を怒鳴った。,ambiguous,老人ホームに住んでいた,用人,伯爵,太郎が,怒鳴った。,,,
+JP,737,161,54,太郎が老人ホームに住んでいた若者の大叔母を怒鳴った。,DP1,老人ホームに住んでいた,大叔母,若者,太郎が,怒鳴った。,,,
+JP,738,162,54,太郎が老人ホームに住んでいた伯爵の大甥を怒鳴った。,DP2,老人ホームに住んでいた,大甥,伯爵,太郎が,怒鳴った。,,,
+JP,739,163,55,生徒がトイレトレーニングをしていた幼児の弟に会った。,ambiguous,トイレトレーニングをしていた,弟,幼児,生徒が,会った。,,,
+JP,740,164,55,生徒がトイレトレーニングをしていた上司の幼児に会った。,DP1,トイレトレーニングをしていた,幼児,上司,生徒が,会った。,,,
+JP,741,165,55,生徒がトイレトレーニングをしていた幼児の父親に会った。,DP2,トイレトレーニングをしていた,父親,幼児,生徒が,会った。,,,
+JP,742,166,56,病院長が手術を行っていた心臓専門医の医師を訪問した。,ambiguous,手術を行っていた,医師,心臓専門医,病院長が,訪問した。,,,
+JP,743,167,56,病院長が手術を行っていた赤ちゃんの医師を訪問した。,DP1,手術を行っていた,医師,赤ちゃん,病院長が,訪問した。,,,
+JP,744,168,56,病院長が手術を行っていた医師の赤ちゃんを訪問した。,DP2,手術を行っていた,赤ちゃん,医師,病院長が,訪問した。,,,
+JP,745,169,57,医務総監がようやく父親になった歯科医の同僚に警告した。,ambiguous,ようやく父親になった,同僚,歯科医,医務総監が,警告した。,,,
+JP,746,170,57,医務総監がようやく父親になった看護婦の同僚に警告した。,DP1,ようやく父親になった,同僚,看護婦,医務総監が,警告した。,,,
+JP,747,171,57,医務総監がようやく父親になった同僚の看護婦に警告した。,DP2,ようやく父親になった,看護婦,同僚,医務総監が,警告した。,,,
+JP,748,172,58,ホストがウェイトレスとして働いていた道化師の友人を侮辱した。,ambiguous,ウェイトレスとして働いていた,友人,道化師,ホストが,侮辱した。,,,
+JP,749,173,58,ホストがウェイトレスとして働いていた少年の友人を侮辱した。,DP1,ウェイトレスとして働いていた,友人,少年,ホストが,侮辱した。,,,
+JP,750,174,58,ホストがウェイトレスとして働いていた女性の甥を侮辱した。,DP2,ウェイトレスとして働いていた,甥,女性,ホストが,侮辱した。,,,
+JP,751,175,59,客が王になった男の親族を感心させた。,ambiguous,王になった,親族,男,客が,感心させた。,,,
+JP,752,176,59,客が王になった少女の親族を感心させた。,DP1,王になった,親族,少女,客が,感心させた。,,,
+JP,753,177,59,客が王になった親族の妻を感心させた。,DP2,王になった,妻,親族,客が,感心させた。,,,
+JP,754,178,60,供給者が美人コンテストに出場した美人の友達を好んだ。,ambiguous,美人コンテストに出場した,友達,美人,供給者が,好んだ。,,,
+JP,755,179,60,供給者が美人コンテストに出場した紳士の娘を好んだ。,DP1,美人コンテストに出場した,娘,紳士,供給者が,好んだ。,,,
+JP,756,180,60,供給者が美人コンテストに出場した美人の息子を好んだ。,DP2,美人コンテストに出場した,息子,美人,供給者が,好んだ。,,,
+JP,757,181,61,祖父が妻帯せずに過ごした老人の同級生を悩ました。,ambiguous,妻帯せずに過ごした,同級生,老人,祖父が,悩ました。,,,
+JP,758,182,61,祖父が妻帯せずに過ごした妻の同級生を悩ました。,DP1,妻帯せずに過ごした,同級生,妻,祖父が,悩ました。,,,
+JP,759,183,61,祖父が妻帯せずに過ごした同級生の妹を悩ました。,DP2,妻帯せずに過ごした,妹,同級生,祖父が,悩ました。,,,
+JP,760,184,62,クライアントが領主として君臨する継父の隣人を見逃した。,ambiguous,領主として君臨す,隣人,継父,クライアントが,見逃した。,,,
+JP,761,185,62,クライアントが領主として君臨する令嬢の崇拝者を見逃した。,DP1,領主として君臨す,崇拝者,令嬢,クライアントが,見逃した。,,,
+JP,762,186,62,クライアントが領主として君臨する強者の令嬢を見逃した。,DP2,領主として君臨す,令嬢,強者,クライアントが,見逃した。,,,
+JP,763,187,63,合唱指揮者が嫁取りをしなかった騎士の従者に笑顔を向けた。,ambiguous,嫁取りをしなかった,従者,騎士,合唱指揮者が,に笑顔を向けた。,,,
+JP,764,188,63,合唱指揮者が嫁取りをしなかった女性のパートナーに笑顔を向けた。,DP1,嫁取りをしなかった,パートナー,女性,合唱指揮者が,に笑顔を向けた。,,,
+JP,765,189,63,合唱指揮者が嫁取りをしなかった騎士のガールフレンドに笑顔を向けた。,DP2,嫁取りをしなかった,ガールフレンド,騎士,合唱指揮者が,に笑顔を向けた。,,,
+JP,766,190,64,依頼人が寡夫になった管理者の同僚を見逃した。,ambiguous,寡夫になった,同僚,管理者,依頼人が,見逃した。,,,
+JP,767,191,64,依頼人が寡夫になった少女の同僚を見逃した。,DP1,寡夫になった,同僚,少女,依頼人が,見逃した。,,,
+JP,768,192,64,依頼人が寡夫になった同僚の娘を見逃した。,DP2,寡夫になった,娘,同僚,依頼人が,見逃した。,,,
+JP,769,193,65,医者がくノ一として密命を遂行していた未亡人の裁縫師に会った。,ambiguous,くノ一として密命を遂行していた,裁縫師,未亡人,医者が,会った。,,,
+JP,770,194,65,医者がくノ一として密命を遂行していた少年の味方に会った。,DP1,くノ一として密命を遂行していた,味方,少年,医者が,会った。,,,
+JP,771,195,65,医者がくノ一として密命を遂行していた味方の息子に会った。,DP2,くノ一として密命を遂行していた,息子,味方,医者が,会った。,,,
+JP,772,196,66,田中さんが王女として戴冠された仲間の妻を訪問した。,ambiguous,王女として戴冠された,妻,仲間,田中さんが,訪問した。,,,
+JP,773,197,66,田中さんが王女として戴冠された少年の仲間を訪問した。,DP1,王女として戴冠された,仲間,少年,田中さんが,訪問した。,,,
+JP,774,198,66,田中さんが王女として戴冠された仲間の夫を訪問した。,DP2,王女として戴冠された,夫,仲間,田中さんが,訪問した。,,,
+JP,775,199,67,ジョンが長年そこに働いた分析者の同僚を軽蔑した。,ambiguous,長年そこに働いた,同僚,投資家,ジョンが,軽蔑した。,,,
+JP,776,200,67,ジョンが長年そこに働いた新人の同僚を軽蔑した。,DP1,長年そこに働いた,同僚,新人,ジョンが,軽蔑した。,,,
+JP,777,201,67,ジョンが長年そこに働いたベテランの見習いを軽蔑した。,DP2,長年そこに働いた,見習い,ベテラン,ジョンが,軽蔑した。,,,
+JP,778,202,68,マリアが長年CEOだった大富豪の隣人を愛した。,ambiguous,長年CEOだった,隣人,大富豪,マリアが,愛した。,,,
+JP,779,203,68,マリアが長年CEOだった高校生の隣人を愛した。,DP1,長年CEOだった,隣人,高校生,マリアが,愛した。,,,
+JP,780,204,68,マリアが長年CEOだった隣人の高校生を愛した。,DP2,長年CEOだった,高校生,隣人,マリアが,愛した。,,,
+JP,781,205,69,タロウが30年経験があるマラソン選手のコーチを愛していた。,ambiguous,30年経験がある,コーチ,マラソン選手,タロウが,愛していた。,,,
+JP,782,206,69,タロウが30年経験がある指導者の見習いを愛していた。,DP2,30年経験がある,見習い,指導者,タロウが,愛していた。,,,
+JP,783,207,69,タロウが30年経験がある初心者の指導者を愛していた。,DP1,30年経験がある,指導者,初心者,タロウが,愛していた。,,,
+JP,784,208,70,全員が主要な研究プロジェクトを率いる科学者の上司を知っている。,ambiguous,主要な研究プロジェクトを率いる,上司,科学者,全員が,知っている。,,,
+JP,785,209,70,全員が主要な研究プロジェクトを率いる研修生の上司を知っている。,DP1,主要な研究プロジェクトを率いる,上司,研修生,全員が,知っている。,,,
+JP,786,210,70,全員が主要な研究プロジェクトを率いる上司の研修生を知っている。,DP2,主要な研究プロジェクトを率いる,研修生,上司,全員が,知っている。,,,
+JP,787,211,71,エミリーがオリンピック金メダルを獲得した運動員の指導者を怒らせた。,ambiguous,オリンピック金メダルを獲得した,指導者,運動員,エミリーが,怒らせた。,,,
+JP,788,212,71,エミリーがオリンピック金メダルを獲得した素人のコーチを怒らせた。,DP1,オリンピック金メダルを獲得した,コーチ,素人,エミリーが,怒らせた。,,,
+JP,789,213,71,エミリーがオリンピック金メダルを獲得したコーチの素人を怒らせた。,DP2,オリンピック金メダルを獲得した,素人,コーチ,エミリーが,怒らせた。,,,
+JP,790,214,72,タナカさんが退職しようとしていた上司の友人を無視した。,ambiguous,退職しようとしていた,友人,上司,タナカさんが,無視した。,,,
+JP,791,215,72,タナカさんが退職しようとしていた上司の研修生を無視した。,DP2,退職しようとしていた,研修生,上司,タナカさんが,無視した。,,,
+JP,792,216,72,タナカさんが退職しようとしていた研修生の上司を無視した。,DP1,退職しようとしていた,上司,研修生,タナカさんが,無視した。,,,
+JP,793,217,73,マリアが創設メンバーだった幹部の知り合いを知っている。,ambiguous,創設メンバーだった,知り合い,幹部,マリアが,知っている。,,,
+JP,794,218,73,マリアが創設メンバーだった新人の叔父を知っている。,DP1,創設メンバーだった,叔父,新人,マリアが,知っている。,,,
+JP,795,219,73,マリアが創設メンバーだった幹部の見習いを知っている。,DP2,創設メンバーだった,見習い,幹部,マリアが,知っている。,,,
+JP,796,220,74,ルイーズが長年そこに住んでいた詐欺師の友人を認識した。,ambiguous,長年そこに住んでいた,友人,詐欺師,ルイーズが,認識した。,,,
+JP,797,221,74,ルイーズが長年そこに住んでいた訪問者の友人を認識した。,DP1,長年そこに住んでいた,友人,訪問者,ルイーズが,認識した。,,,
+JP,798,222,74,ルイーズが長年そこに住んでいた友人の訪問者を認識した。,DP2,長年そこに住んでいた,訪問者,友人,ルイーズが,認識した。,,,
+JP,799,223,75,ベンが大ベテランだった王子の叔父にインタビューした。,ambiguous,大ベテランだった,叔父,王子,ベンが,インタビューした。,,,
+JP,800,224,75,ベンが大ベテランだった初心者の叔父にインタビューした。,DP1,大ベテランだった,叔父,初心者,ベンが,インタビューした。,,,
+JP,801,225,75,ベンが大ベテランだった叔父の研修生にインタビューした。,DP2,大ベテランだった,研修生,叔父,ベンが,インタビューした。,,,
+JP,802,226,76,友達が最古参の社員であった社員の上司を愛していた。,ambiguous,最古参の社員であった,上司,社員,友達が,愛していた。,,,
+JP,803,227,76,友達が最古参の社員であったインターンの上司を愛していた。,DP1,最古参の社員であった,上司,インターン,友達が,愛していた。,,,
+JP,804,228,76,友達が最古参の社員であった上司のインターンを愛していた。,DP2,最古参の社員であった,インターン,上司,友達が,愛していた。,,,
+JP,805,229,77,ウェイターが第二次世界大戦の記憶を持つ老人の親戚を見た。,ambiguous,第二次世界大戦の記憶を持つ,親戚,老人,ウェイターが,見た。,,,
+JP,806,230,77,ウェイターが第二次世界大戦の記憶を持つ少年のひいおじいさんを見た。,DP1,第二次世界大戦の記憶を持つ,ひいおじいさん,少年,ウェイターが,見た。,,,
+JP,807,231,77,ウェイターが第二次世界大戦の記憶を持つ兵士のひまごを見た。,DP2,第二次世界大戦の記憶を持つ,ひまご,兵士,ウェイターが,見た。,,,
+JP,808,232,78,住人が20年間仕えた司令官の大佐に挨拶した。,ambiguous,20年間仕えた,大佐,司令官,住人が,挨拶した。,,,
+JP,809,233,78,住人が20年間仕えた新兵の司令官に挨拶した。,DP1,20年間仕えた,司令官,新兵,住人が,挨拶した。,,,
+JP,810,234,78,住人が20年間仕えた司令官の新兵に挨拶した。,DP2,20年間仕えた,新兵,司令官,住人が,挨拶した。,,,
+JP,811,235,79,生徒が十二人の孫を持っていた看護師の花屋をからかった。,ambiguous,十二人の孫を持っていた,花屋,看護師,生徒が,からかった。,,,
+JP,812,236,79,生徒が十二人の孫を持っていた妊婦の看護師をからかった。,DP1,十二人の孫を持っていた,看護師,妊婦,生徒が,からかった。,,,
+JP,813,237,79,生徒が十二人の孫を持っていた看護師の弟をからかった。,DP2,十二人の孫を持っていた,弟,看護師,生徒が,からかった。,,,
+JP,814,238,80,首相がサハラ砂漠に住んでいるベドウィンのラクダ使いを歓迎した。,ambiguous,サハラ砂漠に住んでいる,ラクダ使い,ベドウィン,首相が,歓迎した。,,,
+JP,815,239,80,首相がサハラ砂漠に住んでいる島人の記者を歓迎した。,DP1,サハラ砂漠に住んでいる,記者,島人,首相が,歓迎した。,,,
+JP,816,240,80,首相がサハラ砂漠に住んでいるラクダ使いの銀行家を歓迎した。,DP2,サハラ砂漠に住んでいる,銀行家,ラクダ使い,首相が,歓迎した。,,,
+JP,817,241,81,知事が市長に立候補している貴族の兄と会った。,ambiguous,市長に立候補している,兄,貴族,知事が,会った。,,,
+JP,818,242,81,知事が市長に立候補している後援者の候補者と会った。,DP1,市長に立候補している,候補者,後援者,知事が,会った。,,,
+JP,819,243,81,知事が市長に立候補している候補者の後援者と会った。,DP2,市長に立候補している,後援者,候補者,知事が,会った。,,,
+JP,820,244,82,僧侶が離婚書類に署名した離婚者の判事に会った。,ambiguous,離婚書類に署名した,判事,離婚者,僧侶が,会った。,,,
+JP,821,245,82,僧侶が離婚書類に署名した未成年者の親に会った。,DP1,離婚書類に署名した,親,未成年者,僧侶が,会った。,,,
+JP,822,246,82,僧侶が離婚書類に署名した離婚者のベビーシッターに会った。,DP2,離婚書類に署名した,ベビーシッター,離婚者,僧侶が,会った。,,,
+JP,823,247,83,面接官が犯罪歴のないコーチの弁護士に支払った。,ambiguous,犯罪歴のない,弁護士,コーチ,面接官が,支払った。,,,
+JP,824,248,83,面接官が犯罪歴のない囚人の弁護士に支払った。,DP1,犯罪歴のない,弁護士,囚人,面接官が,支払った。,,,
+JP,825,249,83,面接官が犯罪歴のない裁判官の囚人に支払った。,DP2,犯罪歴のない,囚人,裁判官,面接官が,支払った。,,,
+JP,826,250,84,従業員が不動産帝国を持っている家主の後援者に挨拶した。,ambiguous,不動産帝国を持っている,後援者,家主,従業員が,挨拶した。,,,
+JP,827,251,84,従業員が不動産帝国を持っている貧乏人の家主に挨拶した。,DP1,不動産帝国を持っている,家主,貧乏人,従業員が,挨拶した。,,,
+JP,828,252,84,従業員が不動産帝国を持っている家主の借家人に挨拶した。,DP2,不動産帝国を持っている,借家人,家主,従業員が,挨拶した。,,,
+JP,829,253,85,ロバートが何千本も歯を抜いた歯医者の外科医に叫んだ。,ambiguous,何千本も歯を抜いた,外科医,歯医者,ロバートが,叫んだ。,,,
+JP,830,254,85,ロバートが何千本も歯を抜いた投資家の歯医者に叫んだ。,DP1,何千本も歯を抜いた,歯医者,投資家,ロバートが,叫んだ。,,,
+JP,831,255,85,ロバートが何千本も歯を抜いた歯医者の牧師に叫んだ。,DP2,何千本も歯を抜いた,牧師,歯医者,ロバートが,叫んだ。,,,
+JP,832,256,86,学生がベストセラー作家になった劇作家の弟子に会った。,ambiguous,ベストセラー作家になった,弟子,劇作家,学生が,会った。,,,
+JP,833,257,86,学生がベストセラー作家になった無教養者の知り合いに会った。,DP1,ベストセラー作家になった,知り合い,無教養者,学生が,会った。,,,
+JP,834,258,86,学生がベストセラー作家になった劇作家の赤ちゃんに会った。,DP2,ベストセラー作家になった,赤ちゃん,劇作家,学生が,会った。,,,
+JP,835,259,87,ボスが指図するのを楽しむ監視官の友達を訪れた。,ambiguous,指図するのを楽しむ,友達,監視官,ボスが,訪れた。,,,
+JP,836,260,87,ボスが指図するのを楽しむ囚人の監視官を訪れた。,DP1,指図するのを楽しむ,監視官,囚人,ボスが,訪れた。,,,
+JP,837,261,87,ボスが指図するのを楽しむ監視官の囚人を訪れた。,DP2,指図するのを楽しむ,囚人,監視官,ボスが,訪れた。,,,
+JP,838,262,88,客が基本的なお祈りさえ知らないピエロの弟子を感心させた。,ambiguous,基本的なお祈りさえ知らない,弟子,ピエロ,客が,感心させた。,,,
+JP,839,263,88,客が基本的なお祈りさえ知らない聖職者の信者を感心させた。,DP1,基本的なお祈りさえ知らない,信者,聖職者,客が,感心させた。,,,
+JP,840,264,88,客が基本的なお祈りさえ知らない信者の聖職者を感心させた。,DP2,基本的なお祈りさえ知らない,聖職者,信者,客が,感心させた。,,,
+JP,841,265,89,供給者が一言語しか話せない小人の従兄弟を愛していた。,ambiguous,一言語しか話せない,従兄弟,小人,供給者が,愛していた。,,,
+JP,842,266,89,供給者が一言語しか話せない通訳者の従兄弟を愛していた。,DP1,一言語しか話せない,従兄弟,通訳者,供給者が,愛していた。,,,
+JP,843,267,89,供給者が一言語しか話せない裁判官の通訳者を愛していた。,DP2,一言語しか話せない,通訳者,裁判官,供給者が,愛していた。,,,
+JP,844,268,90,おじいさんが英語だけ話せる王様の家庭教師を困らせた。,ambiguous,英語だけ話せる,家庭教師,王様,おじいさんが,困らせた。,,,
+JP,845,269,90,おじいさんが英語だけ話せるポリグロットの家庭教師を困らせた。,DP1,英語だけ話せる,家庭教師,ポリグロット,おじいさんが,困らせた。,,,
+JP,846,270,90,おじいさんが英語だけ話せる王様のポリグロットを困らせた。,DP2,英語だけ話せる,ポリグロット,王様,おじいさんが,困らせた。,,,
+JP,847,271,91,教授が相撲部屋の親方だった消防士の友人を褒めた。,ambiguous,相撲部屋の親方だった,友人,消防士,教授が,褒めた。,,,
+JP,848,272,91,教授が相撲部屋の親方だった女性の友人を褒めた。,DP1,相撲部屋の親方だった,友人,女性,教授が,褒めた。,,,
+JP,849,273,91,教授が相撲部屋の親方だった消防士の彼女を褒めた。,DP2,相撲部屋の親方だった,彼女,消防士,教授が,褒めた。,,,
+JP,850,274,92,合唱指揮者が助産師だった隣人の娘に微笑んだ。,ambiguous,助産師だった,娘,隣人,合唱指揮者が,微笑んだ。,,,
+JP,851,275,92,合唱指揮者が助産師だった少年の隣人に微笑んだ。,DP1,助産師だった,隣人,少年,合唱指揮者が,微笑んだ。,,,
+JP,852,276,92,合唱指揮者が助産師だった隣人の少年に微笑んだ。,DP2,助産師だった,少年,隣人,合唱指揮者が,微笑んだ。,,,
+JP,853,277,93,客が結婚式でベストマンだった給仕の助手を見逃した。,ambiguous,結婚式でベストマンだった,助手,給仕,客が,見逃した。,,,
+JP,854,278,93,客が結婚式でベストマンだった女給の助手を見逃した。,DP1,結婚式でベストマンだった,助手,女給,客が,見逃した。,,,
+JP,855,279,93,客が結婚式でベストマンだった助手の女給を見逃した。,DP2,結婚式でベストマンだった,女給,助手,客が,見逃した。,,,
+JP,856,280,94,医者が小国の王として君臨した俳優の崇拝者に会った。,ambiguous,小国の王として君臨した,崇拝者,俳優,医者が,会った。,,,
+JP,857,281,94,医者が小国の王として君臨した女優の愛人に会った。,DP1,小国の王として君臨した,愛人,女優,医者が,会った。,,,
+JP,858,282,94,医者が小国の王として君臨した貴族の情婦に会った。,DP2,小国の王として君臨した,情婦,貴族,医者が,会った。,,,
+JP,859,283,95,田中さんが小人症と診断されていたマフィアのいとこを訪ねた。,ambiguous,小人症と診断されていた,いとこ,マフィア,田中さんが,訪ねた。,,,
+JP,860,284,95,田中さんが小人症と診断されていた巨人のいとこを訪ねた。,DP1,小人症と診断されていた,いとこ,巨人,田中さんが,訪ねた。,,,
+JP,861,285,95,田中さんが小人症と診断されていたマフィアの巨人を訪ねた。,DP2,小人症と診断されていた,巨人,マフィア,田中さんが,訪ねた。,,,
+JP,862,286,96,記者たちが博士号を持っている講演者の叔父にインタビューした。,ambiguous,博士号を持っている,叔父,講演者,記者たちが,インタビューした。,,,
+JP,863,287,96,記者たちが博士号を持っている幼児の叔父にインタビューした。,DP1,博士号を持っている,叔父,幼児,記者たちが,インタビューした。,,,
+JP,864,288,96,記者たちが博士号を持っている叔父の幼児にインタビューした。,DP2,博士号を持っている,幼児,叔父,記者たちが,インタビューした。,,,
+RU,865,1,1,"Врач встретил сына мужчины, кто носит бороду.",ambiguous,носит бороду,сына,"мужчины,",,,сын,мужчина,Врач встретил
+RU,866,2,1,"Врач встретил сына женщины, кто носит бороду.",DP1,носит бороду,сына,"женщины,",,,сын,женщина,Врач встретил
+RU,867,3,1,"Врач встретил дочь господина, кто носит бороду.",DP2,носит бороду,дочь,"господина,",,,дочь,господин,Врач встретил
+RU,868,4,2,"Мистер Джонсон навестил кузена ребёнка, кто сидит в коляске.",ambiguous,сидит в коляске,кузена,"ребёнка,",,,кузен,ребёнок,Мистер Джонсон навестил
+RU,869,5,2,"Мистер Джонсон навестил ребёнка матери, кто сидит в коляске.",DP1,сидит в коляске,ребёнка,"матери,",,,ребёнок,мать,Мистер Джонсон навестил
+RU,870,6,2,"Мистер Джонсон навестил мать ребёнка, кто сидит в коляске.",DP2,сидит в коляске,мать,"ребёнка,",,,мама,ребёнок,Мистер Джонсон навестил
+RU,871,7,3,"Журналисты опросили брата близнеца, кто учится ходить.",ambiguous,учится ходить,брата,"близнеца,",,,брат,близнец,Журналисты опросили
+RU,872,8,3,"Журналисты опросили ребенка туриста, кто учится ходить.",DP1,учится ходить,ребенка,"туриста,",,,ребенок,турист,Журналисты опросили
+RU,873,9,3,"Журналисты опросили отца ребенка, кто учится ходить.",DP2,учится ходить,отца,"ребенка,",,,отец,ребёнок,Журналисты опросили
+RU,874,10,4,"Джон презирал друга брата, кто водит машину.",ambiguous,водит машину,друга,"брата,",,,друг,брат,Джон презирал
+RU,875,11,4,"Джон презирал брата ребенка, кто водит машину.",DP1,водит машину,брата,"ребенка,",,,Брат,ребенок,Джон презирал
+RU,876,12,4,"Джон презирал ребенка брата, кто водит машину.",DP2,водит машину,ребенка,"брата,",,,ребенок,брат,Джон презирал
+RU,877,13,5,"Мария любила сестру парня, кто сдаёт экзамены.",ambiguous,сдаёт экзамены,сестру,"парня,",,,сестра,парень,Мария любила
+RU,878,14,5,"Мария любила сестру младенца, кто сдаёт экзамены.",DP1,сдаёт экзамены,сестру,"младенца,",,,сестра,младенец,Мария любила
+RU,879,15,5,"Мария любила младенца сестры, кто сдаёт экзамены.",DP2,сдаёт экзамены,младенца,"сестры,",,,младенец,сестра,Мария любила
+RU,880,16,6,"Борис уважал дядю спортсмена, кто бежит марафон. ",ambiguous,бежит марафон,дядю,"спортсмена,",,,дядя,Спортсмен,Борис уважал
+RU,881,17,6,"Борис уважал дядю дошкольника, кто бежит марафон. ",DP1,бежит марафон,дядю,"дошкольника,",,,дядя,дошкольник,Борис уважал
+RU,882,18,6,"Борис уважал дошкольника дяди, кто бежит марафон.",DP2,бежит марафон,дошкольника,"дяди,",,,дошкольник,дядя,Борис уважал
+RU,883,19,7,"Все знают приятеля ребёнка, кто любит ползать.",ambiguous,любит ползать,приятеля,"ребёнка,",,,приятель,ребёнок,Все знают
+RU,884,20,7,"Все знают ребёнка воспитателя, кто любит ползать.",DP1,любит ползать,ребёнка,"воспитателя,",,,ребёнок,воспитатель,Все знают
+RU,885,21,7,"Все знают воспитателя ребёнка, кто любит ползать.",DP2,любит ползать,воспитателя,"ребёнка,",,,воспитатель,ребёнок,Все знают
+RU,886,22,8,"Анна разозлила тетю подростка, кто получит водительские права в следующем месяце.",ambiguous,получит водительские права в следующем месяце,тетю,"подростка,",,,тетя,подросток,Анна разозлила
+RU,887,23,8,"Анна разозлила тетю младенца, кто получит водительские права в следующем месяце.",DP1,получит водительские права в следующем месяце,тетю,"младенца,",,,Тётя,младенец,Анна разозлила
+RU,888,24,8,"Анна разозлила младенца тети, кто получит водительские права в следующем месяце.",DP2,получит водительские права в следующем месяце,младенца,"тети,",,,младенец,тетя,Анна разозлила
+RU,889,25,9,"Господин Иванов проигнорировал друга внучки, кто идет в детский сад.",ambiguous,идет в детский сад,друга,"внучки,",,,друг,внучка,Господин Иванов проигнорировал
+RU,890,26,9,"Господин Иванов проигнорировал внучку товарища, кто идет в детский сад.",DP1,идет в детский сад,внучку,"товарища,",,,внучка,товарищ,Господин Иванов проигнорировал
+RU,891,27,9,"Господин Иванов проигнорировал отца внучки, кто идет в детский сад.",DP2,идет в детский сад,отца,"внучки,",,,Отец,внучка,Господин Иванов проигнорировал
+RU,892,28,10,"Мария знает падчерицу тети, кто учится в институте.",ambiguous,учится в институте,падчерицу,"тети,",,,падчерица,тётя,Мария знает
+RU,893,29,10,"Мария знает тетю малыша, кто учится в институте.",DP1,учится в институте,тетю,"малыша,",,,тётя,малыш,Мария знает
+RU,894,30,10,"Мария знает малыша тети, кто учится в институте.",DP2,учится в институте,малыша,"тети,",,,малыш,тётя,Мария знает
+RU,895,31,11,"Луиза узнала друга дяди, кто посещает ночную техно-тусовку.",ambiguous,посещает ночную техно-тусовку,друга,"дяди,",,,друг,дядя,Луиза узнала
+RU,896,32,11,"Луиза узнала дядю малыша, кто посещает ночную техно-тусовку.",DP1,посещает ночную техно-тусовку,дядю,"малыша,",,,дядя,малыш,Луиза узнала
+RU,897,33,11,"Луиза узнала малыша дяди, кто посещает ночную техно-тусовку.",DP2,посещает ночную техно-тусовку,малыша,"дяди,",,,малыш,дядя,Луиза узнала
+RU,898,34,12,"Борис общался с братом младенца, кто учится говорить.",ambiguous,учится говорить,братом,"младенца,",,,Брат,младенец,Борис общался с
+RU,899,35,12,"Борис общался с младенцем матери, кто учится говорить.",DP1,учится говорить,младенцем,"матери,",,,младенец,Мать,Борис общался с
+RU,900,36,12,"Борис общался с матерью младенца, кто учится говорить.",DP2,учится говорить,матерью,"младенца,",,,мать,младенец,Борис общался с
+RU,901,37,13,"Друзья любили дедушку учителя, кто решает задачи по математике.",ambiguous,решает задачи по математике,дедушку,"учителя,",,,дедущка,учитель,Друзья любили
+RU,902,38,13,"Друзья любили дедушку младенца, кто решает задачи по математике.",DP1,решает задачи по математике,дедушку,"младенца,",,,дедущка,младенец,Друзья любили
+RU,903,39,13,"Друзья любили младенца дедушки, кто решает задачи по математике.",DP2,решает задачи по математике,младенца,"дедушки,",,,младенец,дедушка.,Друзья любили
+RU,904,40,14,"Официант смотрел на друга бабушки, кто готовится к пенсии.",ambiguous,готовится к пенсии,друга,"бабушки,",,,друг,Бабушка,Официант смотрел на
+RU,905,41,14,"Официант смотрел на бабушку ребенка, кто готовится к пенсии.",DP1,готовится к пенсии,бабушку,"ребенка,",,,бабушка,ребенок,Официант смотрел на
+RU,906,42,14,"Официант смотрел на ребенка бабушки, кто готовится к пенсии.",DP2,готовится к пенсии,ребенка,"бабушки,",,,ребенок,бабушка,Официант смотрел на
+RU,907,43,15,"Арендатор поприветствовал сестру подруги, кто кормит грудью.",ambiguous,кормит грудью,сестру,"подруги,",,,сестра,подругa,Арендатор поприветствовал
+RU,908,44,15,"Арендатор поприветствовал сестру отчима, кто кормит грудью.",DP1,кормит грудью,сестру,"отчима,",,,сестра,Отчим,Арендатор поприветствовал
+RU,909,45,15,"Арендатор поприветствовал отчима сестры, кто кормит грудью.",DP2,кормит грудью,отчима,"сестры,",,,Отчим,сестра,Арендатор поприветствовал
+RU,910,46,16,"Ученик дразнил друга студента, кто справляется с домашней работой.",ambiguous,справляется с домашней работой,друга,"студента,",,,друг,студент,Ученик дразнил
+RU,911,47,16,"Ученик дразнил студента профессора, кто справляется с домашней работой.",DP1,справляется с домашней работой,студента,"профессора,",,,студент,профессор,Ученик дразнил
+RU,912,48,16,"Ученик дразнил профессора студента, кто справляется с домашней работой.",DP2,справляется с домашней работой,профессора,"студента,",,,профессор,студент,Ученик дразнил
+RU,913,49,17,"Канцлер приветствовал коллегу директора, кто принимает руководящие решения.",ambiguous,принимает руководящие решения,коллегу,"директора,",,,коллега,директор,Канцлер приветствовал
+RU,914,50,17,"Канцлер приветствовал директора помощника, кто принимает руководящие решения.",DP1,принимает руководящие решения,директора,"помощника,",,,директор,помощник,Канцлер приветствовал
+RU,915,51,17,"Канцлер приветствовал помощника директора, кто принимает руководящие решения.",DP2,принимает руководящие решения,помощника,"директора,",,,помощник,директор,Канцлер приветствовал
+RU,916,52,18,"Заведующий встретил заместителя директора, кто отстраняет учеников.",ambiguous,отстраняет учеников,заместителя,"директора,",,,заместитель.,Директор,Заведующий встретил
+RU,917,53,18,"Заведующий встретил директора ученика, кто отстраняет учеников.",DP1,отстраняет учеников,директора,"ученика,",,,директор,ученик,Заведующий встретил
+RU,918,54,18,"Заведующий встретил ученика директора, кто отстраняет учеников.",DP2,отстраняет учеников,ученика,"директора,",,,ученик,директор,Заведующий встретил
+RU,919,55,19,"Аббат встретил заместителя учителя, кто оценивает работы.",ambiguous,оценивает работы,заместителя,"учителя,",,,заместитель,учитель,Аббат встретил
+RU,920,56,19,"Аббат встретил учителя ученика, кто оценивает работы.",DP1,оценивает работы,учителя,"ученика,",,,учитель,ученик,Аббат встретил
+RU,921,57,19,"Аббат встретил ученика учителя, кто оценивает работы.",DP2,оценивает работы,ученика,"учителя,",,,ученик,учитель,Аббат встретил
+RU,922,58,20,"Интервьюер заплатил ученику пилота, кто пилотирует самолет.",ambiguous,пилотирует самолет,ученику,"пилота,",,,ученик,пилот,Интервьюер заплатил
+RU,923,59,20,"Интервьюер заплатил пилоту десантника, кто пилотирует самолет.",DP1,пилотирует самолет,пилоту,"десантника,",,,пилот,десантник,Интервьюер заплатил
+RU,924,60,20,"Интервьюер заплатил десантнику пилота, кто пилотирует самолет.",DP2,пилотирует самолет,десантнику,"пилота,",,,десантник,пилот,Интервьюер заплатил
+RU,925,61,21,"Сотрудник приветствовал коллегу менеджера, кто управляет компанией.",ambiguous,управляет компанией,коллегу,"менеджера,",,,коллега,менеджер,Сотрудник приветствовал
+RU,926,62,21,"Сотрудник приветствовал менеджера кассира, кто управляет компанией.",DP1,управляет компанией,менеджера,"кассира,",,,менеджер,кассир,Сотрудник приветствовал
+RU,927,63,21,"Сотрудник приветствовал стажера менеджера, кто управляет компанией.",DP2,управляет компанией,стажера,"менеджера,",,,стажер,менеджер,Сотрудник приветствовал
+RU,928,64,22,"Андрей накричал на учителя художника, кто рисует портреты.",ambiguous,рисует портреты,учителя,"художника,",,,учитель.,художник,Андрей накричал на
+RU,929,65,22,"Андрей накричал на художника модели, кто рисует портреты.",DP1,рисует портреты,художника,"модели,",,,художник,модель,Андрей накричал на
+RU,930,66,22,"Андрей накричал на модель художника, кто рисует портреты.",DP2,рисует портреты,модель,"художника,",,,модель,художник,Андрей накричал на
+RU,931,67,23,"Студент встретил коллегу учителя, кто ведёт класс.",ambiguous,ведёт класс,коллегу,"учителя,",,,коллега,учитель,Студент встретил
+RU,932,68,23,"Студент встретил учителя студента, кто ведёт класс.",DP1,ведёт класс,учителя,"студента,",,,учитель,студент,Студент встретил
+RU,933,69,23,"Студент встретил студента учителя, кто ведёт класс.",DP2,ведёт класс,студента,"учителя,",,,студент,учитель.,Студент встретил
+RU,934,70,24,"Начальник посетил адвоката консультанта, кто работает на стороне защиты.",ambiguous,работает на стороне защиты,адвоката,"консультанта,",,,адвокат,Консультант.,Начальник посетил
+RU,935,71,24,"Начальник посетил адвоката клиента, кто работает на стороне защиты.",DP1,работает на стороне защиты,адвоката,"клиента,",,,адвокат,клиент.,Начальник посетил
+RU,936,72,24,"Начальник посетил клиента адвоката, кто работает на стороне защиты.",DP2,работает на стороне защиты,клиента,"адвоката,",,,клиент,адвокат,Начальник посетил
+RU,937,73,25,"Судья предупредил одноклубника игрока, кто защищает ворота.",ambiguous,защищает ворота,одноклубника,"игрока,",,,одноклубник,игрок,Судья предупредил
+RU,938,74,25,"Судья предупредил игрока тренера, кто защищает ворота.",DP1,защищает ворота,игрока,"тренера,",,,игрок.,тренер,Судья предупредил
+RU,939,75,25,"Судья предупредил тренера игрока, кто защищает ворота.",DP2,защищает ворота,тренера,"игрока,",,,тренер,игрок,Судья предупредил
+RU,940,76,26,"Ведущий оскорбил коллегу программиста, кто зарабатывает на жизнь написанием программ.",ambiguous,зарабатывает на жизнь написанием программ,коллегу,"программиста,",,,коллега,программист,Ведущий оскорбил
+RU,941,77,26,"Ведущий оскорбил программиста адвоката, кто зарабатывает на жизнь написанием программ.",DP1,зарабатывает на жизнь написанием программ,программиста,"адвоката,",,,программист,Адвокат,Ведущий оскорбил
+RU,942,78,26,"Ведущий оскорбил адвоката программиста, кто зарабатывает на жизнь написанием программ.",DP2,зарабатывает на жизнь написанием программ,адвоката,"программиста,",,,адвокат,программист,Ведущий оскорбил
+RU,943,79,27,"Гость удивил помощника механика, кто чинит двигатели каждый день.",ambiguous,чинит двигатели каждый день,помощника,"механика,",,,помощник,механик,Гость удивил
+RU,944,80,27,"Гость удивил механика врача, кто чинит двигатели каждый день.",DP1,чинит двигатели каждый день,механика,"врача,",,,Механик,врач,Гость удивил
+RU,945,81,27,"Гость удивил врача механика, кто чинит двигатели каждый день.",DP2,чинит двигатели каждый день,врача,"механика,",,,врач,механик,Гость удивил
+RU,946,82,28,"Сказочник спросил кузена мальчика, кто будет принцем.",ambiguous,будет принцем,кузена,"мальчика,",,,кузен,мальчик,Сказочник спросил
+RU,947,83,28,"Сказочник спросил мальчика матери, кто будет принцем.",DP1,будет принцем,мальчика,"матери,",,,Мальчик,мать,Сказочник спросил
+RU,948,84,28,"Сказочник спросил мать мальчика, кто будет принцем.",DP2,будет принцем,мать,"мальчика,",,,мать,мальчик,Сказочник спросил
+RU,949,85,29,"Дедушка беспокоил фармацевта врача, кто выписывает рецепты.",ambiguous,выписывает рецепты,фармацевта,врача,,,Фармацевт,врач,Дедушка беспокоил
+RU,950,86,29,"Дедушка беспокоил врача пациента, кто выписывает рецепты.",DP1,выписывает рецепты,врача,"пациента,",,,врач,пациент,Дедушка беспокоил
+RU,951,87,29,"Дедушка беспокоил пациента врача, кто выписывает рецепты.",DP2,выписывает рецепты,пациента,"врача,",,,пациент,врач,Дедушка беспокоил
+RU,952,88,30,"Клиент скучал по внуку парикмахера, кто бреется ежедневно.",ambiguous,бреется ежедневно,внуку,"парикмахера,",,,внук,парикмахер,Клиент скучал по
+RU,953,89,30,"Клиент скучал по внуку женщины, кто бреется ежедневно.",DP1,бреется ежедневно,внуку,"женщины,",,,внук,женщина,Клиент скучал по
+RU,954,90,30,"Клиент скучал по внучке старика, кто бреется ежедневно.",DP2,бреется ежедневно,внучке,"старика,",,,внучка,старик,Клиент скучал по
+RU,955,91,31,"Дирижёр улыбнулся знакомому верующего, кто планирует стать монахом.",ambiguous,планирует стать монахом,знакомому,"верующего,",,,знакомый,верующий,Дирижёр улыбнулся
+RU,956,92,31,"Дирижёр улыбнулся знакомому женщины, кто планирует стать монахом.",DP1,планирует стать монахом,знакомому,"женщины,",,,знакомый,женщина,Дирижёр улыбнулся
+RU,957,93,31,"Дирижёр улыбнулся подруге знакомого, кто планирует стать монахом.",DP2,планирует стать монахом,подруге,"знакомого,",,,подруга,знакомый,Дирижёр улыбнулся
+RU,958,94,32,"Клиент скучал по сестре невесты, кто планирует родить ребенка.",ambiguous,планирует родить ребенка,сестре,"невесты,",,,сестра,невеста,Клиент скучал по
+RU,959,95,32,"Клиент скучал по невесте жениха, кто планирует родить ребенка.",DP1,планирует родить ребенка,невесте,"жениха,",,,невеста,жених,Клиент скучал по
+RU,960,96,32,"Клиент скучал по жениху невесты, кто планирует родить ребенка.",DP2,планирует родить ребенка,жениху,"невесты,",,,жених,невеста,Клиент скучал по
+RU,961,97,33,"Врач встретил племянника смотрителя, кто носит усы.",ambiguous,носит усы,племянника,"смотрителя,",,,племянник,смотритель,Врач встретил
+RU,962,98,33,"Врач встретил племянника невесты, кто носит усы.",DP1,носит усы,племянника,"невесты,",,,племянник,невеста,Врач встретил
+RU,963,99,33,"Врач встретил невесту племянника, кто носит усы.",DP2,носит усы,невесту,"племянника,",,,невеста,племянник,Врач встретил
+RU,964,100,34,"Иван посетил медсестру женщины, кто планирует родить.",ambiguous,планирует родить,медсестру,"женщины,",,,медсестра,женщина,Иван посетил
+RU,965,101,34,"Иван посетил медсестру принца, кто планирует родить.",DP1,планирует родить,медсестру,"принца,",,,медсестра,принц,Иван посетил
+RU,966,102,34,"Иван посетил принца медсестры, кто планирует родить.",DP2,планирует родить,принца,"медсестры,",,,принц,медсестра,Иван посетил
+RU,967,103,35,"Журналисты опросили отца силача, кто отрастил бороду.",ambiguous,отрастил бороду,отца,"силача,",,,отец,силач.,Журналисты опросили
+RU,968,104,35,"Журналисты опросили отца младенца, кто отрастил бороду.",DP1,отрастил бороду,отца,"младенца,",,,отец,младенец,Журналисты опросили
+RU,969,105,35,"Журналисты опросили младенца отца, кто отрастил бороду.",DP2,отрастил бороду,младенца,"отца,",,,младенец,отец,Журналисты опросили
+RU,970,106,36,"Иван презирал служанку жены, кто ждёт ребёнка.",ambiguous,ждёт ребёнка,служанку,"жены,",,,служанка,жена,Иван презирал
+RU,971,107,36,"Иван презирал жену короля, кто ждёт ребёнка.",DP1,ждёт ребёнка,жену,"короля,",,,жена,король,Иван презирал
+RU,972,108,36,"Иван презирал мужа танцовщицы, кто ждёт ребёнка.",DP2,ждёт ребёнка,мужа,"танцовщицы,",,,муж,танцовщица,Иван презирал
+RU,973,109,37,"Маша любила папу ковбоя, кто носит усы.",ambiguous,носит усы,папу,"ковбоя,",,,папа,ковбой,Маша любила
+RU,974,110,37,"Маша любила ковбоя мамы, кто носит усы.",DP1,носит усы,ковбоя,"мамы,",,,ковбой,мама,Маша любила
+RU,975,111,37,"Маша любила дочь племянника, кто носит усы.",DP2,носит усы,дочь,"племянника,",,,Дочь,племянник,Маша любила
+RU,976,112,38,"Иван презирал служанку жены, кто родит в следующем месяце.",ambiguous,родит в следующем месяце,служанку,"жены,",,,служанка,жена,Иван презирал
+RU,977,113,38,"Иван любил племянницу патриарха, кто родит в следующем месяце.",DP1,родит в следующем месяце,племянницу,"патриарха,",,,племянница,патриарх,Иван любил
+RU,978,114,38,"Иван любил патриарха племянницы, кто родит в следующем месяце.",DP2,родит в следующем месяце,патриарха,"племянницы,",,,патриарх,племянница,Иван любил
+RU,979,115,39,"Все знают сестру дамы, кто забеременеет.",ambiguous,забеременеет,сестру,"дамы,",,,сестра,дама,Все знают
+RU,980,116,39,"Все знают сестру мальчика, кто забеременеет.",DP1,забеременеет,сестру,"мальчика,",,,сестра,мальчик,Все знают
+RU,981,117,39,"Все знают брата дамы, кто забеременеет.",DP2,забеременеет,брата,"дамы,",,,брат,дама,Все знают
+RU,982,118,40,"Маша разозлила племянника парня, кто женится на беременной девушке.",ambiguous,женится на беременной девушке,племянника,"парня,",,,племянник,парень,Маша разозлила
+RU,983,119,40,"Маша разозлила племянника женщины, кто женится на беременной девушке.",DP1,женится на беременной девушке,племянника,"женщины,",,,племянник,женщина,Маша разозлила
+RU,984,120,40,"Маша разозлила племянницу парня, кто женится на беременной девушке.",DP2,женится на беременной девушке,племянницу,"парня,",,,племянница,парень,Маша разозлила
+RU,985,121,41,"Иван проигнорировал племянницу девушки, кто уходит в женский монастырь.",ambiguous,уходит в женский монастырь,племянницу,"девушки,",,,племянница,девушка,Иван проигнорировал
+RU,986,122,41,"Иван проигнорировал племянницу господина, кто уходит в женский монастырь.",DP1,уходит в женский монастырь,племянницу,"господина,",,,племянница,господин,Иван проигнорировал
+RU,987,123,41,"Иван проигнорировал дядю девушки, кто уходит в женский монастырь.",DP2,уходит в женский монастырь,дядю,"девушки,",,,дядя,девушка,Иван проигнорировал
+RU,988,124,42,"Мария знает дедушку пехотинца, кто станет донором спермы.",ambiguous,станет донором спермы,дедушку,"пехотинца,",,,дедушка,пехотинец,Мария знает
+RU,989,125,42,"Мария знает дедушку няни, кто станет донором спермы.",DP1,станет донором спермы,дедушку,"няни,",,,дедушка,няня,Мария знает
+RU,990,126,42,"Мария знает подругу пехотинца, кто станет донором спермы.",DP2,станет донором спермы,подругу,"пехотинца,",,,подруга,пехотинец.,Мария знает
+RU,991,127,43,"Луиза узнала дочь женщины, кто займется грудным вскармливанием.",ambiguous,займется грудным вскармливанием,дочь,женщины,,,Дочь,женщина,Луиза узнала
+RU,992,128,43,"Луиза узнала дочь мужчины, кто займется грудным вскармливанием.",DP1,займется грудным вскармливанием,дочь,"мужчины,",,,дочь,мужчина,Луиза узнала
+RU,993,129,43,"Луиза узнала отца женщины, кто займется грудным вскармливанием.",DP2,займется грудным вскармливанием,отца,"женщины,",,,отец,женщина,Луиза узнала
+RU,994,130,44,"Миша интервьюировал отца мужчины, кто проходит осмотр простаты.",ambiguous,проходит осмотр простаты,отца,"мужчины,",,,отец,мужчина,Миша интервьюировал
+RU,995,131,44,"Миша интервьюировал отца девочки, кто проходит осмотр простаты.",DP1,проходит осмотр простаты,отца,"девочки,",,,отец,девочка,Миша интервьюировал
+RU,996,132,44,"Миша интервьюировал дочь мужчины, кто проходит осмотр простаты.",DP2,проходит осмотр простаты,дочь,"мужчины,",,,Дочь,мужчина,Миша интервьюировал
+RU,997,133,45,"Друзья любили тетю няни, кто будет переживать менопаузу.",ambiguous,будет переживать менопаузу,тетю,"няни,",,,тетя,няня,Друзья любили
+RU,998,134,45,"Друзья любили няню мальчика, кто будет переживать менопаузу.",DP1,будет переживать менопаузу,няню,"мальчика,",,,няня,мальчик,Друзья любили
+RU,999,135,45,"Друзья любили племянника няни, кто будет переживать менопаузу.",DP2,будет переживать менопаузу,племянника,"няни,",,,племяница,няня,Друзья любили
+RU,1000,136,46,"Официант увидел брата мужчины, кто имеет рак яичек.",ambiguous,имеет рак яичек,брата,"мужчины,",,,брат,мужчина,Официант увидел
+RU,1001,137,46,"Официант увидел брата дамы, кто имеет рак яичек.",DP1,имеет рак яичек,брата,"дамы,",,,брат,дама,Официант увидел
+RU,1002,138,46,"Официант увидел сестру мужчины, кто имеет рак яичек.",DP2,имеет рак яичек,сестру,"мужчины,",,,сестра,Мужчина,Официант увидел
+RU,1003,139,47,"Арендатор поприветствовал подругу герцогини, кто становится суррогатной матерью.",ambiguous,становится суррогатной матерью,подругу,"герцогини,",,,подруга,герцогиня,Арендатор поприветствовал
+RU,1004,140,47,"Арендатор поприветствовал жену герцога, кто становится суррогатной матерью.",DP1,становится суррогатной матерью,жену,"герцога,",,,жена,герцог,Арендатор поприветствовал
+RU,1005,141,47,"Арендатор поприветствовал мужа герцогини, кто становится суррогатной матерью.",DP2,становится суррогатной матерью,мужа,"герцогини,",,,муж,герцогиня,Арендатор поприветствовал
+RU,1006,142,48,"Ученик дразнил помощника профессора, кто проверяет работы.",ambiguous,проверяет работы,помощника,"профессора,",,,помощник,профессор,Ученик дразнил
+RU,1007,143,48,"Ученик дразнил учителя малыша, кто проверяет работы.",DP1,проверяет работы,учителя,"малыша,",,,учитель.,малыш,Ученик дразнил
+RU,1008,144,48,"Ученик дразнил малыша учителя, кто проверяет работы.",DP2,проверяет работы,малыша,"учителя,",,,малыш,Учитель,Ученик дразнил
+RU,1009,145,49,"Канцлер приветствовал однополчанина ветерана, кто на пенсии.",ambiguous,на пенсии,однополчанина,"ветерана,",,,однополчанин,ветеран,Канцлер приветствовал
+RU,1010,146,49,"Канцлер приветствовал прадедушку малыша, кто на пенсии.",DP1,на пенсии,прадедушку,"малыша,",,,прадедушка,малыш,Канцлер приветствовал
+RU,1011,147,49,"Канцлер приветствовал малыша прадедушки, кто на пенсии.",DP2,на пенсии,малыша,"прадедушки,",,,Малыш,прадедущка,Канцлер приветствовал
+RU,1012,148,50,"Спонсор встретил сверстника подростка, кто переживает переходный возраст.",ambiguous,переживает переходный возраст,сверстника,"подростка,",,,сверстник,подросток,Спонсор встретил
+RU,1013,149,50,"Спонсор встретил подростка старца, кто переживает переходный возраст.",DP1,переживает переходный возраст,подростка,"старца,",,,подросток,старец,Спонсор встретил
+RU,1014,150,50,"Спонсор встретил дедушку подростка, кто переживает переходный возраст.",DP2,переживает переходный возраст,дедушку,"подростка,",,,дедушка,подросток,Спонсор встретил
+RU,1015,151,51,"Аббат встретил кузена младенца, кто переживает из-за молочных зубов.",ambiguous,переживает из-за молочных зубов,кузена,"младенца,",,,кузена,младенец,Аббат встретил
+RU,1016,152,51,"Аббат встретил новорождённого отца, кто переживает из-за молочных зубов.",DP1,переживает из-за молочных зубов,новорождённого,"отца,",,,новорожденный,Oтец,Аббат встретил
+RU,1017,153,51,"Аббат встретил отца новорождённого, кто переживает из-за молочных зубов.",DP2,переживает из-за молочных зубов,отца,"новорождённого,",,,отец,новорождённый,Аббат встретил
+RU,1018,154,52,"Зубная фея заплатила другу ребёнка, кто учится считать.",ambiguous,учится считать,другу,"ребёнка,",,,друг,ребёнок,Зубная фея заплатила
+RU,1019,155,52,"Зубная фея заплатила ребёнку пенсионера, кто учится считать.",DP1,учится считать,ребёнку,"пенсионера,",,,ребёнок,пенсионер,Зубная фея заплатила
+RU,1020,156,52,"Зубная фея заплатила учителю ребёнка, кто учится считать.",DP2,учится считать,учителю,"ребёнка,",,,Учитель.,ребёнок,Зубная фея заплатила
+RU,1021,157,53,"Работник поприветствовал товарища прабабушки, кто празднует годовщину свадьбы.",ambiguous,празднует годовщину свадьбы,товарища,"прабабушки,",,,товарищ,прабабушка,Работник поприветствовал
+RU,1022,158,53,"Работник поприветствовал прабабушку дошкольника, кто празднует годовщину свадьбы.",DP1,празднует годовщину свадьбы,прабабушку,"дошкольника,",,,прабабушка,Дошкольник.,Работник поприветствовал
+RU,1023,159,53,"Работник поприветствовал дошкольника прабабушки, кто празднует годовщину свадьбы.",DP2,празднует годовщину свадьбы,дошкольника,"прабабушки,",,,дошкольник,прабабушка,Работник поприветствовал
+RU,1024,160,54,"Иван ругал слугу графа, кто живет в доме престарелых.",ambiguous,живет в доме престарелых,слугу,"графа,",,,слуга,граф,Иван ругал
+RU,1025,161,54,"Иван ругал бабушку юноши, кто живет в доме престарелых.",DP1,живет в доме престарелых,бабушку,"юноши,",,,бабушка,юношa,Иван ругал
+RU,1026,162,54,"Иван ругал племянника графа, кто живет в доме престарелых.",DP2,живет в доме престарелых,племянника,"графа,",,,племянник,граф,Иван ругал
+RU,1027,163,55,"Студент встретил друга дошкольника, кто учится пользоваться горшком.",ambiguous,учится пользоваться горшком,друга,"дошкольника,",,,друг,дошкольник,Студент встретил
+RU,1028,164,55,"Студент встретил дошкольника начальника, кто учится пользоваться горшком.",DP1,учится пользоваться горшком,дошкольника,"начальника,",,,дошкольник,начальник,Студент встретил
+RU,1029,165,55,"Студент встретил отца дошкольника, кто учится пользоваться горшком.",DP2,учится пользоваться горшком,отца,"дошкольника,",,,отец,дошкольник,Студент встретил
+RU,1030,166,56,"Управляющий больницы посетил медсестру хирурга, кто будет помогать проводить операцию.",ambiguous,будет помогать проводить операцию,медсестру,"хирурга,",,,медсестра,хирург,Управляющий больницы посетил
+RU,1031,167,56,"Управляющий больницы посетил врача младенца, кто будет помогать проводить операцию.",DP1,будет помогать проводить операцию,врача,"младенца,",,,врач,младенец,Управляющий больницы посетил
+RU,1032,168,56,"Управляющий больницы посетил младенца врача, кто будет помогать проводить операцию.",DP2,будет помогать проводить операцию,младенца,"врача,",,,младенец,врач,Управляющий больницы посетил
+RU,1033,169,57,"Главврач предупредил коллегу дантиста, кто вот-вот станет отцом.",ambiguous,вот-вот станет отцом,коллегу,"дантиста,",,,коллега,дантист.,Главврач предупредил
+RU,1034,170,57,"Главврач предупредил коллегу продавщицы, кто вот-вот станет отцом.",DP1,вот-вот станет отцом,коллегу,"продавщицы,",,,коллега,продавщица,Главврач предупредил
+RU,1035,171,57,"Главврач предупредил напарницу коллеги, кто вот-вот станет отцом.",DP2,вот-вот станет отцом,напарницу,"коллеги,",,,напарница,коллега,Главврач предупредил
+RU,1036,172,58,"Ведущий оскорбил подругу участницы, кто готовится к конкурсу 'Мисс Россия'.",ambiguous,готовится к конкурсу 'Мисс Россия',подругу,"участницы,",,,подруга,участница,Ведущий оскорбил
+RU,1037,173,58,"Ведущий оскорбил подругу мальчика, кто готовится к конкурсу 'Мисс Россия'.",DP1,готовится к конкурсу 'Мисс Россия',подругу,"мальчика,",,,подруга,мальчик,Ведущий оскорбил
+RU,1038,174,58,"Ведущий оскорбил племянника женщины, кто готовится к конкурсу 'Мисс Россия'.",DP2,готовится к конкурсу 'Мисс Россия',племянника,"женщины,",,,племянник,Женщина,Ведущий оскорбил
+RU,1039,175,59,"Гость впечатлил родственника человека, кто будет королем.",ambiguous,будет королем,родственника,"человека,",,,родственник,человек,Гость впечатлил
+RU,1040,176,59,"Гость впечатлил родственника женщины, кто будет королем.",DP1,будет королем,родственника,"женщины,",,,родственник,женщина,Гость впечатлил
+RU,1041,177,59,"Гость впечатлил жену родственника, кто будет королем.",DP2,будет королем,жену,"родственника,",,,Жена,родственник,Гость впечатлил
+RU,1042,178,60,"Поставщик любил подругу дворянки, кто готовится к конкурсу красоты.",ambiguous,готовится к конкурсу красоты,подругу,"дворянки,",,,подруга,дворянка,Поставщик любил
+RU,1043,179,60,"Поставщик любил начальницу господина, кто готовится к конкурсу красоты.",DP1,готовится к конкурсу красоты,начальницу,"господина,",,,начальница,господин,Поставщик любил
+RU,1044,180,60,"Поставщик любил подчиненного дворянки, кто готовится к конкурсу красоты.",DP2,готовится к конкурсу красоты,подчиненного,"дворянки,",,,подчиненный,дворянка,Поставщик любил
+RU,1045,181,61,"Дедушка беспокоил одноклассника старика, кто никогда не женится.",ambiguous,никогда не женится,одноклассника,"старика,",,,одноклассник,Старик,Дедушка беспокоил
+RU,1046,182,61,"Дедушка беспокоил одноклассника жены, кто никогда не женится.",DP1,никогда не женится,одноклассника,"жены,",,,Одноклассник,жена,Дедушка беспокоил
+RU,1047,183,61,"Дедушка беспокоил сестру одноклассника, кто никогда не женится.",DP2,никогда не женится,сестру,"одноклассника,",,,сестра,одноклассник,Дедушка беспокоил
+RU,1048,184,62,"Клиент пропустил соседа отчима, кто посвящает себя спорту.",ambiguous,посвящает себя спорту,соседа,"отчима,",,,сосед,отчим,Клиент пропустил
+RU,1049,185,62,"Клиент пропустил поклонника девочки, кто посвящает себя тяжелому спорту.",DP1,посвящает себя тяжелому спорту,поклонника,"девочки,",,,поклонник,девочка,Клиент пропустил
+RU,1050,186,62,"Клиент пропустил дочку силача, кто посвящает себя тяжелому спорту.",DP2,посвящает себя тяжелому спорту,дочку,"силача,",,,Дочь,силач,Клиент пропустил
+RU,1051,187,63,"Регент улыбнулся оруженосцу рыцаря, кто занимается кулачным боем.",ambiguous,занимается кулачным боем,оруженосцу,"рыцаря,",,,оруженосец,рыцарь,Регент улыбнулся
+RU,1052,188,63,"Регент улыбнулся партнеру дамы, кто занимается кулачным боем.",DP1,занимается кулачным боем,партнеру,"дамы,",,,партнер,дама,Регент улыбнулся
+RU,1053,189,63,"Регент улыбнулся жене рыцаря, кто занимается кулачным боем.",DP2,занимается кулачным боем,жене,"рыцаря,",,,Жена,рыцарь,Регент улыбнулся
+RU,1054,190,64,"Клиент скучал по коллеге менеджера, кто будет выступать в потрясающем платье. ",ambiguous,будет выступать в потрясающем платье,коллеге,"менеджера,",,,коллега,менеджер,Клиент скучал по
+RU,1055,191,64,"Клиент скучал по коллеге напарника, кто будет выступать в потрясающем платье. ",DP1,будет выступать в потрясающем платье,коллеге,"напарника,",,,коллега,напарник,Клиент скучал по
+RU,1056,192,64,"Клиент скучал по сыну коллеги, кто будет выступать в потрясающем платье.",DP2,будет выступать в потрясающем платье,сыну,"коллеги,",,,сын,коллега,Клиент скучал по
+RU,1057,193,65,"Врач встретил швею вдовы, кто все еще ищет мужа.",ambiguous,все еще ищет мужа,швею,"вдовы,",,,швея,вдова,Врач встретил
+RU,1058,194,65,"Врач встретил сестру мальчика, кто все еще ищет мужа.",DP1,все еще ищет мужа,сестру,"мальчика,",,,сестра,мальчик,Врач встретил
+RU,1059,195,65,"Врач встретил сына сестры, кто все еще ищет мужа.",DP2,все еще ищет мужа,сына,сестры,,,сын.,сестра,Врач встретил
+RU,1060,196,66,"Святослав уважал инструктора тренера, кто уже 30 лет тренирует бегунов. ",ambiguous,уже 30 лет тренирует бегунов,инструктора,тренера,,,инструктор,тренер,Святослав уважал
+RU,1061,197,66,"Святослав уважал тренера ученика, кто уже 30 лет тренирует бегунов.",DP1,уже 30 лет тренирует бегунов,тренера,"ученика,",,,тренер,ученик,Святослав уважал
+RU,1062,198,66,"Святослав уважал ученика тренера, кто уже 30 лет тренирует бегунов. ",DP2,уже 30 лет тренирует бегунов,ученика,"тренера,",,,ученик,тренер,Святослав уважал
+RU,1063,199,67,"Все знают начальника ученого, кто часто является ведущим исследователем.",ambiguous,часто является ведущим исследователем,начальника,"ученого,",,,начальник,ученый,Все знают
+RU,1064,200,67,"Все знают начальника стажера, кто часто является ведущим исследователем.",DP1,часто является ведущим исследователем,начальника,"стажера,",,,начальник,стажер.,Все знают
+RU,1065,201,67,"Все знают стажера начальника, кто часто является ведущим исследователем.",DP2,часто является ведущим исследователем,стажера,"начальника,",,,стажер,начальник.,Все знают
+RU,1066,202,68,"Иван проигнорировал друга начальника, кто собирается уйти на пенсию.",ambiguous,собирается уйти на пенсию,друга,"начальника,",,,друг,начальник,Иван проигнорировал
+RU,1067,203,68,"Иван проигнорировал начальника стажера, кто собирается уйти на пенсию.",DP1,собирается уйти на пенсию,начальника,"стажера,",,,начальник,стажер,Иван проигнорировал
+RU,1068,204,68,"Иван проигнорировал стажера начальника, кто собирается уйти на пенсию.",DP2,собирается уйти на пенсию,стажера,"начальника,",,,стажер,начальник,Иван проигнорировал
+RU,1069,205,69,"Мария знает друга руководителя, кто является основателем.",ambiguous,является основателем,друга,"руководителя,",,,друг,Руководитель,Мария знает
+RU,1070,206,69,"Мария знает руководителя новичка, кто является основателем.",DP2,является основателем,руководителя,"новичка,",,,Руководитель,новичок,Мария знает
+RU,1071,207,69,"Мария знает ученика руководителя, кто является основателем.",DP1,является основателем,ученика,"руководителя,",,,ученик,руководитель,Мария знает
+RU,1072,208,70,"Фёдор узнал друга мошенника, кто давно здесь живёт. ",ambiguous,давно здесь живёт,друга,"мошенника,",,,друг,мошенник,Фёдор узнал
+RU,1073,209,70,"Фёдор узнал друга гостя, кто давно здесь живёт. ",DP1,давно здесь живёт,друга,"гостя,",,,друг,гость,Фёдор узнал
+RU,1074,210,70,"Фёдор узнал гостя друга, кто давно здесь живёт.",DP2,давно здесь живёт,гостя,"друга,",,,гость,друг,Фёдор узнал
+RU,1075,211,71,"Костя опросил дядю графа, кто является опытным ветераном.",ambiguous,является опытным ветераном,дядю,"графа,",,,дядя,граф,Костя опросил
+RU,1076,212,71,"Костя опросил дядю интерна, кто является опытным ветераном.",DP2,является опытным ветераном,дядю,"интерна,",,,дядя,интерн,Костя опросил
+RU,1077,213,71,"Костя опросил интерна дяди, кто является опытным ветераном.",DP1,является опытным ветераном,интерна,"дяди,",,,интерн,дядя,Костя опросил
+RU,1078,214,72,"Друзья любили уполномоченного руководиля, кто работает дольше всех.",ambiguous,работает дольше всех,уполномоченного,"руководиля,",,,уполномоченный,руководитель,Друзья любили
+RU,1079,215,72,"Друзья любили менеджера стажера, кто работает дольше всех.",DP1,работает дольше всех,начальника,"стажера,",,,Начальник,стажер,Друзья любили
+RU,1080,216,72,"Друзья любили стажера начальника, кто работает дольше всех.",DP2,работает дольше всех,стажера,"начальника,",,,стажер,начальник,Друзья любили
+RU,1081,217,73,"Официант смотрел на родственника пенсионера, кто помнит Великую Отечественную войну.",ambiguous,помнит Великую Отечественную войну,родственника,"пенсионера,",,,родственник,пенсионер,Официант смотрел на
+RU,1082,218,73,"Официант смотрел на прадедушку мальчика, кто помнит Великую Отечественную войну.",DP1,помнит Великую Отечественную войну,прадедушку,"мальчика,",,,прадедущка,мальчик,Официант смотрел на
+RU,1083,219,73,"Официант смотрел на правнука солдата, кто помнит Великую Отечественную войну.",DP2,помнит Великую Отечественную войну,правнука,"солдата,",,,правнука,солдат,Официант смотрел на
+RU,1084,220,74,"Жилец поприветствовал полковника командира, кто прослужил 20 лет.",ambiguous,прослужил 20 лет,полковника,"командира,",,,полковник,Командир,Жилец поприветствовал
+RU,1085,221,74,"Жилец поприветствовал командира новобранца, кто прослужил 20 лет.",DP1,прослужил 20 лет,командира,"новобранца,",,,командир.,новобранец,Жилец поприветствовал
+RU,1086,222,74,"Жилец поприветствовал новобранца командира, кто прослужил 20 лет.",DP2,прослужил 20 лет,новобранца,"командира,",,,новобранец,командир,Жилец поприветствовал
+RU,1087,223,75,"Губернатор встретил брата аристократа, кто баллотируется на пост мэра.",ambiguous,баллотируется на пост мэра,брата,"аристократа,",,,брат,аристократ,Губернатор встретил
+RU,1088,224,75,"Губернатор встретил кандидата спонсора, кто баллотируется на пост мэра.",DP1,баллотируется на пост мэра,кандидата,"спонсора,",,,кандидат,спонсор,Губернатор встретил
+RU,1089,225,75,"Губернатор встретил спонсора кандидата, кто баллотируется на пост мэра.",DP2,баллотируется на пост мэра,спонсора,"кандидата,",,,Спонсор,кандидат,Губернатор встретил
+RU,1090,226,76,"Интервьюер заплатил адвокату тренера, кто не имеет судимости.",ambiguous,не имеет судимости,адвокату,"тренера,",,,Адвокат,тренер,Интервьюер заплатил
+RU,1091,227,76,"Интервьюер заплатил адвокату осуждённого, кто не имеет судимости.",DP1,не имеет судимости,адвокату,"осуждённого,",,,Адвокат,осуждённый,Интервьюер заплатил
+RU,1092,228,76,"Интервьюер заплатил подзащитному адовката, кто не имеет судимости.",DP2,не имеет судимости,подзащитному,"адовката,",,,подзащитному,адовката,Интервьюер заплатил
+RU,1093,229,77,"Работник приветствовал друга помещика, кто владеет обширными поместьями. ",ambiguous,владеет обширными поместьями,друга,"помещика,",,,друг,помещик,Работник приветствовал
+RU,1094,230,77,"Работник приветствовал помещика работника, кто владеет обширными поместьями. ",DP1,владеет обширными поместьями,помещика,"работника,",,,помещик,работник,Работник приветствовал
+RU,1095,231,77,"Работник приветствовал работника помещика, кто владеет обширными поместьями. ",DP2,владеет обширными поместьями,работника,"помещика,",,,работник,Помещик,Работник приветствовал
+RU,1096,232,78,"Борис накричал на ассистента стоматолога, кто за время своей карьеры осмотрел тысячи зубов. ",ambiguous,за время своей карьеры осмотрел тысячи зубов,ассистента,"стоматолога,",,,ассистент,стоматолог.,Борис накричал на
+RU,1097,233,78,"Борис накричал на стоматолога инвестора, кто за время своей карьеры осмотрел тысячи зубов. ",DP1,за время своей карьеры осмотрел тысячи зубов,стоматолога,"инвестора,",,,стоматолог,инвестор,Борис накричал на
+RU,1098,234,78,"Борис накричал на священника стоматолога, кто за время своей карьеры осмотрел тысячи зубов.",DP2,за время своей карьеры осмотрел тысячи зубов,священника,"стоматолога,",,,Священник,стоматолог,Борис накричал на
+RU,1099,235,79,"Начальник навестил друга заключенного, кто постоянно злоупотреблял служебным положением.",ambiguous,постоянно злоупотреблял служебным положением,друга,"заключенного,",,,друг,заключенный,Начальник навестил
+RU,1100,236,79,"Начальник навестил заключенного надзирателя, кто постоянно злоупотреблял служебным положением.",DP1,постоянно злоупотреблял служебным положением,заключенного,надзирателя,,,Заключенный,надзиратель,Начальник навестил
+RU,1101,237,79,"Начальник навестил надзирателя заключенного, кто постоянно злоупотреблял служебным положением.",DP2,постоянно злоупотреблял служебным положением,надзирателя,"заключенного,",,,Надзиратель.,заключенный,Начальник навестил
+RU,1102,238,80,"Поставщик любил брата карлика, кто говорит только на одном языке.",ambiguous,говорит только на одном языке,брата,"карлика,",,,брат,карлик,Поставщик любил
+RU,1103,239,80,"Поставщик любил брата переводчика, кто говорит только на одном языке.",DP1,говорит только на одном языке,брата,"переводчика,",,,брат,Переводчик,Поставщик любил
+RU,1104,240,80,"Поставщик любил переводчика судьи, кто говорит только на одном языке.",DP2,говорит только на одном языке,переводчика,"судьи,",,,переводчик,судья,Поставщик любил
+RU,1105,241,81,"Дедушка беспокоил учителя короля, кто может говорить только по-русски.",ambiguous,может говорить только по-русски,учителя,"короля,",,,учитель,король,Дедушка беспокоил
+RU,1106,242,81,"Дедушка беспокоил ученика переводчика, кто может говорить только по-русски.",DP1,может говорить только по-русски,ученика,переводчика,,,ученик,переводчик,Дедушка беспокоил
+RU,1107,243,81,"Дедушка беспокоил переводчика ученика, кто может говорить только по-русски.",DP2,может говорить только по-русски,переводчика,"ученика,",,,переводчик,ученик,Дедушка беспокоил
+RU,1108,244,82,"Клиент пропустил друга пожарного, кто возглавляет студенческое братство. ",ambiguous,возглавляет студенческое братство,друга,"пожарного,",,,друг,пожарный,Клиент пропустил
+RU,1109,245,82,"Клиент пропустил друга женщины, кто возглавляет студенческое братство. ",DP1,возглавляет студенческое братство,друга,"женщины,",,,друг,женщина,Клиент пропустил
+RU,1110,246,82,"Клиент пропустил подругу пожарного, кто возглавляет студенческое братство.",DP2,возглавляет студенческое братство,подругу,"пожарного,",,,подруга,пожарный,Клиент пропустил
+RU,1111,247,83,"Иван навестил кузена мафиози, кто страдает от низкого роста.",ambiguous,страдает от низкого роста,кузена,"мафиози,",,,кузен,мафиози,Иван навестил
+RU,1112,248,83,"Иван навестил кузена великана, кто страдает от низкого роста.",DP1,страдает от низкого роста,кузена,"великана,",,,кузина,великан,Иван навестил
+RU,1113,249,83,"Иван навестил великана мафиози, кто страдает от низкого роста.",DP2,страдает от низкого роста,великана,"мафиози,",,,великан,мафиози,Иван навестил
+RU,1114,250,84,"Репортеры интервьюировали дядю оратора, кто имеет степень доктора.",ambiguous,имеет степень доктора,дядю,"оратора,",,,дядя,оратор,Репортеры интервьюировали
+RU,1115,251,84,"Репортеры интервьюировали дядю дошкольника, кто имеет степень доктора.",DP1,имеет степень доктора,дядю,"дошкольника,",,,дядя,дошкольник,Репортеры интервьюировали
+RU,1116,252,84,"Репортеры интервьюировали дошкольника дяди, кто имеет степень доктора.",DP2,имеет степень доктора,дошкольника,"дяди,",,,дошкольник,дядя,Репортеры интервьюировали
+RU,1117,253,85,"Мария любила друга органиста, кто уходит на пенсию.",ambiguous,уходит на пенсию,друга,"органиста,",,,друг,органист,Мария любила
+RU,1118,254,85,"Мария любила друга ребенка, кто уходит на пенсию.",DP1,уходит на пенсию,друга,"ребенка,",,,друг,ребенок,Мария любила
+RU,1119,255,85,"Мария любила ребенка друга, кто уходит на пенсию.",DP2,уходит на пенсию,ребенка,"друга,",,,ребенок,друг,Мария любила
+RU,1120,256,86,"Иван любил наставника профессора, кто является известным экспертом.",ambiguous,является известным экспертом,наставника,"профессора,",,,наставник,Профессор.,Иван любил
+RU,1121,257,86,"Иван любил наставника новичка, кто является известным экспертом.",DP1,является известным экспертом,наставника,"новичка,",,,наставник,новичок,Иван любил
+RU,1122,258,86,"Иван любил новичка наставника, кто является известным экспертом.",DP2,является известным экспертом,новичка,"наставника,",,,новичок,наставник,Иван любил
+RU,1123,259,87,"Все знают советника раввина, кто имеет несколько докторских степеней.",ambiguous,имеет несколько докторских степеней,советника,"раввина,",,,советник,раввин,Все знают
+RU,1124,260,87,"Все знают советника школьника, кто имеет несколько докторских степеней.",DP1,имеет несколько докторских степеней,советника,"школьника,",,,советник,школьник,Все знают
+RU,1125,261,87,"Все знают школьника советника, кто имеет несколько докторских степеней.",DP2,имеет несколько докторских степеней,школьника,"советника,",,,школьник,советник,Все знают
+RU,1126,262,88,"Господин Иванов игнорировал друга подростка, кто празднует свой 14-й день рождения.",ambiguous,празднует свой 14-й день рождения,друга,"подростка,",,,друг,подросток.,Господин Иванов игнорировал
+RU,1127,263,88,"Господин Иванов игнорировал ребенка ветерана, кто празднует свой 14-й день рождения.",DP1,празднует свой 14-й день рождения,ребенка,"ветерана,",,,ребёнок,ветеран,Господин Иванов игнорировал
+RU,1128,264,88,"Господин Иванов игнорировал отца подростка, кто празднует свой 14-й день рождения.",DP2,празднует свой 14-й день рождения,отца,"подростка,",,,Отец,подросток,Господин Иванов игнорировал
+RU,1129,265,89,"Мария знает товарища дедушки, кто празднует восьмидесятый день рождения.  ",ambiguous,празднует восьмидесятый день рождения,товарища,"дедушки,",,,товарищ,дедушка,Мария знает
+RU,1130,266,89,"Мария знает дедушку подростка, кто празднует восьмидесятый день рождения.  ",DP1,празднует восьмидесятый день рождения,дедушку,"подростка,",,,дедушка,подросток,Мария знает
+RU,1131,267,89,"Мария знает внука старика, кто празднует восьмидесятый день рождения.  ",DP2,празднует восьмидесятый день рождения,внука,"старика,",,,внук,старик.,Мария знает
+RU,1132,268,90,"Анна узнала наставника педагога, кто воспитал поколения профессионалов. ",ambiguous,воспитал поколения профессионалов,наставника,"педагога,",,,Наставник.,педагог,Анна узнала
+RU,1133,269,90,"Анна узнала наставника первокурсника, кто воспитал поколения профессионалов. ",DP1,воспитал поколения профессионалов,наставника,"первокурсника,",,,наставник,первокурсник,Анна узнала
+RU,1134,270,90,"Анна узнала ребёнка наставника, кто воспитал поколения профессионалов.",DP2,воспитал поколения профессионалов,ребёнка,"наставника,",,,ребёнок,наставник,Анна узнала
+RU,1135,271,91,"Борис опросил начальника директора, кто получает награду за долгую службу.",ambiguous,получает награду за долгую службу,начальника,"директора,",,,начальник,директор,Борис опросил
+RU,1136,272,91,"Борис опросил начальника стажера, кто получает награду за долгую службу.",DP1,получает награду за долгую службу,начальника,"стажера,",,,начальник,стажер,Борис опросил
+RU,1137,273,91,"Борис опросил стажера начальника, кто получает награду за долгую службу.",DP2,получает награду за долгую службу,стажера,"начальника,",,,стажер,начальник,Борис опросил
+RU,1138,274,92,"Арендатор увидел начальника ученого, кто никогда не видел океан.",ambiguous,никогда не видел океан,начальника,"ученого,",,,начальник,ученый,Арендатор увидел
+RU,1139,275,92,"Арендатор увидел младенца штурмана, кто никогда не видел океан.",DP1,никогда не видел океан,младенца,"штурмана,",,,младенец,штурман.,Арендатор увидел
+RU,1140,276,92,"Арендатор увидел штурмана заключенного, кто никогда не видел океан.",DP2,никогда не видел океан,штурмана,"заключенного,",,,штурман.,заключенный,Арендатор увидел
+RU,1141,277,93,"Ученик дразнил дядю графа, кто никогда не видел ферму. ",ambiguous,никогда не видел ферму,дядю,"графа,",,,дядя,граф,Ученик дразнил
+RU,1142,278,93,"Ученик дразнил барина фермера, кто никогда не видел ферму.",DP1,никогда не видел ферму,барина,"фермера,",,,барин,фермер,Ученик дразнил
+RU,1143,279,93,"Ученик дразнил фермера барина, кто никогда не видел ферму.",DP2,никогда не видел ферму,фермера,"барина,",,,фермер,барин,Ученик дразнил
+RU,1144,280,94,"Ведущий оскорбил тренера руководителя, кто долго работает в отрасли.",ambiguous,долго работает в отрасли,тренера,"руководителя,",,,тренер,руководитель,Ведущий оскорбил
+RU,1145,281,94,"Ведущий оскорбил руководителя новичка, кто долго работает в отрасли.",DP1,долго работает в отрасли,руководителя,"новичка,",,,Руководитель,новичок,Ведущий оскорбил
+RU,1146,282,94,"Ведущий оскорбил стажера руководителя, кто долго работает в отрасли.",DP2,долго работает в отрасли,стажера,"руководителя,",,,Стажер,руководитель,Ведущий оскорбил
+RU,1147,283,95,"Гость впечатлил подругу бабушки, кто празднует годовщину свадьбы.",ambiguous,празднует годовщину свадьбы,подругу,"бабушки,",,,подруга,бабушка,Гость впечатлил
+RU,1148,284,95,"Гость впечатлил бабушку малыша, кто празднует годовщину свадьбы.",DP1,празднует годовщину свадьбы,бабушку,"малыша,",,,бабушка,малыш,Гость впечатлил
+RU,1149,285,95,"Гость впечатлил малыша бабушки, кто празднует годовщину свадьбы.",DP2,празднует годовщину свадьбы,малыша,"бабушки,",,,малыш,бабушка,Гость впечатлил
+RU,1150,286,96,"Доктор встретил пилота адмирала, кто сделал тысячи полетов.  ",ambiguous,сделал тысячи полетов,пилота,"адмирала,",,,пилот,Адмирал,Доктор встретил
+RU,1151,287,96,"Доктор встретил пилота врача, кто сделал тысячи полетов.  ",DP1,сделал тысячи полетов,пилота,"врача,",,,пилот,врач,Доктор встретил
+RU,1152,288,96,"Доктор встретил врача пилота, кто сделал тысячи полетов.",DP2,сделал тысячи полетов,врача,"пилота,",,,врач,Пилот,Доктор встретил
+SP,1153,1,1,El médico encontró al hijo del caballero que tenía barba.,ambiguous,tenía barba,hijo,caballero,,,,,El médico encontró
+SP,1154,2,1,El médico encontró al hijo de la mujer que tenía barba.,DP1,tenía barba,hijo,mujer,,,,,El médico encontró
+SP,1155,3,1,El médico encontró a la hija del caballero que tenía barba.,DP2,tenía barba,hija,caballero,,,,,El médico encontró a
+SP,1156,4,2,El señor Johnson visitó al amiguito del preescolar que estaba en un cochecito.,ambiguous,estaba en un cochecito,amiguito,preescolar,,,,,El señor Johnson visitó
+SP,1157,5,2,El señor Johnson visitó al bebé de la madre que estaba en un cochecito.,DP1,estaba en un cochecito,bebé,madre,,,,,El señor Johnson visitó
+SP,1158,6,2,El señor Johnson visitó a la madre del bebé que estaba en un cochecito.,DP2,estaba en un cochecito,madre,bebé,,,,,El señor Johnson visitó a
+SP,1159,7,3,Los reporteros entrevistaron al hermano del gemelo que estaba aprendiendo a caminar.,ambiguous,estaba aprendiendo a caminar,hermano,gemelo,,,,,Los reporteros entrevistaron
+SP,1160,8,3,Los reporteros entrevistaron al niñito del excursionista que estaba aprendiendo a caminar.,DP1,estaba aprendiendo a caminar,niñito,excursionista,,,,,Los reporteros entrevistaron
+SP,1161,9,3,Los reporteros entrevistaron al padre del niñito que estaba aprendiendo a caminar.,DP2,estaba aprendiendo a caminar,padre,niñito,,,,,Los reporteros entrevistaron
+SP,1162,10,4,Juan detestaba al amigo del hermano que conducía un coche.,ambiguous,conducía un coche,amigo,hermano,,,,,Juan detestaba
+SP,1163,11,4,Juan detestaba al hermano del bebé que conducía un coche.,DP1,conducía un coche,hermano,bebé,,,,,Juan detestaba
+SP,1164,12,4,Juan detestaba al bebé del hermano que conducía un coche.,DP2,conducía un coche,bebé,hermano,,,,,Juan detestaba
+SP,1165,13,5,María amaba a la hermana del tipo que estaba tomando exámenes.,ambiguous,estaba tomando exámenes,hermana,tipo,,,,,María amaba a
+SP,1166,14,5,María amaba a la hermana del bebé que estaba tomando exámenes.,DP1,estaba tomando exámenes,hermana,bebé,,,,,María amaba a
+SP,1167,15,5,María amaba al bebé de la hermana que estaba tomando exámenes.,DP2,estaba tomando exámenes,bebé,hermana,,,,,María amaba
+SP,1168,16,6,Juan apreciaba al tío del atleta que corría un maratón.,ambiguous,corría un maratón,tío,atleta,,,,,Juan apreciaba
+SP,1169,17,6,Juan apreciaba al tío del bebecito que corría un maratón.,DP1,corría un maratón,tío,bebecito,,,,,Juan apreciaba
+SP,1170,18,6,Juan apreciaba al bebecito del tío que corría un maratón.,DP2,corría un maratón,bebecito,tío,,,,,Juan apreciaba
+SP,1171,19,7,Todos conocen al compañero del bebé que siempre estaba gateando.,ambiguous,estaba gateando,compañero,bebé,,,,,Todos conocen
+SP,1172,20,7,Todos conocen al bebé del cuidador que siempre estaba gateando.,DP1,estaba gateando,bebé,cuidador,,,,,Todos conocen
+SP,1173,21,7,Todos conocen al cuidador del bebé que siempre estaba gateando.,DP2,estaba gateando,cuidador,bebé,,,,,Todos conocen
+SP,1174,22,8,Emily enfadó a la abuela del adolescente que estaba obteniendo una licencia de conducir.,ambiguous,estaba obteniendo una licencia de conducir,abuela,adolescente,,,,,Emily enfadó a
+SP,1175,23,8,Emily enfadó a la abuela del bebé que estaba obteniendo una licencia de conducir.,DP1,estaba obteniendo una licencia de conducir,abuela,bebé,,,,,Emily enfadó a
+SP,1176,24,8,Emily enfadó al bebé de la abuela que estaba obteniendo una licencia de conducir.,DP2,estaba obteniendo una licencia de conducir,bebé,abuela,,,,,Emily enfadó
+SP,1177,25,9,El señor ignoró a la amiga de la nieta que estaba empezando guardería.,ambiguous,estaba empezando guardería,amiga,nieta,,,,,El señor ignoró a
+SP,1178,26,9,El señor ignoró a la nieta del novio que estaba empezando guardería.,DP1,estaba empezando guardería,nieta,novio,,,,,El señor ignoró a
+SP,1179,27,9,El señor ignoró al padre de la nieta que estaba empezando guardería.,DP2,estaba empezando guardería,padre,nieta,,,,,El señor ignoró
+SP,1180,28,10,María conoce al confidente de la tía que asistía a la universidad.,ambiguous,asistía a la universidad,confidente,tía,,,,,María conoce
+SP,1181,29,10,María conoce a la tía del bebé que asistía a la universidad.,DP1,asistía a la universidad,tía,bebé,,,,,María conoce a
+SP,1182,30,10,María conoce al bebé de la tía que asistía a la universidad.,DP2,asistía a la universidad,bebé,tía,,,,,María conoce
+SP,1183,31,11,Luisa reconoció al amigo del tío que asistía a una fiesta electrónica.,ambiguous,asistía a una fiesta electrónica,amigo,tío,,,,,Luisa reconoció
+SP,1184,32,11,Luisa reconoció al tío del niño que asistía a una fiesta electrónica.,DP1,asistía a una fiesta electrónica,tío,niño,,,,,Luisa reconoció
+SP,1185,33,11,Luisa reconoció al niño del tío que asistía a una fiesta electrónica.,DP2,asistía a una fiesta electrónica,niño,tío,,,,,Luisa reconoció
+SP,1186,34,12,Juan entrevistó al hermano del bebé que estaba aprendiendo a hablar.,ambiguous,estaba aprendiendo a hablar,hermano,bebé,,,,,Juan entrevistó
+SP,1187,35,12,Juan entrevistó al bebé de la madre que estaba aprendiendo a hablar.,DP1,estaba aprendiendo a hablar,bebé,madre,,,,,Juan entrevistó
+SP,1188,36,12,Juan entrevistó a la madre del bebé que estaba aprendiendo a hablar.,DP2,estaba aprendiendo a hablar,madre,bebé,,,,,Juan entrevistó a
+SP,1189,37,13,Los amigos querían al abuelo del maestro que hacía cálculo.,ambiguous,hacía cálculo,abuelo,maestro,,,,,Los amigos querían
+SP,1190,38,13,Los amigos querían al abuelo del bebé que hacía cálculo.,DP1,hacía cálculo,abuelo,bebé,,,,,Los amigos querían
+SP,1191,39,13,Los amigos querían al bebé del abuelo que hacía cálculo.,DP2,hacía cálculo,bebé,abuelo,,,,,Los amigos querían
+SP,1192,40,14,El camarero observó al amigo de la abuela que se preparaba para la jubilación.,ambiguous,se preparaba para la jubilación,amigo,abuela,,,,,El camarero observó
+SP,1193,41,14,El camarero observó a la abuela del niño que se preparaba para la jubilación.,DP1,se preparaba para la jubilación,abuela,niño,,,,,El camarero observó a
+SP,1194,42,14,El camarero observó al hijo de la abuela que se preparaba para la jubilación.,DP2,se preparaba para la jubilación,hijo,abuela,,,,,El camarero observó
+SP,1195,43,15,El inquilino saludó a la hermana del niño que estaba tomando pecho.,ambiguous,estaba tomando pecho,hermana,niño,,,,,El inquilino saludó a
+SP,1196,44,15,El inquilino saludó al niño del padrastro que estaba tomando pecho.,DP1,estaba tomando pecho,niño,padrastro,,,,,El inquilino saludó
+SP,1197,45,15,El inquilino saludó al padrastro del niño que estaba tomando pecho.,DP2,estaba tomando pecho,padrastro,niño,,,,,El inquilino saludó
+SP,1198,46,16,El alumno se burló del amigo del estudiante que tenía dificultades con la tarea.,ambiguous,tenía dificultades con la tarea,amigo,estudiante,,,,,El alumno se burló d
+SP,1199,47,16,El alumno se burló del estudiante del profesor que tenía dificultades con la tarea.,DP1,tenía dificultades con la tarea,estudiante,profesor,,,,,El alumno se burló d
+SP,1200,48,16,El alumno se burló del profesor del estudiante que tenía dificultades con la tarea.,DP2,tenía dificultades con la tarea,profesor,estudiante,,,,,El alumno se burló d
+SP,1201,49,17,El rector recibió al camarada del director que tomaba decisiones ejecutivas.,ambiguous,tomaba decisiones ejecutivas,camarada,director,,,,,El rector recibió
+SP,1202,50,17,El rector recibió al director del asistente que tomaba decisiones ejecutivas.,DP1,tomaba decisiones ejecutivas,director,asistente,,,,,El rector recibió
+SP,1203,51,17,El rector recibió al asistente del director que tomaba decisiones ejecutivas.,DP2,tomaba decisiones ejecutivas,asistente,director,,,,,El rector recibió
+SP,1204,52,18,El director encontró al suplente del rector que estaba suspendiendo alumnos.,ambiguous,estaba suspendiendo alumnos,suplente,rector,,,,,El director encontró
+SP,1205,53,18,El director encontró al rector del escolar que estaba suspendiendo alumnos.,DP1,estaba suspendiendo alumnos,rector,escolar,,,,,El director encontró
+SP,1206,54,18,El director encontró al escolar del rector que estaba suspendiendo alumnos.,DP2,estaba suspendiendo alumnos,escolar,rector,,,,,El director encontró
+SP,1207,55,19,El abad conoció al sustituto del maestro que reprobó a toda la clase.,ambiguous,reprobó a toda la clase,sustituto,maestro,,,,,El abad conoció
+SP,1208,56,19,El abad conoció al maestro del estudiante que reprobó a toda la clase.,DP1,reprobó a toda la clase,maestro,estudiante,,,,,El abad conoció
+SP,1209,57,19,El abad conoció al estudiante del maestro que reprobó a toda la clase.,DP2,reprobó a toda la clase,estudiante,maestro,,,,,El abad conoció
+SP,1210,58,20,El entrevistador pagó al copiloto del capitán que estaba pilotando el avión.,ambiguous,estaba pilotando el avión,copiloto,capitán,,,,,El entrevistador pagó
+SP,1211,59,20,El entrevistador pagó al capitán del asistente que estaba pilotando el avión.,DP1,estaba pilotando el avión,capitán,asistente,,,,,El entrevistador pagó
+SP,1212,60,20,El entrevistador pagó al asistente del capitán que estaba pilotando el avión.,DP2,estaba pilotando el avión,asistente,capitán,,,,,El entrevistador pagó
+SP,1213,61,21,El empleado saludó al colega del gerente que dirigía la empresa.,ambiguous,dirigía la empresa,colega,gerente,,,,,El empleado saludó
+SP,1214,62,21,El empleado saludó al gerente del cajero que dirigía la empresa.,DP1,dirigía la empresa,gerente,cajero,,,,,El empleado saludó
+SP,1215,63,21,El empleado saludó al asistente del gerente que dirigía la empresa.,DP2,dirigía la empresa,asistente,gerente,,,,,El empleado saludó
+SP,1216,64,22,Juan gritó al profesor del artista que pintaba retratos.,ambiguous,pintaba retratos,profesor,artista,,,,,Juan gritó
+SP,1217,65,22,Juan gritó al artista de la modelo que pintaba retratos.,DP1,pintaba retratos,artista,modelo,,,,,Juan gritó
+SP,1218,66,22,Juan gritó a la modelo del artista que pintaba retratos.,DP2,pintaba retratos,modelo,artista,,,,,Juan gritó a
+SP,1219,67,23,El estudiante conoció al colega del maestro que estaba gestionando la clase.,ambiguous,estaba gestionando la clase,colega,maestro,,,,,El estudiante conoció
+SP,1220,68,23,El estudiante conoció al maestro del estudiante que estaba gestionando la clase.,DP1,estaba gestionando la clase,maestro,estudiante,,,,,El estudiante conoció
+SP,1221,69,23,El estudiante conoció al estudiante del maestro que estaba gestionando la clase.,DP2,estaba gestionando la clase,estudiante,maestro,,,,,El estudiante conoció
+SP,1222,70,24,El jefe visitó al abogado del consejero que estaba defendiendo el caso.,ambiguous,estaba defendiendo el caso,abogado,consejero,,,,,El jefe visitó
+SP,1223,71,24,El jefe visitó al abogado del cliente que estaba defendiendo el caso.,DP1,estaba defendiendo el caso,abogado,cliente,,,,,El jefe visitó
+SP,1224,72,24,El jefe visitó al cliente del abogado que estaba defendiendo el caso.,DP2,estaba defendiendo el caso,cliente,abogado,,,,,El jefe visitó
+SP,1225,73,25,El árbitro advirtió al compañero del jugador que estaba defendiendo el gol.,ambiguous,estaba defendiendo el gol,compañero,jugador,,,,,El árbitro advirtió
+SP,1226,74,25,El árbitro advirtió al jugador del entrenador que estaba defendiendo el gol.,DP1,estaba defendiendo el gol,jugador,entrenador,,,,,El árbitro advirtió
+SP,1227,75,25,El árbitro advirtió al entrenador del jugador que estaba defendiendo el gol.,DP2,estaba defendiendo el gol,entrenador,jugador,,,,,El árbitro advirtió
+SP,1228,76,26,El anfitrión insultó al colega del programador que escribía software para ganarse la vida.,ambiguous,escribía software para ganarse la vida,colega,programador,,,,,El anfitrión insultó
+SP,1229,77,26,El anfitrión insultó al programador del abogado que escribía software para ganarse la vida.,DP1,escribía software para ganarse la vida,programador,abogado,,,,,El anfitrión insultó
+SP,1230,78,26,El anfitrión insultó al abogado del programador que escribía software para ganarse la vida.,DP2,escribía software para ganarse la vida,abogado,programador,,,,,El anfitrión insultó
+SP,1231,79,27,El invitado impresionó al socio del mecánico que repara motores cada día.,ambiguous,repara motores cada día,socio,mecánico,,,,,El invitado impresionó
+SP,1232,80,27,El invitado impresionó al mecánico del médico que repara motores cada día.,DP1,repara motores cada día,mecánico,médico,,,,,El invitado impresionó
+SP,1233,81,27,El invitado impresionó al médico del mecánico que repara motores cada día.,DP2,repara motores cada día,médico,mecánico,,,,,El invitado impresionó
+SP,1234,82,28,El narrador preguntó al primo del niño que iba a ser príncipe.,ambiguous,iba a ser príncipe,primo,niño,,,,,El narrador preguntó
+SP,1235,83,28,El narrador preguntó al niño de la madre que iba a ser príncipe.,DP1,iba a ser príncipe,niño,madre,,,,,El narrador preguntó
+SP,1236,84,28,El narrador preguntó a la madre del niño que iba a ser príncipe.,DP2,iba a ser príncipe,madre,niño,,,,,El narrador preguntó a
+SP,1237,85,29,El abuelo molestó al sobrino del corista que tenía una voz de bajo profunda.,ambiguous,tenía una voz de bajo profunda,sobrino,corista,,,,,El abuelo molestó
+SP,1238,86,29,El abuelo molestó al sobrino de la soprano que tenía una voz de bajo profunda.,DP1,tenía una voz de bajo profunda,sobrino,soprano,,,,,El abuelo molestó
+SP,1239,87,29,El abuelo molestó a la tía del sobrino que tenía una voz de bajo profunda.,DP2,tenía una voz de bajo profunda,tía,sobrino,,,,,El abuelo molestó a
+SP,1240,88,30,El cliente extrañó al nieto del peluquero que se afeitaba diariamente.,ambiguous,se afeitaba diariamente,nieto,peluquero,,,,,El cliente extrañó
+SP,1241,89,30,El cliente extrañó al nieto de la señora que se afeitaba diariamente.,DP1,se afeitaba diariamente,nieto,señora,,,,,El cliente extrañó
+SP,1242,90,30,El cliente extrañó a la nieta del anciano que se afeitaba diariamente.,DP2,se afeitaba diariamente,nieta,anciano,,,,,El cliente extrañó a
+SP,1243,91,31,El director de coro saludó al conocido del creyente que se hizo monje.,ambiguous,se hizo monje,conocido,creyente,,,,,El director de coro saludó
+SP,1244,92,31,El director de coro saludó al conocido de la mujer que se hizo monje.,DP1,se hizo monje,conocido,mujer,,,,,El director de coro saludó
+SP,1245,93,31,El director de coro saludó a la amiga del conocido que se hizo monje.,DP2,se hizo monje,amiga,conocido,,,,,El director de coro saludó a
+SP,1246,94,32,El cliente extrañó a la hermana de la novia que quedó en estado de embarazo.,ambiguous,quedó en estado de embarazo,hermana,novia,,,,,El cliente extrañó a
+SP,1247,95,32,El cliente extrañó a la novia del novio que quedó en estado de embarazo.,DP1,quedó en estado de embarazo,novia,novio,,,,,El cliente extrañó a
+SP,1248,96,32,El cliente extrañó al novio de la novia que quedó en estado de embarazo.,DP2,quedó en estado de embarazo,novio,novia,,,,,El cliente extrañó
+SP,1249,97,33,El médico conoció al sobrino del cuidador que tenía bigote.,ambiguous,tenía bigote,sobrino,cuidador,,,,,El médico conoció
+SP,1250,98,33,El médico conoció al sobrino de la novia que tenía bigote.,DP1,tenía bigote,sobrino,novia,,,,,El médico conoció
+SP,1251,99,33,El médico conoció a la novia del sobrino que tenía bigote.,DP2,tenía bigote,novia,sobrino,,,,,El médico conoció a
+SP,1252,100,34,Juan visitó a la enfermera de la mujer que quedó en estado de embarazo.,ambiguous,quedó en estado de embarazo,enfermera,mujer,,,,,Juan visitó a
+SP,1253,101,34,Juan visitó a la enfermera del príncipe que quedó en estado de embarazo.,DP1,quedó en estado de embarazo,enfermera,príncipe,,,,,Juan visitó a
+SP,1254,102,34,Juan visitó al príncipe de la enfermera que quedó en estado de embarazo.,DP2,quedó en estado de embarazo,príncipe,enfermera,,,,,Juan visitó
+SP,1255,103,35,El periodista entrevistó al padre del forzudo que se ha dejado barba.,ambiguous,se ha dejado barba,padre,forzudo,,,,,El periodista entrevistó
+SP,1256,104,35,El periodista entrevistó al padre del bebé que se ha dejado barba.,DP1,se ha dejado barba,padre,bebé,,,,,El periodista entrevistó
+SP,1257,105,35,El periodista entrevistó al bebé del padre que se ha dejado barba.,DP2,se ha dejado barba,bebé,padre,,,,,El periodista entrevistó
+SP,1258,106,36,Carlos despreció a la criada de la esposa que estaba en la etapa inicial de embarazo.,ambiguous,estaba en la etapa inicial de embarazo,criada,esposa,,,,,Carlos despreció a
+SP,1259,107,36,Carlos despreció a la esposa del rey que estaba en la etapa inicial de embarazo.,DP1,estaba en la etapa inicial de embarazo,esposa,rey,,,,,Carlos despreció a
+SP,1260,108,36,Carlos despreció al esposo de la bailarina que estaba en la etapa inicial de embarazo.,DP2,estaba en la etapa inicial de embarazo,esposo,bailarina,,,,,Carlos despreció
+SP,1261,109,37,María amó la madre de la vaquera que menstruaba.,ambiguous,menstruaba,madre,vaquera,,,,,María amó
+SP,1262,110,37,María amó la tía del niño que menstruaba.,DP1,menstruaba,tía,niño,,,,,María amó
+SP,1263,111,37,María amó el sobrino de la mujer que menstruaba.,DP2,menstruaba,sobrino,mujer,,,,,María amó
+SP,1264,112,38,Juan despreciaba a la sobrina de la hechicera que dio a luz.,ambiguous,dio a luz,sobrina,hechicera,,,,,Juan despreciaba a
+SP,1265,113,38,Juan despreciaba a la sobrina del patriarca que dio a luz.,DP1,dio a luz,sobrina,patriarca,,,,,Juan despreciaba a
+SP,1266,114,38,Juan despreciaba al patriarca de la sobrina que dio a luz.,DP2,dio a luz,patriarca,sobrina,,,,,Juan despreciaba
+SP,1267,115,39,Todos conocen a la hermana de la dama que estaba en etapa avanzada de embarazo.,ambiguous,estaba en etapa avanzada de embarazo,hermana,dama,,,,,Todos conocen a
+SP,1268,116,39,Todos conocen a la hermana del niño que estaba en etapa avanzada de embarazo.,DP1,estaba en etapa avanzada de embarazo,hermana,niño,,,,,Todos conocen a
+SP,1269,117,39,Todos conocen al hermano de la dama que estaba en etapa avanzada de embarazo.,DP2,estaba en etapa avanzada de embarazo,hermano,dama,,,,,Todos conocen
+SP,1270,118,40,María enfureció al sobrino del hombre que embarazó a una mujer.,ambiguous,embarazó a una mujer,sobrino,hombre,,,,,María enfureció
+SP,1271,119,40,María enfureció al sobrino de la señora que embarazó a una mujer.,DP1,embarazó a una mujer,sobrino,señora,,,,,María enfureció
+SP,1272,120,40,María enfureció a la sobrina del hombre que embarazó a una mujer.,DP2,embarazó a una mujer,sobrina,hombre,,,,,María enfureció a
+SP,1273,121,41,El señor González ignoró a la sobrina de la chica que se retiró a vivir en un convento.,ambiguous,se retiró a vivir en un convento,sobrina,chica,,,,,El señor González ignoró a
+SP,1274,122,41,El señor González ignoró a la sobrina del hombre que se retiró a vivir en un convento.,DP1,se retiró a vivir en un convento,sobrina,hombre,,,,,El señor González ignoró a
+SP,1275,123,41,El señor González ignoró al tío de la chica que se retiró a vivir en un convento.,DP2,se retiró a vivir en un convento,tío,chica,,,,,El señor González ignoró
+SP,1276,124,42,María conoce el abuelo del marino que se hizo donante de esperma.,ambiguous,se hizo donante de esperma,abuelo,marino,,,,,María conoce
+SP,1277,125,42,María conoce el abuelo de la niñera que se hizo donante de esperma.,DP1,se hizo donante de esperma,abuelo,niñera,,,,,María conoce
+SP,1278,126,42,María conoce la novia del marino que se hizo donante de esperma.,DP2,se hizo donante de esperma,novia,marino,,,,,María conoce
+SP,1279,127,43,Luisa reconoció a la hija de la abuela que llegó a ser profesional de lactancia.,ambiguous,llegó a ser profesional de lactancia,hija,abuela,,,,,Luisa reconoció a
+SP,1280,128,43,Luisa reconoció a la hija del hombre que llegó a ser profesional de lactancia.,DP1,llegó a ser profesional de lactancia,hija,hombre,,,,,Luisa reconoció a
+SP,1281,129,43,Luisa reconoció al padre de la mujer que llegó a ser profesional de lactancia.,DP2,llegó a ser profesional de lactancia,padre,mujer,,,,,Luisa reconoció
+SP,1282,130,44,Hugo entrevistó al padre del hombre que se sometió a un examen de próstata.,ambiguous,se sometió a un examen de próstata,padre,hombre,,,,,Hugo entrevistó
+SP,1283,131,44,Hugo entrevistó al padre de la niña que se sometió a un examen de próstata.,DP1,se sometió a un examen de próstata,padre,niña,,,,,Hugo entrevistó
+SP,1284,132,44,Hugo entrevistó a la hija del hombre que se sometió a un examen de próstata.,DP2,se sometió a un examen de próstata,hija,hombre,,,,,Hugo entrevistó a
+SP,1285,133,45,Los amigos apreciaron a la tía de la niñera que estaba pasando por la menopausia.,ambiguous,estaba pasando por la menopausia,tía,niñera,,,,,Los amigos apreciaron a
+SP,1286,134,45,Los amigos apreciaron a la niñera del niño que estaba pasando por la menopausia.,DP1,estaba pasando por la menopausia,niñera,niño,,,,,Los amigos apreciaron a
+SP,1287,135,45,Los amigos apreciaron al sobrino de la niñera que estaba pasando por la menopausia.,DP2,estaba pasando por la menopausia,sobrino,niñera,,,,,Los amigos apreciaron
+SP,1288,136,46,El camarero observó al hermano del hombre que tenía cáncer testicular.,ambiguous,tenía cáncer testicular,hermano,hombre,,,,,El camarero observó
+SP,1289,137,46,El camarero observó al hermano de la señora que tenía cáncer testicular.,DP1,tenía cáncer testicular,hermano,señora,,,,,El camarero observó
+SP,1290,138,46,El camarero observó a la hermana del hombre que tenía cáncer testicular.,DP2,tenía cáncer testicular,hermana,hombre,,,,,El camarero observó a
+SP,1291,139,47,El inquilino saludó a la amiga de la duquesa que se convirtió en madre sustituta.,ambiguous,se convirtió en madre sustituta,amiga,duquesa,,,,,El inquilino saludó a
+SP,1292,140,47,El inquilino saludó a la esposa del duque que se convirtió en madre sustituta.,DP1,se convirtió en madre sustituta,esposa,duque,,,,,El inquilino saludó a
+SP,1293,141,47,El inquilino saludó al marido de la duquesa que se convirtió en madre sustituta.,DP2,se convirtió en madre sustituta,marido,duquesa,,,,,El inquilino saludó
+SP,1294,142,48,El alumno engañó al maestro del profesor que estaba calificando exámenes.,ambiguous,estaba calificando exámenes,maestro,profesor,,,,,El alumno engañó
+SP,1295,143,48,El alumno engañó al maestro del niño que estaba calificando exámenes.,DP1,estaba calificando exámenes,maestro,niño,,,,,El alumno engañó
+SP,1296,144,48,El alumno engañó al niño del maestro que estaba calificando exámenes.,DP2,estaba calificando exámenes,niño,maestro,,,,,El alumno engañó
+SP,1297,145,49,El canciller recibió al mentor del veterano que cobraba una pensión.,ambiguous,cobraba una pensión,mentor,veterano,,,,,El canciller recibió
+SP,1298,146,49,El canciller recibió al bisabuelo del niño que cobraba una pensión.,DP1,cobraba una pensión,bisabuelo,niño,,,,,El canciller recibió
+SP,1299,147,49,El canciller recibió al niño del bisabuelo que cobraba una pensión.,DP2,cobraba una pensión,niño,bisabuelo,,,,,El canciller recibió
+SP,1300,148,50,El patrocinador conoció al compañero del adolescente que atravesaba la pubertad.,ambiguous,atravesaba la pubertad,compañero,adolescente,,,,,El patrocinador conoció
+SP,1301,149,50,El patrocinador conoció al adolescente del anciano que atravesaba la pubertad.,DP1,atravesaba la pubertad,adolescente,anciano,,,,,El patrocinador conoció
+SP,1302,150,50,El patrocinador conoció al abuelo del adolescente que atravesaba la pubertad.,DP2,atravesaba la pubertad,abuelo,adolescente,,,,,El patrocinador conoció
+SP,1303,151,51,El abad conoció al primo del niño que estaba empezando la dentición.,ambiguous,estaba empezando la dentición,primo,niño,,,,,El abad conoció
+SP,1304,152,51,El abad conoció al bebé del padre que estaba dentando.,DP1,estaba dentando,bebé,padre,,,,,El abad conoció
+SP,1305,153,51,El abad conoció al padre del bebé que estaba dentando.,DP2,estaba dentando,padre,bebé,,,,,El abad conoció
+SP,1306,154,52,El ratoncito pagó al amigo del niño que estaba aprendiendo a contar.,ambiguous,estaba aprendiendo a contar,amigo,niño,,,,,El ratoncito pagó
+SP,1307,155,52,El ratoncito pagó al chaval del jubilado que estaba aprendiendo a contar.,DP1,estaba aprendiendo a contar,chaval,jubilado,,,,,El ratoncito pagó
+SP,1308,156,52,El ratoncito pagó al maestro del niño que estaba aprendiendo a contar.,DP2,estaba aprendiendo a contar,maestro,niño,,,,,El ratoncito pagó
+SP,1309,157,53,El empleado saludó al camarada de la bisabuela que estaba celebrando un aniversario de boda.,ambiguous,estaba celebrando un aniversario de boda,camarada,bisabuela,,,,,El empleado saludó
+SP,1310,158,53,El empleado saludó a la bisabuela del preescolar que estaba celebrando un aniversario de boda.,DP1,estaba celebrando un aniversario de boda,bisabuela,preescolar,,,,,El empleado saludó a
+SP,1311,159,53,El empleado saludó al preescolar de la bisabuela que estaba celebrando un aniversario de boda.,DP2,estaba celebrando un aniversario de boda,preescolar,bisabuela,,,,,El empleado saludó
+SP,1312,160,54,Roberto gritó al sirviente del conde que se había retirado a vivir en una casa de retiro.,ambiguous,se había retirado a vivir en una casa de retiro,sirviente,conde,,,,,Roberto gritó
+SP,1313,161,54,Roberto gritó a la tía del joven que se había retirado a vivir en una casa de retiro.,DP1,se había retirado a vivir en una casa de retiro,tía,joven,,,,,Roberto gritó a
+SP,1314,162,54,Roberto gritó al nieto del conde que se había retirado a vivir en una casa de retiro.,DP2,se había retirado a vivir en una casa de retiro,nieto,conde,,,,,Roberto gritó
+SP,1315,163,55,El estudiante conoció al hermanito del preescolar que aprendía a hacer pipí en la sillita.,ambiguous,aprendía a hacer pipí en la sillita,hermanito,preescolar,,,,,El estudiante conoció
+SP,1316,164,55,El estudiante conoció al preescolar del jefe que aprendía a hacer pipí en la sillita.,DP1,aprendía a hacer pipí en la sillita,preescolar,jefe,,,,,El estudiante conoció
+SP,1317,165,55,El estudiante conoció al padre del preescolar que aprendía a hacer pipí en la sillita.,DP2,aprendía a hacer pipí en la sillita,padre,preescolar,,,,,El estudiante conoció
+SP,1318,166,56,El gerente del hospital visitó al médico del cardiólogo que realizaba una cirugía.,ambiguous,realizaba una cirugía,médico,cardiólogo,,,,,El gerente del hospital visitó
+SP,1319,167,56,El gerente del hospital visitó al médico del bebé que realizaba una cirugía.,DP1,realizaba una cirugía,médico,bebé,,,,,El gerente del hospital visitó
+SP,1320,168,56,El gerente del hospital visitó al bebé del médico que realizaba una cirugía.,DP2,realizaba una cirugía,bebé,médico,,,,,El gerente del hospital visitó
+SP,1321,169,57,El cirujano general advirtió al colega del dentista que se habia hecho padre de una hija.,ambiguous,se habia hecho padre de una hija,colega,dentista,,,,,El cirujano general advirtió
+SP,1322,170,57,El cirujano general advirtió al colega de la vendedora que se habia hecho padre de una hija.,DP1,se habia hecho padre de una hija,colega,vendedora,,,,,El cirujano general advirtió
+SP,1323,171,57,El cirujano general advirtió a la vendedora del colega que se habia hecho padre de una hija.,DP2,se habia hecho padre de una hija,vendedora,colega,,,,,El cirujano general advirtió a
+SP,1324,172,58,El anfitrión insultó a la amiga de la chica que celebraba su quinceañera.,ambiguous,celebraba su quinceañera,amiga,chica,,,,,El anfitrión insultó a
+SP,1325,173,58,El anfitrión insultó a la chica del padre que celebraba su quinceañera.,DP1,celebraba su quinceañera,chica,padre,,,,,El anfitrión insultó a
+SP,1326,174,58,El anfitrión insultó al sobrino de la chica que celebraba su quinceañera.,DP2,celebraba su quinceañera,sobrino,chica,,,,,El anfitrión insultó
+SP,1327,175,59,El invitado impresionó al pariente del hombre que llegó a ser rey.,ambiguous,llegó a ser rey,pariente,hombre,,,,,El invitado impresionó
+SP,1328,176,59,El invitado impresionó al pariente de la señora que llegó a ser rey.,DP1,llegó a ser rey,pariente,señora,,,,,El invitado impresionó
+SP,1329,177,59,El invitado impresionó a la esposa del pariente que llegó a ser rey.,DP2,llegó a ser rey,esposa,pariente,,,,,El invitado impresionó a
+SP,1330,178,60,El proveedor apreciaba a la amiga de la aristócrata que gobernaba como duquesa.,ambiguous,gobernaba como duquesa,amiga,aristócrata,,,,,El proveedor apreciaba a
+SP,1331,179,60,El proveedor apreciaba a la superior del caballero que gobernaba como duquesa.,DP1,gobernaba como duquesa,superior,caballero,,,,,El proveedor apreciaba a
+SP,1332,180,60,El proveedor apreciaba a la subordinada de la aristócrata que gobernaba como duquesa.,DP2,gobernaba como duquesa,subordinada,aristócrata,,,,,El proveedor apreciaba a
+SP,1333,181,61,El abuelo molestó al compañero del anciano que alardeaba de su machismo.,ambiguous,alardeaba de su machismo,compañero,anciano,,,,,El abuelo molestó
+SP,1334,182,61,El abuelo molestó al compañero de la esposa que alardeaba de su machismo.,DP1,alardeaba de su machismo,compañero,esposa,,,,,El abuelo molestó
+SP,1335,183,61,El abuelo molestó a la hermana del compañero que alardeaba de su machismo.,DP2,alardeaba de su machismo,hermana,compañero,,,,,El abuelo molestó a
+SP,1336,184,62,El cliente extrañó al vecino del padrastro que se entregaba al toreo.,ambiguous,se entregaba al toreo,vecino,padrastro,,,,,El cliente extrañó
+SP,1337,185,62,El cliente extrañó al admirador de la heredera que se entregaba al toreo.,DP1,se entregaba al toreo,admirador,heredera,,,,,El cliente extrañó
+SP,1338,186,62,El cliente extrañó a la heredera del forzudo que se entregaba al toreo.,DP2,se entregaba al toreo,heredera,forzudo,,,,,El cliente extrañó a
+SP,1339,187,63,El maestro del coro sonrió al escudero del caballero que se jactaba de su hombría.,ambiguous,se jactaba de su hombría,escudero,caballero,,,,,El maestro del coro sonrió
+SP,1340,188,63,El maestro del coro sonrió al socio de la dama que se jactaba de su hombría.,DP1,se jactaba de su hombría,socio,dama,,,,,El maestro del coro sonrió
+SP,1341,189,63,El maestro del coro sonrió a la esposa del caballero que se jactaba de su hombría.,DP2,se jactaba de su hombría,esposa,caballero,,,,,El maestro del coro sonrió a
+SP,1342,190,64,El cliente extrañó al compañero del gerente que era mariachi tradicional.,ambiguous,era mariachi tradicional,compañero,gerente,,,,,El cliente extrañó
+SP,1343,191,64,El cliente extrañó al compañero de la chica que era mariachi tradicional.,DP1,era mariachi tradicional,compañero,chica,,,,,El cliente extrañó
+SP,1344,192,64,El cliente extrañó a la hija del compañero que era mariachi tradicional.,DP2,era mariachi tradicional,hija,compañero,,,,,El cliente extrañó a
+SP,1345,193,65,El médico conoció a la costurera de la viuda que ocupaba la posición de matriarca.,ambiguous,ocupaba la posición de matriarca,costurera,viuda,,,,,El médico conoció a
+SP,1346,194,65,El médico conoció a la aliada del niño que ocupaba la posición de matriarca.,DP1,ocupaba la posición de matriarca,aliada,niño,,,,,El médico conoció a
+SP,1347,195,65,El médico conoció al hijo de la aliada que ocupaba la posición de matriarca.,DP2,ocupaba la posición de matriarca,hijo,aliada,,,,,El médico conoció
+SP,1348,196,66,El señor García visitó a la esposa de la socia que acaba de conseguir ser madrina.,ambiguous,acaba de conseguir ser madrina,esposa,socia,,,,,El señor García visitó a
+SP,1349,197,66,El señor García visitó a la socia del muchacho que acaba de conseguir ser madrina.,DP1,acaba de conseguir ser madrina,socia,muchacho,,,,,El señor García visitó a
+SP,1350,198,66,El señor García visitó al marido de la socia que acaba de conseguir ser madrina.,DP2,acaba de conseguir ser madrina,marido,socia,,,,,El señor García visitó
+SP,1351,199,67,Juan detestaba al compañero del inversor que había trabajado allí desde siempre.,ambiguous,había trabajado allí desde siempre,compañero,inversor,,,,,Juan detestaba
+SP,1352,200,67,Juan detestaba al compañero del novato que había trabajado allí desde siempre.,DP1,había trabajado allí desde siempre,compañero,novato,,,,,Juan detestaba
+SP,1353,201,67,Juan detestaba al aprendiz del experto que había trabajado allí desde siempre.,DP2,había trabajado allí desde siempre,aprendiz,experto,,,,,Juan detestaba
+SP,1354,202,68,María admiraba al vecino del magnate que llevaba años como director ejecutivo.,ambiguous,llevaba años como director ejecutivo,vecino,magnate,,,,,María admiraba
+SP,1355,203,68,María admiraba al vecino del estudiante que llevaba años como director ejecutivo.,DP1,llevaba años como director ejecutivo,vecino,estudiante,,,,,María admiraba
+SP,1356,204,68,María admiraba al estudiante del vecino que llevaba años como director ejecutivo.,DP2,llevaba años como director ejecutivo,estudiante,vecino,,,,,María admiraba
+SP,1357,205,69,Juan admiraba al entrenador del maratonista que contaba con 30 años de experiencia.,ambiguous,contaba con 30 años de experiencia,entrenador,maratonista,,,,,Juan admiraba
+SP,1358,206,69,Juan admiraba al alumno del entrenador que contaba con 30 años de experiencia.,DP2,contaba con 30 años de experiencia,alumno,entrenador,,,,,Juan admiraba
+SP,1359,207,69,Juan admiraba al entrenador del principiante que contaba con 30 años de experiencia.,DP1,contaba con 30 años de experiencia,entrenador,principiante,,,,,Juan admiraba
+SP,1360,208,70,Todos conocen al jefe del científico que es frecuentemente investigador principal.,ambiguous,es frecuentemente investigador principal,jefe,científico,,,,,Todos conocen
+SP,1361,209,70,Todos conocen al jefe del pasante que es frecuentemente investigador principal.,DP1,es frecuentemente investigador principal,jefe,pasante,,,,,Todos conocen
+SP,1362,210,70,Todos conocen al pasante del jefe que es frecuentemente investigador principal.,DP2,es frecuentemente investigador principal,pasante,jefe,,,,,Todos conocen
+SP,1363,211,71,María enfadó al mentor del profesional que había ganado medallas olímpicas de oro.,ambiguous,había ganado medallas olímpicas de oro,mentor,profesional,,,,,María enfadó
+SP,1364,212,71,María enfadó al admirador del entrenador que había ganado medallas olímpicas de oro.,DP2,había ganado medallas olímpicas de oro,admirador,entrenador,,,,,María enfadó
+SP,1365,213,71,María enfadó al entrenador del aficionado que había ganado medallas olímpicas de oro.,DP1,había ganado medallas olímpicas de oro,entrenador,aficionado,,,,,María enfadó
+SP,1366,214,72,El señor García ignoró al amigo del jefe que estaba a punto de jubilarse.,ambiguous,estaba a punto de jubilarse,amigo,jefe,,,,,El señor García ignoró
+SP,1367,215,72,El señor García ignoró al aprendiz del jefe que estaba a punto de jubilarse.,DP2,estaba a punto de jubilarse,aprendiz,jefe,,,,,El señor García ignoró
+SP,1368,216,72,El señor García ignoró al jefe del aprendiz que estaba a punto de jubilarse.,DP1,estaba a punto de jubilarse,jefe,aprendiz,,,,,El señor García ignoró
+SP,1369,217,73,Ana conoce al conocido del ejecutivo que fue un miembro fundador.,ambiguous,fue un miembro fundador,conocido,ejecutivo,,,,,Ana conoce
+SP,1370,218,73,Ana conoce al conocido del novato que fue un miembro fundador.,DP1,fue un miembro fundador,conocido,novato,,,,,Ana conoce
+SP,1371,219,73,Ana conoce al protegido del ejecutivo que fue un miembro fundador.,DP2,fue un miembro fundador,protegido,ejecutivo,,,,,Ana conoce
+SP,1372,220,74,Luisa reconoció al amigo del estafador que era un residente antiguo.,ambiguous,era un residente antiguo,amigo,estafador,,,,,Luisa reconoció
+SP,1373,221,74,Luisa reconoció al amigo del visitante que era un residente antiguo.,DP1,era un residente antiguo,amigo,visitante,,,,,Luisa reconoció
+SP,1374,222,74,Luisa reconoció al visitante del amigo que era un residente antiguo.,DP2,era un residente antiguo,visitante,amigo,,,,,Luisa reconoció
+SP,1375,223,75,Ben entrevistó al tío del príncipe que era un veterano experimentado.,ambiguous,era un veterano experimentado,tío,príncipe,,,,,Ben entrevistó
+SP,1376,224,75,Ben entrevistó al tío del principiante que era un veterano experimentado.,DP1,era un veterano experimentado,tío,principiante,,,,,Ben entrevistó
+SP,1377,225,75,Ben entrevistó al recluta del tío que era un veterano experimentado.,DP2,era un veterano experimentado,recluta,tío,,,,,Ben entrevistó
+SP,1378,226,76,Los empleados admiraban al jefe del líder que llevaba más tiempo que nadie en la empresa.,ambiguous,llevaba más tiempo que nadie en la empresa,jefe,líder,,,,,Los empleados admiraban
+SP,1379,227,76,Los empleados admiraban al jefe del pasante que llevaba más tiempo que nadie en la empresa.,DP1,llevaba más tiempo que nadie en la empresa,jefe,pasante,,,,,Los empleados admiraban
+SP,1380,228,76,Los empleados admiraban al pasante del jefe que llevaba más tiempo que nadie en la empresa.,DP2,llevaba más tiempo que nadie en la empresa,pasante,jefe,,,,,Los empleados admiraban
+SP,1381,229,77,El camarero notó al familiar del anciano que contaba historias personales de la Segunda Guerra Mundial.,ambiguous,contaba historias personales de la Segunda Guerra Mundial,familiar,anciano,,,,,El camarero notó
+SP,1382,230,77,El camarero notó al bisabuelo del niño que contaba historias personales de la Segunda Guerra Mundial.,DP1,contaba historias personales de la Segunda Guerra Mundial,bisabuelo,niño,,,,,El camarero notó
+SP,1383,231,77,El camarero notó al bisnieto del veterano que contaba historias personales de la Segunda Guerra Mundial.,DP2,contaba historias personales de la Segunda Guerra Mundial,bisnieto,veterano,,,,,El camarero notó
+SP,1384,232,78,El inquilino saludó al coronel del comandante que había servido durante 20 años.,ambiguous,había servido durante 20 años,coronel,comandante,,,,,El inquilino saludó
+SP,1385,233,78,El inquilino saludó al comandante del recluta que había servido durante 20 años.,DP1,había servido durante 20 años,comandante,recluta,,,,,El inquilino saludó
+SP,1386,234,78,El inquilino saludó al recluta del comandante que había servido durante 20 años.,DP2,había servido durante 20 años,recluta,comandante,,,,,El inquilino saludó
+SP,1387,235,79,El alumno se burló de la tía de la enfermera que había enseñado a sus nietas a maquillarse bien.,ambiguous,había enseñado a sus nietas a maquillarse bien,tía,enfermera,,,,,El alumno se burló de
+SP,1388,236,79,El alumno se burló de la enfermera de la embarazada que había enseñado a sus nietas a maquillarse bien.,DP1,había enseñado a sus nietas a maquillarse bien,enfermera,embarazada,,,,,El alumno se burló de
+SP,1389,237,79,El alumno se burló del hermano de la enfermera que había enseñado a sus nietas a maquillarse bien.,DP2,había enseñado a sus nietas a maquillarse bien,hermano,enfermera,,,,,El alumno se burló d
+SP,1390,238,80,El canciller recibió al camellero del beduino que vivía en el desierto.,ambiguous,vivía en el desierto,camellero,beduino,,,,,El canciller recibió
+SP,1391,239,80,El canciller recibió al entrenador del isleño que vivía en el desierto.,DP1,vivía en el desierto,entrenador,isleño,,,,,El canciller recibió
+SP,1392,240,80,El canciller recibió al financiero del camellero que vivía en el desierto.,DP2,vivía en el desierto,financiero,camellero,,,,,El canciller recibió
+SP,1393,241,81,El gobernador conoció al hermano del aristócrata que se postulaba para alcalde.,ambiguous,se postulaba para alcalde,hermano,aristócrata,,,,,El gobernador conoció
+SP,1394,242,81,El gobernador conoció al candidato del patrocinador que se postulaba para alcalde.,DP1,se postulaba para alcalde,candidato,patrocinador,,,,,El gobernador conoció
+SP,1395,243,81,El gobernador conoció al patrocinador del candidato que se postulaba para alcalde.,DP2,se postulaba para alcalde,patrocinador,candidato,,,,,El gobernador conoció
+SP,1396,244,82,El imán conoció al juez de la divorciada que firmó los papeles de divorcio.,ambiguous,firmó los papeles de divorcio,juez,divorciada,,,,,El imán conoció
+SP,1397,245,82,El imán conoció al padre del menor que firmó los papeles de divorcio.,DP1,firmó los papeles de divorcio,padre,menor,,,,,El imán conoció
+SP,1398,246,82,El imán conoció a la niñera de la divorciada que firmó los papeles de divorcio.,DP2,firmó los papeles de divorcio,niñera,divorciada,,,,,El imán conoció a
+SP,1399,247,83,El entrevistador pagó al abogado del entrenador que no tenía antecedentes penales.,ambiguous,no tenía antecedentes penales,abogado,entrenador,,,,,El entrevistador pagó
+SP,1400,248,83,El entrevistador pagó al abogado del convicto que no tenía antecedentes penales.,DP1,no tenía antecedentes penales,abogado,convicto,,,,,El entrevistador pagó
+SP,1401,249,83,El entrevistador pagó al prisionero del juez que no tenía antecedentes penales.,DP2,no tenía antecedentes penales,prisionero,juez,,,,,El entrevistador pagó
+SP,1402,250,84,El empleado saludó al patrocinador del propietario que tenía un imperio inmobiliario.,ambiguous,tenía un imperio inmobiliario,patrocinador,propietario,,,,,El empleado saludó
+SP,1403,251,84,El empleado saludó al propietario del indigente que tenía un imperio inmobiliario.,DP1,tenía un imperio inmobiliario,propietario,indigente,,,,,El empleado saludó
+SP,1404,252,84,El empleado saludó al inquilino del propietario que tenía un imperio inmobiliario.,DP2,tenía un imperio inmobiliario,inquilino,propietario,,,,,El empleado saludó
+SP,1405,253,85,Roberto gritó al cirujano del dentista que había extraído miles de dientes.,ambiguous,había extraído miles de dientes,cirujano,dentista,,,,,Roberto gritó
+SP,1406,254,85,Roberto gritó al dentista del inversor que había extraído miles de dientes.,DP1,había extraído miles de dientes,dentista,inversor,,,,,Roberto gritó
+SP,1407,255,85,Roberto gritó al sacerdote del dentista que había extraído miles de dientes.,DP2,había extraído miles de dientes,sacerdote,dentista,,,,,Roberto gritó
+SP,1408,256,86,El estudiante conoció al aprendiz del dramaturgo que se hizo un autor de éxito.,ambiguous,se hizo un autor de éxito,editor,dramaturgo,,,,,El estudiante conoció
+SP,1409,257,86,El estudiante conoció al conocido del analfabeto que se hizo un autor de éxito.,DP1,se hizo un autor de éxito,conocido,analfabeto,,,,,El estudiante conoció
+SP,1410,258,86,El estudiante conoció al bebé del dramaturgo que se hizo un autor de éxito.,DP2,era un autor de éxito,bebé,dramaturgo,,,,,El estudiante conoció
+SP,1411,259,87,El jefe visitó al amigo del guardián que disfrutaba dando órdenes a la gente.,ambiguous,disfrutaba dando órdenes a la gente,amigo,guardián,,,,,El jefe visitó
+SP,1412,260,87,El jefe visitó al guardián del prisionero que disfrutaba dando órdenes a la gente.,DP1,disfrutaba dando órdenes a la gente,guardián,prisionero,,,,,El jefe visitó
+SP,1413,261,87,El jefe visitó al prisionero del guardián que disfrutaba dando órdenes a la gente.,DP2,disfrutaba dando órdenes a la gente,prisionero,guardián,,,,,El jefe visitó
+SP,1414,262,88,El invitado impresionó al alumno del gerente que no sabía sus plegarias.,ambiguous,no sabía sus plegarias,alumno,gerente,,,,,El invitado impresionó
+SP,1415,263,88,El invitado impresionó al acólito del clérigo que no sabía sus plegarias.,DP1,no sabía sus plegarias,acólito,clérigo,,,,,El invitado impresionó
+SP,1416,264,88,El invitado impresionó al clérigo del acólito que no sabía sus plegarias.,DP2,no sabía sus plegarias,clérigo,acólito,,,,,El invitado impresionó
+SP,1417,265,89,El proveedor apreciaba a la prima del enano que era monolingüe.,ambiguous,era monolingüe,prima,enano,,,,,El proveedor apreciaba a
+SP,1418,266,89,El proveedor apreciaba a la prima del intérprete que era monolingüe.,DP1,era monolingüe,prima,intérprete,,,,,El proveedor apreciaba a
+SP,1419,267,89,El proveedor apreciaba al intérprete del juez que era monolingüe.,DP2,era monolingüe,intérprete,juez,,,,,El proveedor apreciaba
+SP,1420,268,90,El abuelo molestó al tutor del rey que solo podía hablar inglés.,ambiguous,solo podía hablar inglés,tutor,rey,,,,,El abuelo molestó
+SP,1421,269,90,El abuelo molestó al tutor del políglota que solo podía hablar inglés.,DP1,solo podía hablar inglés,tutor,políglota,,,,,El abuelo molestó
+SP,1422,270,90,El abuelo molestó al políglota del rey que solo podía hablar inglés.,DP2,solo podía hablar inglés,políglota,rey,,,,,El abuelo molestó
+SP,1423,271,91,El cliente extrañó al amigo del bombero que lideraba la fraternidad.,ambiguous,lideraba la fraternidad,amigo,bombero,,,,,El cliente extrañó
+SP,1424,272,91,El cliente extrañó al amigo de la mujer que lideraba la fraternidad.,DP1,lideraba la fraternidad,amigo,mujer,,,,,El cliente extrañó
+SP,1425,273,91,El cliente extrañó a la novia del bombero que lideraba la fraternidad.,DP2,lideraba la fraternidad,novia,bombero,,,,,El cliente extrañó a
+SP,1426,274,92,El director de coro sonrió a la hija de la vecina que trabajaba en partería.,ambiguous,trabajaba en partería,hija,vecina,,,,,El director de coro sonrió a
+SP,1427,275,92,El director de coro sonrió a la vecina del chico que trabajaba en partería.,DP1,trabajaba en partería,vecina,chico,,,,,El director de coro sonrió a
+SP,1428,276,92,El director de coro sonrió al chico de la vecina que trabajaba en partería.,DP2,trabajaba en partería,chico,vecina,,,,,El director de coro sonrió
+SP,1429,277,93,El arquitecto visitó al sobrino del ingeniero que trabaja como albañil.,ambiguous,trabaja como albañil,sobrino,ingeniero,,,,,El arquitecto visitó
+SP,1430,278,93,El arquitecto visitó al marido de la anciana que trabaja como albañil.,DP1,trabaja como albañil,marido,anciana,,,,,El arquitecto visitó
+SP,1431,279,93,El arquitecto visitó a la hija del hombre que trabaja como albañil.,DP2,trabaja como albañil,hija,hombre,,,,,El arquitecto visitó a
+SP,1432,280,94,El médico conoció al admirador del actor que gobierna sobre un país pequeño con puño de hierro.,ambiguous,gobierna sobre un país pequeño con puño de hierro,admirador,actor,,,,,El médico conoció
+SP,1433,281,94,El médico conoció al amante de la actriz que gobierna sobre un país pequeño con puño de hierro.,DP1,gobierna sobre un país pequeño con puño de hierro,amante,actriz,,,,,El médico conoció
+SP,1434,282,94,El médico conoció a la amante del noble que gobierna sobre un país pequeño con puño de hierro.,DP2,gobierna sobre un país pequeño con puño de hierro,amante,noble,,,,,El médico conoció a
+SP,1435,283,95,El señor García visitó al primo del mafioso que tenía enanismo.,ambiguous,tenía enanismo,primo,mafioso,,,,,El señor García visitó
+SP,1436,284,95,El señor García visitó al primo del gigante que tenía enanismo.,DP1,tenía enanismo,primo,gigante,,,,,El señor García visitó
+SP,1437,285,95,El señor García visitó al gigante del mafioso que tenía enanismo.,DP2,tenía enanismo,gigante,mafioso,,,,,El señor García visitó
+SP,1438,286,96,Los periodistas entrevistaron al tío del orador que tenía un doctorado.,ambiguous,tenía un doctorado,tío,orador,,,,,Los periodistas entrevistaron
+SP,1439,287,96,Los periodistas entrevistaron al tío del preescolar que tenía un doctorado.,DP1,tenía un doctorado,tío,preescolar,,,,,Los periodistas entrevistaron
+SP,1440,288,96,Los periodistas entrevistaron al preescolar del tío que tenía un doctorado.,DP2,tenía un doctorado,preescolar,tío,,,,,Los periodistas entrevistaron
+KO,1441,1,1,의사가 수염을 기르고 있던 신사의 아들을 만났다.,ambiguous,,,,,,,,
+KO,1442,2,1,의사가 수염을 기르고 있던 여성의 아들을 만났다.,DP1,,,,,,,,
+KO,1443,3,1,의사가 수염을 기르고 있던 신사의 딸을 만났다.,DP2,,,,,,,,
+KO,1444,4,2,영우가 유모차에 타고 있던 사촌의 아기를 찾아갔다.,ambiguous,,,,,,,,
+KO,1445,5,2,영우가 유모차에 타고 있던 엄마의 아기를 찾아갔다.,DP1,,,,,,,,
+KO,1446,6,2,영우가 유모차에 타고 있던 아기의 엄마를 찾아갔다.,DP2,,,,,,,,
+KO,1447,7,3,기자가 걸음마 단계에 있었던 쌍둥이의 형을 촬영했다.,ambiguous,,,,,,,,
+KO,1448,8,3,기자가 걸음마 단계에 있었던 산악인의 아기를 촬영했다.,DP1,,,,,,,,
+KO,1449,9,3,기자가 걸음마 단계에 있었던 아기의 아버지를 촬영했다.,DP2,,,,,,,,
+KO,1450,10,4,지혜가 차를 운전하고 있던 형의 친구를 미워했다.,ambiguous,,,,,,,,
+KO,1451,11,4,지혜가 차를 운전하고 있던 아기의 형을 미워했다.,DP1,,,,,,,,
+KO,1452,12,4,지혜가 차를 운전하고 있던 형의 아기를 미워했다.,DP2,,,,,,,,
+KO,1453,13,5,진아가 시험을 보고 있는 남자의 누나를 사랑했다.,ambiguous,,,,,,,,
+KO,1454,14,5,진아가 시험을 보고 있는 아기의 누나를 사랑했다.,DP1,,,,,,,,
+KO,1455,15,5,진아가 시험을 보고 있는 누나의 아기를 사랑했다.,DP2,,,,,,,,
+KO,1456,16,6,지혜가 42km 마라톤을 달리고 있던 운동선수의 삼촌을 좋아했다.,ambiguous,,,,,,,,
+KO,1457,17,6,지혜가 42km 마라톤을 달리고 있던 유치원생의 삼촌을 좋아했다.,DP1,,,,,,,,
+KO,1458,18,6,지혜가 42km 마라톤을 달리고 있던 삼촌의 유치원생을 좋아했다.,DP2,,,,,,,,
+KO,1459,19,7,모두가 기어 다니던 아기의 친구를 알고 있다.,ambiguous,,,,,,,,
+KO,1460,20,7,모두가 기어 다니던 보모의 아기를 알고 있다.,DP1,,,,,,,,
+KO,1461,21,7,모두가 기어 다니던 아기의 보모를 알고 있다.,DP2,,,,,,,,
+KO,1462,22,8,수지가 운전면허를 따고 있던 수험생의 할머니를 화나게 했다.,ambiguous,,,,,,,,
+KO,1463,23,8,수지가 운전면허를 따고 있던 아기의 할머니를 화나게 했다.,DP1,,,,,,,,
+KO,1464,24,8,수지가 운전면허를 따고 있던 할머니의 아기를 화나게 했다.,DP2,,,,,,,,
+KO,1465,25,9,미라가 동네 근처 유치원을 다니는 손자의 친구를 집으로 초대했다.,ambiguous,,,,,,,,
+KO,1466,26,9,미라가 동네 근처 유치원을 다니는 친구의 손자를 집으로 초대했다.,DP1,,,,,,,,
+KO,1467,27,9,미라가 동네 근처 유치원을 다니는 손자의 아버지를 집으로 초대했다.,DP2,,,,,,,,
+KO,1468,28,10,수호가 대학교에서 강의를 하는 이모의 친구를 알고 있다。,ambiguous,,,,,,,,
+KO,1469,29,10,수호가 대학교에서 강의를 하는 아이의 이모를 알고 있다。,DP1,,,,,,,,
+KO,1470,30,10,수호가 대학교에서 강의를 하는 이모의 아이를 알고 있다。,DP2,,,,,,,,
+KO,1471,31,11,현수가 음악 페스티벌을 감독하고 있던 아저씨의 친구를 알아봤다.,ambiguous,,,,,,,,
+KO,1472,32,11,현수가 음악 페스티벌을 감독하고 있던 아기의 아저씨를 알아봤다.,DP1,,,,,,,,
+KO,1473,33,11,현수가 음악 페스티벌을 감독하고 있던 아저씨의 아기를 알아봤다.,DP2,,,,,,,,
+KO,1474,34,12,명수가 말을 배우기 시작한 아이의 동생을 촬영했다。,ambiguous,,,,,,,,
+KO,1475,35,12,명수가 말을 배우기 시작한 어머니의 아이를 촬영했다。,DP1,,,,,,,,
+KO,1476,36,12,명수가 말을 배우기 시작한 아이의 어머니를 촬영했다。,DP2,,,,,,,,
+KO,1477,37,13,친구가 책상을 정리하고 있던 선생님의 할아버지에게 인사했다.,ambiguous,,,,,,,,
+KO,1478,38,13,친구가 책상을 정리하고 있던 신생아의 할아버지에게 인사했다.,DP1,,,,,,,,
+KO,1479,39,13,친구가 책상을 정리하고 있던 할아버지의 신생아에게 인사했다.,DP2,,,,,,,,
+KO,1480,40,14,웨이터가 은퇴 준비를 하던 할머니의 친구를 보았다.,ambiguous,,,,,,,,
+KO,1481,41,14,웨이터가 은퇴 준비를 하던 아이의 할머니를 보았다.,DP1,,,,,,,,
+KO,1482,42,14,웨이터가 은퇴 준비를 하던 할머니의 아이를 보았다.,DP2,,,,,,,,
+KO,1483,43,15,세입자가 젖을 먹고 있는 아이의 자매에게 인사했다.,ambiguous,,,,,,,,
+KO,1484,44,15,세입자가 젖을 먹고 있는 계부의 아이에게 인사했다.,DP1,,,,,,,,
+KO,1485,45,15,세입자가 젖을 먹고 있는 아이의 계부에게 인사했다.,DP2,,,,,,,,
+KO,1486,46,16,철수가 숙제로 고생하던 학생의 친구를 놀렸다。,ambiguous,,,,,,,,
+KO,1487,47,16,철수가 숙제로 고생하던 교수의 학생을 놀렸다。,DP1,,,,,,,,
+KO,1488,48,16,철수가 숙제로 고생하던 학생의 교수를 놀렸다。,DP2,,,,,,,,
+KO,1489,49,17,학장이 최종 경영 판단을 결정지은 사장의 동료를 맞이했다.,ambiguous,,,,,,,,
+KO,1490,50,17,학장이 최종 경영 판단을 결정지은 조수의 사장을 맞이했다.,DP1,,,,,,,,
+KO,1491,51,17,학장이 최종 경영 판단을 결정지은 사장의 조수를 맞이했다.,DP2,,,,,,,,
+KO,1492,52,18,교육감이 학폭 가해학생을 정학 처분내린 교장의 대리인을 만났다.,ambiguous,,,,,,,,
+KO,1493,53,18,교육감이 학폭 가해학생을 정학 처분내린 아이의 교장을 만났다.,DP1,,,,,,,,
+KO,1494,54,18,교육감이 학폭 가해학생을 정학 처분내린 교장의 아이를 만났다.,DP2,,,,,,,,
+KO,1495,55,19,주호가 모든 반을 낙제시킨 교사의 대리인을 만났다.,ambiguous,,,,,,,,
+KO,1496,56,19,주호가 모든 반을 낙제시킨 학생의 교사를 만났다.,DP1,,,,,,,,
+KO,1497,57,19,주호가 모든 반을 낙제시킨 교사의 학생을 만났다.,DP2,,,,,,,,
+KO,1498,58,20,면접관이 비행기를 조종하던 기장의 부조종사에게 질문했다.,ambiguous,,,,,,,,
+KO,1499,59,20,면접관이 비행기를 조종하던 승무원의 기장에게 질문했다.,DP1,,,,,,,,
+KO,1500,60,20,면접관이 비행기를 조종하던 기장의 승무원에게 질문했다.,DP2,,,,,,,,
+KO,1501,61,21,직원이 신규 프로젝트를 이끌던 팀장의 팀원에게 인사했습니다.,ambiguous,,,,,,,,
+KO,1502,62,21,직원이 신규 프로젝트를 이끌던 수습사원의 팀장에게 인사했습니다.,DP1,,,,,,,,
+KO,1503,63,21,직원이 신규 프로젝트를 이끌던 팀장의 수습사원에게 인사했습니다.,DP2,,,,,,,,
+KO,1504,64,22,현우가 초상화를 그리던 화가의 제자에게 소리쳤다.,ambiguous,,,,,,,,
+KO,1505,65,22,현우가 초상화를 그리던 모델의 화가에게 소리쳤다.,DP1,,,,,,,,
+KO,1506,66,22,현우가 초상화를 그리던 화가의 모델에게 소리쳤다.,DP2,,,,,,,,
+KO,1507,67,23,시아가 수업을 관리하고 있던 선생님의 동료를 만났다.,ambiguous,,,,,,,,
+KO,1508,68,23,시아가 수업을 관리하고 있던 학생의 선생님을 만났다.,DP1,,,,,,,,
+KO,1509,69,23,시아가 수업을 관리하고 있던 선생님의 학생을 만났다.,DP2,,,,,,,,
+KO,1510,70,24,상사가 사건을 담당했던 상담사의 변호사를 찾았다.,ambiguous,,,,,,,,
+KO,1511,71,24,상사가 사건을 담당했던 의뢰인의 변호사를 찾았다.,DP1,,,,,,,,
+KO,1512,72,24,상사가 사건을 담당했던 변호사의 의뢰인을 찾았다.,DP2,,,,,,,,
+KO,1513,73,25,주심이 공을 차고 있던 선수의 팀메이트에게 경고했다.,ambiguous,,,,,,,,
+KO,1514,74,25,주심이 골을 지키고 있던 코치의 선수에게 경고했다.,DP1,,,,,,,,
+KO,1515,75,25,주심이 골을 지키고 있던 선수의 코치에게 경고했다.,DP2,,,,,,,,
+KO,1516,76,26,사회자가 소프트웨어를 개발하고 있던 프로그래머의 동료를 모욕했다.,ambiguous,,,,,,,,
+KO,1517,77,26,사회자가 소프트웨어를 개발하고 있던 변호사의 프로그래머를 모욕했다.,DP1,,,,,,,,
+KO,1518,78,26,사회자가 소프트웨어를 개발하고 있던 프로그래머의 변호사를 모욕했다.,DP2,,,,,,,,
+KO,1519,79,27,손님이 매일 엔진을 고치는 정비사의 동료를 감탄하게 했다.,ambiguous,,,,,,,,
+KO,1520,80,27,손님이 매일 엔진을 고치는 의사의 정비사를 감탄하게 했다.,DP1,,,,,,,,
+KO,1521,81,27,손님이 매일 엔진을 고치는 정비사의 의사를 감탄하게 했다.,DP2,,,,,,,,
+KO,1522,82,28,이야기하는 사람이 왕자가 될 운명의 소년의 사촌에게 물었다.,ambiguous,,,,,,,,
+KO,1523,83,28,이야기하는 사람이 왕자가 될 운명의 어머니의 소년에게 물었다.,DP1,,,,,,,,
+KO,1524,84,28,이야기하는 사람이 왕자가 될 운명의 소년의 어머니에게 물었다.,DP2,,,,,,,,
+KO,1525,85,29,할아버지가 깊은 베이스 목소리를 가진 지휘자의 조카를 곤란하게 했다.,ambiguous,,,,,,,,
+KO,1526,86,29,할아버지가 깊은 베이스 목소리를 가진 지휘자의 성악가를 곤란하게 했다.,DP1,,,,,,,,
+KO,1527,87,29,할아버지가 깊은 베이스 목소리를 가진 성악가의 지휘자를 곤란하게 했다.,DP2,,,,,,,,
+KO,1528,88,30,의뢰인이 매일 수염을 면도하는 이발사의 아들을 놓쳤다.,ambiguous,,,,,,,,
+KO,1529,89,30,의뢰인이 매일 수염을 면도하는 여성의 아들을 놓쳤다.,DP1,,,,,,,,
+KO,1530,90,30,의뢰인이 매일 수염을 면도하는 노인의 손녀를 놓쳤다.,DP2,,,,,,,,
+KO,1531,91,31,사회자가 스님이 되기로한 신자의 지인에게 웃었다.,ambiguous,,,,,,,,
+KO,1532,92,31,사회자가 스님이 되기로한 여성의 지인에게 웃었다.,DP1,,,,,,,,
+KO,1533,93,31,사회자가 스님이 되기로한 지인의 누나에게 웃었다.,DP2,,,,,,,,
+KO,1534,94,32,이모님이 임신한 신부의 여동생을 안심시켰다.,ambiguous,,,,,,,,
+KO,1535,95,32,이모님이 임신한 신랑의 신부를 안심시켰다.,DP1,,,,,,,,
+KO,1536,96,32,이모님이 임신한 신부의 신랑을 안심시켰다.,DP2,,,,,,,,
+KO,1537,97,33,의사가 콧수염을 기른 사육사의 조카를 만났다.,ambiguous,,,,,,,,
+KO,1538,98,33,의사가 콧수염을 기른 신부의 조카를 만났다.,DP1,,,,,,,,
+KO,1539,99,33,의사가 콧수염을 기른 조카의 신부를 만났다.,DP2,,,,,,,,
+KO,1540,100,34,정우가 일주일 전에 출산한 여배우의 매니저를 만났다.,ambiguous,,,,,,,,
+KO,1541,101,34,정우가 일주일 전에 출산한 남동생의 여자친구를 만났다.,DP1,,,,,,,,
+KO,1542,102,34,정우가 일주일 전에 출산한 여자친구의 남동생을 만났다.,DP2,,,,,,,,
+KO,1543,103,35,기자들이 멋지게 수염을 기른 근육남의 아버지를 촬영했다.,ambiguous,,,,,,,,
+KO,1544,104,35,기자들이 멋지게 수염을 기른 아이의 아버지를 촬영했다.,DP1,,,,,,,,
+KO,1545,105,35,기자들이 멋지게 수염을 기른 아버지의 아이를 촬영했다.,DP2,,,,,,,,
+KO,1546,106,36,준수가 임신하고 있는 아내의 여동생을 싫어했다.,ambiguous,,,,,,,,
+KO,1547,107,36,준수가 임신하고 있는 왕의 첩을 싫어했다.,DP1,,,,,,,,
+KO,1548,108,36,준수가 임신하고 있는 댄서의 남편을 싫어했다.,DP2,,,,,,,,
+KO,1549,109,37,수호가 생리통으로 힘들어하던 누나의 친구를 도와주었다.,ambiguous,,,,,,,,
+KO,1550,110,37,수호가 생리통으로 힘들어하던 남자배우의 여동생을 도와주었다.,DP1,,,,,,,,
+KO,1551,111,37,수호가 생리통으로 힘들어하던 여동생의 남자친구를 도와주었다.,DP2,,,,,,,,
+KO,1552,112,38,준수가 아이를 낳은 미녀의 여동생을 알아봤다.,ambiguous,,,,,,,,
+KO,1553,113,38,준수가 아이를 낳은 남동생의 부인을 알아봤다.,DP1,,,,,,,,
+KO,1554,114,38,준수가 아이를 낳은 부인의 남동생을 알아봤다.,DP2,,,,,,,,
+KO,1555,115,39,모두가 임신한 귀부인의 여동생을 알고 있다.,ambiguous,,,,,,,,
+KO,1556,116,39,모두가 임신한 소년의 여동생을 알고 있다.,DP1,,,,,,,,
+KO,1557,117,39,모두가 임신한 귀부인의 오빠를 알고 있다.,DP2,,,,,,,,
+KO,1558,118,40,혜미가 여성을 임신시킨 남자의 형에게 화를 냈다.,ambiguous,,,,,,,,
+KO,1559,119,40,혜미가 여성을 임신시킨 부인의 남동생에게 화를 냈다.,DP1,,,,,,,,
+KO,1560,120,40,혜미가 여성을 임신시킨 남자의 조카딸에게 화를 냈다.,DP2,,,,,,,,
+KO,1561,121,41,정희가 수녀가 된 여성의 조카딸을 무시했다.,ambiguous,,,,,,,,
+KO,1562,122,41,정희가 수녀가 된 신사의 조카딸을 무시했다.,DP1,,,,,,,,
+KO,1563,123,41,정희가 수녀가 된 여성의 숙부를 무시했다.,DP2,,,,,,,,
+KO,1564,124,42,수호가 수년 전 장자를 기증한 해병의 아버지를 알고 있다.,ambiguous,,,,,,,,
+KO,1565,125,42,수호가 수년 전 장자를 기증한 보모의 아버지를 알고 있다.,DP1,,,,,,,,
+KO,1566,126,42,수호가 수년 전 장자를 기증한 해병의 그녀를 알고 있다.,DP2,,,,,,,,
+KO,1567,127,43,현수가 유모가 된 여인의 딸을 알아봤다.,ambiguous,,,,,,,,
+KO,1568,128,43,현수가 유모가 된 남자의 딸을 알아봤다.,DP1,,,,,,,,
+KO,1569,129,43,현수가 유모가 된 여자의 아버지를 알아봤다.,DP2,,,,,,,,
+KO,1570,130,44,명수가 전립선 검사를 받은 남자의 아버지를 촬영했다。,ambiguous,,,,,,,,
+KO,1571,131,44,명수가 전립선 검사를 받은 소녀의 아버지를 촬영했다。,DP1,,,,,,,,
+KO,1572,132,44,명수가 전립선 검사를 받은 남자의 딸을 촬영했다。,DP2,,,,,,,,
+KO,1573,133,45,친구가 갱년기였던 유모의 아줌마를 좋아했다。,ambiguous,,,,,,,,
+KO,1574,134,45,친구가 갱년기였던 소년의 유모를 좋아했다。,DP1,,,,,,,,
+KO,1575,135,45,친구가 갱년기였던 유모의 아들을 좋아했다。,DP2,,,,,,,,
+KO,1576,136,46,웨이터가 고환암이었던 남자의 형을 보았다.,ambiguous,,,,,,,,
+KO,1577,137,46,웨이터가 고환암이었던 여성의 오빠를 보았다.,DP1,,,,,,,,
+KO,1578,138,46,웨이터가 고환암이었던 남자의 누나를 보았다.,DP2,,,,,,,,
+KO,1579,139,47,세입자가 대리모가 된 공주의 친구에게 인사했다.,ambiguous,,,,,,,,
+KO,1580,140,47,세입자가 대리모가 된 공작의 아내에게 인사했다.,DP1,,,,,,,,
+KO,1581,141,47,세입자가 대리모가 된 공주의 남편에게 인사했다.,DP2,,,,,,,,
+KO,1582,142,48,경배원이 검사결과를 판독하고 있던 교수의 조교를 보았다.,ambiguous,,,,,,,,
+KO,1583,143,48,경비원이 검사결과를 판독하고 있던 의사의 환자를 보았다.,DP1,,,,,,,,
+KO,1584,144,48,경비원이 검사결과를 판독하고 있던 환자의 의사를 보았다.,DP2,,,,,,,,
+KO,1585,145,49,학장이 연금을 받고 있던 교사의 친구를 환영했다.,ambiguous,,,,,,,,
+KO,1586,146,49,학장이 연금을 받고 있던 아이의 증조부를 환영했다.,DP1,,,,,,,,
+KO,1587,147,49,학장이 연금을 받고 있던 증조부의 아이를 환영했다.,DP2,,,,,,,,
+KO,1588,148,50,후원자가 사춘기에 접어든 청소년의 소꿉친구를 만났다.,ambiguous,,,,,,,,
+KO,1589,149,50,후원자가 사춘기에 접어든 장로의 청소년을 만났다.,DP1,,,,,,,,
+KO,1590,150,50,후원자가 사춘기에 접어든 청소년의 할아버지를 만났다.,DP2,,,,,,,,
+KO,1591,151,51,주지스님이 이가 나기 시작한 아기의 동갑사촌을 만났다.,ambiguous,,,,,,,,
+KO,1592,152,51,주지스님이 이가 나기 시작한 운동선수의 아기를 만났다.,DP1,,,,,,,,
+KO,1593,153,51,주지스님이 이가 나기 시작한 아기의 아버지를 만났다.,DP2,,,,,,,,
+KO,1594,154,52,파출부가 막 입학한 아이의 친구에게 음료를 가져다줬다.,ambiguous,,,,,,,,
+KO,1595,155,52,파출부가 막 입학한 연금 수급자의 딸에게 음료를 가져다줬다.,DP1,,,,,,,,
+KO,1596,156,52,파출부가 막 입학한 아이의 과외 선생님에게 음료를 가져다줬다.,DP2,,,,,,,,
+KO,1597,157,53,직원이 결혼기념일을 축하하고 있던 원장님의 친구에게 인사했다.,ambiguous,,,,,,,,
+KO,1598,158,53,직원이 결혼기념일을 축하하고 있던 유치원생의 원장님에게 인사했다.,DP1,,,,,,,,
+KO,1599,159,53,직원이 결혼기념일을 축하하고 있던 원장님의 유치원생에게 인사했다.,DP2,,,,,,,,
+KO,1600,160,54,준수가 고아원에 살고 있던 중학생의 여동생을 인터뷰했다.,ambiguous,,,,,,,,
+KO,1601,161,54,준수가 고아원에 살고 있던 노숙자의 중학생딸을 인터뷰했다.,DP1,,,,,,,,
+KO,1602,162,54,준수가 고아원에 살고 있던 중학생의 사촌고모를 인터뷰했다.,DP2,,,,,,,,
+KO,1603,163,55,학생이 배변 훈련을 하고 있던 아기의 친구를 만났다.,ambiguous,,,,,,,,
+KO,1604,164,55,학생이 배변 훈련을 하고 있던 상사의 아기를 만났다.,DP1,,,,,,,,
+KO,1605,165,55,학생이 배변 훈련을 하고 있던 아기의 아버지를 만났다.,DP2,,,,,,,,
+KO,1606,166,56,병원장이 수술을 하고 있던 심장 전문의의 수련의를 방문했다。,ambiguous,,,,,,,,
+KO,1607,167,56,병원장이 수술을 하고 있던 아기의 의사를 방문했다。,DP1,,,,,,,,
+KO,1608,168,56,병원장이 수술을 하고 있던 의사의 아기를 방문했다。,DP2,,,,,,,,
+KO,1609,169,57,감사원이 마침내 아버지가 된 치과의사의 동료에게 경고했다.,ambiguous,,,,,,,,
+KO,1610,170,57,감사원이 마침내 아버지가 된 간호사의 동료에게 경고했다.,DP1,,,,,,,,
+KO,1611,171,57,감사원이 마침내 아버지가 된 동료의 간호사에게 경고했다.,DP2,,,,,,,,
+KO,1612,172,58,주인이 알바로 배달일을 하는 개그맨의 친구를 모욕했다。,ambiguous,,,,,,,,
+KO,1613,173,58,주인이 알바로 배달일을 하는 유치원생의 아버지를 모욕했다。,DP1,,,,,,,,
+KO,1614,174,58,주인이 알바로 배달일을 하는 개그맨의 아기를 모욕했다。,DP2,,,,,,,,
+KO,1615,175,59,손님이 왕이 된 남자의 친족을 감동시켰다.,ambiguous,,,,,,,,
+KO,1616,176,59,손님이 왕이 된 여자의 친족을 감동시켰다.,DP1,,,,,,,,
+KO,1617,177,59,손님이 왕이 된 친족의 아내를 감동시켰다.,DP2,,,,,,,,
+KO,1618,178,60,원장님이 미인대회에 참가한 여동생의 친구를 좋아했다.,ambiguous,,,,,,,,
+KO,1619,179,60,원장님이 미인대회에 참가한 남자친구의 여동생을 좋아했다.,DP1,,,,,,,,
+KO,1620,180,60,원장님이 미인대회에 참가한 여동생의 남자친구를 좋아했다.,DP2,,,,,,,,
+KO,1621,181,61,할아버지가 아내를 두지 않고 지낸 노인의 동급생을 신기해했다.,ambiguous,,,,,,,,
+KO,1622,182,61,할아버지가 아내를 두지 않고 지낸 여동생의 동급생을 신기해했다.,DP1,,,,,,,,
+KO,1623,183,61,할아버지가 아내를 두지 않고 지낸 동급생의 여동생을 신기해했다.,DP2,,,,,,,,
+KO,1624,184,62,경찰이 백마부대에서 장군이 된 양아버지의 이웃을 수사했다.,ambiguous,,,,,,,,
+KO,1625,185,62,경찰이 백마부대에서 장군이 된 소녀의 양아버지를 수사했다.,DP1,,,,,,,,
+KO,1626,186,62,경찰이 백마부대에서 장군이 된 양아버지의 딸을 수사했다.,DP2,,,,,,,,
+KO,1627,187,63,합창 지휘자가 아직 장가를 가지 않은 남자의 형에게 미소를 지었다.,ambiguous,,,,,,,,
+KO,1628,188,63,합창 지휘자가 아직 장가를 가지 않은 이모의 아들에게 미소를 지었다.,DP1,,,,,,,,
+KO,1629,189,63,합창 지휘자가 아직 장가를 가지 않은 남자의 이모에게 미소를 지었다.,DP2,,,,,,,,
+KO,1630,190,64,의뢰인이 과부가 된 관리자의 동료를 놓쳤다.,ambiguous,,,,,,,,
+KO,1631,191,64,의뢰인이 과부가 된 남자의 여동생을 놓쳤다.,DP1,,,,,,,,
+KO,1632,192,64,의뢰인이 과부가 된 여동생의 남자친구를 놓쳤다.,DP2,,,,,,,,
+KO,1633,193,65,지효가 고급 한복을 만들고 있던 미망인의 친구를 만났다.,ambiguous,,,,,,,,
+KO,1634,194,65,지효가 고급 한복을 만들고 있던 아이의 재봉사를 만났다.,DP1,,,,,,,,
+KO,1635,195,65,지효가 고급 한복을 만들고 있던 재봉사의 아이를 만났다.,DP2,,,,,,,,
+KO,1636,196,66,정희가 연극에서 공주역할을 맡은 배우의 딸을 방문했다.,ambiguous,,,,,,,,
+KO,1637,197,66,정희가 연극에서 공주역할을 맡은 남자선생님의 딸을 방문했다.,DP1,,,,,,,,
+KO,1638,198,66,정희가 연극에서 공주역할을 맡은 딸의 남자선생님을 방문했다.,DP2,,,,,,,,
+KO,1639,199,67,지혜가 잠시 거기서 일했던 투자자의 동료를 미워했다.,ambiguous,,,,,,,,
+KO,1640,200,67,지혜가 잠시 거기서 일했던 신입의 동료를 미워했다.,DP1,,,,,,,,
+KO,1641,201,67,지혜가 잠시 거기서 일했던 베테랑의 견습생을 미워했다.,DP2,,,,,,,,
+KO,1642,202,68,수호가 오랫동안 CEO였던 대부호의 이웃을 사랑했다.,ambiguous,,,,,,,,
+KO,1643,203,68,수호가 오랫동안 CEO였던 고등학생의 이웃을 사랑했다.,DP1,,,,,,,,
+KO,1644,204,68,수호가 오랫동안 CEO였던 이웃의 고등학생을 사랑했다.,DP2,,,,,,,,
+KO,1645,205,69,준수가 30년 경험이 있는 마라톤 선수의 코치를 사랑했다.,ambiguous,,,,,,,,
+KO,1646,206,69,준수가 30년 경험이 있는 초보자의 지도자를 사랑했다.,DP1,,,,,,,,
+KO,1647,207,69,준수가 30년 경험이 있는 지도자의 견습생을 사랑했다.,DP2,,,,,,,,
+KO,1648,208,70,모두가 주임 연구원인 과학자의 상사를 알고 있다.,ambiguous,,,,,,,,
+KO,1649,209,70,모두가 주임 연구원인 연수생의 상사를 알고 있다.,DP1,,,,,,,,
+KO,1650,210,70,모두가 주임 연구원인 상사의 연수생을 알고 있다.,DP2,,,,,,,,
+KO,1651,211,71,수지가 병원에 입원한 동료의 아내를 화나게 했다.,ambiguous,,,,,,,,
+KO,1652,212,71,수지가 병원에 입원한 의사의 환자를 화나게 했다.,DP1,,,,,,,,
+KO,1653,213,71,수지가 병원에 입원한 환자의 의사를 화나게 했다.,DP2,,,,,,,,
+KO,1654,214,72,은미가 퇴직하려고 했던 상사의 친구를 무시했다.,ambiguous,,,,,,,,
+KO,1655,215,72,은미가 퇴직하려고 했던 연수생의 상사를 무시했다.,DP1,,,,,,,,
+KO,1656,216,72,은미가 퇴직하려고 했던 상사의 연수생을 무시했다.,DP2,,,,,,,,
+KO,1657,217,73,수호가 창설 멤버였던 간부의 지인을 알고 있다。,ambiguous,,,,,,,,
+KO,1658,218,73,수호가 창설 멤버였던 신인의 삼촌을 알고 있다。,DP1,,,,,,,,
+KO,1659,219,73,수호가 창설 멤버였던 간부의 견습생을 알고 있다。,DP2,,,,,,,,
+KO,1660,220,74,현수가 오랫동안 학계에서 인정받은 교수의 동료를 알아봤다.,ambiguous,,,,,,,,
+KO,1661,221,74,현수가 오랫동안 학계에서 인정받은 환자의 교수를 알아봤다.,DP1,,,,,,,,
+KO,1662,222,74,현수가 오랫동안 학계에서 인정받은 교수의 환자를 알아봤다.,DP2,,,,,,,,
+KO,1663,223,75,명수가 활쏘기에 베테랑이었던 왕의 숙부를 촬영했다.,ambiguous,,,,,,,,
+KO,1664,224,75,명수가 활쏘기에 베테랑이었던 신입의 삼촌을 촬영했다.,DP1,,,,,,,,
+KO,1665,225,75,명수가 활쏘기에 베테랑이었던 삼촌의 연수생을 촬영했다.,DP2,,,,,,,,
+KO,1666,226,76,친구가 제일 오래된 직원이었던 직원의 상사를 사랑했다.,ambiguous,,,,,,,,
+KO,1667,227,76,친구가 제일 오래된 직원이었던 인턴의 상사를 사랑했다.,DP1,,,,,,,,
+KO,1668,228,76,친구가 제일 오래된 직원이었던 상사의 인턴을 사랑했다.,DP2,,,,,,,,
+KO,1669,229,77,웨이터가 제2차 세계 대전의 기억을 가진 노인의 친척을 보았다.,ambiguous,,,,,,,,
+KO,1670,230,77,웨이터가 제2차 세계 대전의 기억을 가진 소년의 증조할아버지를 보았다.,DP1,,,,,,,,
+KO,1671,231,77,웨이터가 제2차 세계 대전의 기억을 가진 병사의 증손자를 보았다.,DP2,,,,,,,,
+KO,1672,232,78,요리사가 20년간 모신 사령관의 대령에게 인사했다.,ambiguous,,,,,,,,
+KO,1673,233,78,요리사가 20년간 모신 신병의 사령관에게 인사했다.,DP1,,,,,,,,
+KO,1674,234,78,요리사가 20년간 모신 사령관의 신병에게 인사했다.,DP2,,,,,,,,
+KO,1675,235,79,학생이 열두 명의 손자를 가진 간호사의 집주인을 놀렸다.,ambiguous,,,,,,,,
+KO,1676,236,79,학생이 열두 명의 손자를 가진 임산부의 간호사를 놀렸다.,DP1,,,,,,,,
+KO,1677,237,79,학생이 열두 명의 손자를 가진 간호사의 남동생을 놀렸다.,DP2,,,,,,,,
+KO,1678,238,80,수상이 사하라 사막에서 신규사업을 시작한 사업가의 지인을 환영했다.,ambiguous,,,,,,,,
+KO,1679,239,80,수상이 사하라 사막에서 신규사업을 시작한 꼬마의 할아버지를 환영했다.,DP1,,,,,,,,
+KO,1680,240,80,수상이 사하라 사막에서 신규사업을 시작한 할아버지의 손자를 환영했다.,DP2,,,,,,,,
+KO,1681,241,81,지사가 서울시 시장 선거에 나간 친구의 형과 만났다.,ambiguous,,,,,,,,
+KO,1682,242,81,지사가 서울시 시장 선거에 나간 후원자의 후보자와 만났다.,DP1,,,,,,,,
+KO,1683,243,81,지사가 서울시 시장 선거에 나간 후보자의 후원자와 만났다.,DP2,,,,,,,,
+KO,1684,244,82,형우는 이혼 서류에 서명한 의뢰인의 변호사를 만났다.,ambiguous,,,,,,,,
+KO,1685,245,82,형우는 이혼 서류에 서명한 아기의 엄마를 만났다.,DP1,,,,,,,,
+KO,1686,246,82,형우는 이혼 서류에 서명한 의뢰인의 아기를 만났다.,DP2,,,,,,,,
+KO,1687,247,83,판사가 전과가 있는 배우의 매니저에게 질문했다.,ambiguous,,,,,,,,
+KO,1688,248,83,판사가 전과가 있는 아이의 뺑소니범에게 질문했다.,DP1,,,,,,,,
+KO,1689,249,83,판사가 전과가 있는 뺑소니범의 아이에게 질문했다.,DP2,,,,,,,,
+KO,1690,250,84,종업원이 강남에 땅을 가지고 있는 집주인의 사촌에게 인사했다.,ambiguous,,,,,,,,
+KO,1691,251,84,종업원이 강남에 땅을 가지고 있는 빈털털이의 숙부에게 인사했다.,DP1,,,,,,,,
+KO,1692,252,84,종업원이 강남에 땅을을 가지고 있는 건물주의 영세입자에게 인사했다.,DP2,,,,,,,,
+KO,1693,253,85,한나가 충치에 대한 자료를 꼼꼼히 조사한 치과의사의 치위생사에게 소리쳤다.,ambiguous,,,,,,,,
+KO,1694,254,85,한나가 충치에 대한 자료를 꼼꼼히 조사한 경비원의 치과 의사에게 소리쳤다.,DP1,,,,,,,,
+KO,1695,255,85,한나가 충치에 대한 자료를 꼼꼼히 조사한 치과 의사의 경비원에게 소리쳤다.,DP2,,,,,,,,
+KO,1696,256,86,학생이 다양한 사람들 이야기로 노벨 문학상을 받은 작가의 후배를 만났다.,ambiguous,,,,,,,,
+KO,1697,257,86,학생이 다양한 사람들 이야기로 노벨 문학상을 받은 노숙자의 작가를 만났다.,DP1,,,,,,,,
+KO,1698,258,86,학생이 다양한 사람들 이야기로 노벨 문학상을 받은 작가의 아기를 만났다.,DP2,,,,,,,,
+KO,1699,259,87,보스가 지시하는 것을 즐기는 감독관의 친구를 방문했다。,ambiguous,,,,,,,,
+KO,1700,260,87,보스가 지시하는 것을 즐기는 죄수의 감독관을 방문했다。,DP1,,,,,,,,
+KO,1701,261,87,보스가 지시하는 것을 즐기는 감독관의 죄수를 방문했다。,DP2,,,,,,,,
+KO,1702,262,88,아이가 기도문을 몰랐던 화가의 제자를 감탄하게 했다.,ambiguous,,,,,,,,
+KO,1703,263,88,아이가 기도문을 몰랐던 성직자의 친구를 감탄하게 했다.,DP1,,,,,,,,
+KO,1704,264,88,아이가 기도문을 몰랐던 친구의 성직자를 감탄하게 했다.,DP2,,,,,,,,
+KO,1705,265,89,지수가 한 언어밖에 못하는 아이의 사촌을 사랑했다.,ambiguous,,,,,,,,
+KO,1706,266,89,지수가 한 언어밖에 못하는 통역사의 사촌을 사랑했다.,DP1,,,,,,,,
+KO,1707,267,89,지수가 한 언어밖에 못하는 판사의 통역사를 사랑했다.,DP2,,,,,,,,
+KO,1708,268,90,할아버지가 한국어만 할 수 있는 아이의 가정교사를 곤란하게 했다.,ambiguous,,,,,,,,
+KO,1709,269,90,할아버지가 한국어만 할 수 있는 다중언어자의 가정교사를 곤란하게 했다.,DP1,,,,,,,,
+KO,1710,270,90,할아버지가 한국어만 할 수 있는 아이의 다중언어자를 곤란하게 했다.,DP2,,,,,,,,
+KO,1711,271,91,교수가 얼마전 유산한 친구의 조교에게 자료를 공유했다.,ambiguous,,,,,,,,
+KO,1712,272,91,교수가 얼마전 유산한 남학생의 부인에게 자료를 공유했다.,DP1,,,,,,,,
+KO,1713,273,91,교수가 얼마전 유산한 아내의 조교에게 자료를 공유했다.,DP2,,,,,,,,
+KO,1714,274,92,합창 지휘자가 조산사였던 이웃의 딸에게 미소 지었다.,ambiguous,,,,,,,,
+KO,1715,275,92,합창 지휘자가 조산사였던 소년의 이웃에게 미소 지었다.,DP1,,,,,,,,
+KO,1716,276,92,합창 지휘자가 조산사였던 이웃의 소년에게 미소 지었다.,DP2,,,,,,,,
+KO,1717,277,93,손님이 결혼식에서 신랑 들러리였던 식당 종업원의 조수를 보지 못했다.,ambiguous,,,,,,,,
+KO,1718,278,93,손님이 결혼식에서 신랑 들러리였던 여급의 조수를 보지 못했다.,DP1,,,,,,,,
+KO,1719,279,93,손님이 결혼식에서 신랑 들러리였던 조수의 여급을 보지 못했다.,DP2,,,,,,,,
+KO,1720,280,94,감독이 무대 위에서 공연 중에 미끄러진 가수의 백댄서에게 자초지종을 물었다.,ambiguous,,,,,,,,
+KO,1721,281,94,감독이 무대 위에서 공연 중에 미끄러진 매니저의 가수에게 자초지종을 물었다.,DP1,,,,,,,,
+KO,1722,282,94,감독이 무대 위에서 공연 중에 미끄러진 가수의 매니저에게 자초지종을 물었다..,DP2,,,,,,,,
+KO,1723,283,95,정희가 왜소증 진단을 받은 아이의 사촌을 찾아갔다.,ambiguous,,,,,,,,
+KO,1724,284,95,정희가 왜소증 진단을 받은 트레이너의 아이를 찾아갔다.,DP1,,,,,,,,
+KO,1725,285,95,정희가 왜소증 진단을 받은 아이의 트레이너를 찾아갔다.,DP2,,,,,,,,
+KO,1726,286,96,기자들이 박사 학위를 가지고 있는 강연자의 삼촌을 촬영했다.,ambiguous,,,,,,,,
+KO,1727,287,96,기자들이 박사 학위를 가지고 있는 아기의 삼촌을 촬영했다.,DP1,,,,,,,,
+KO,1728,288,96,기자들이 박사 학위를 가지고 있는 삼촌의 아기를 촬영했다.,DP2,,,,,,,,
