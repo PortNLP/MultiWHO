@@ -6,7 +6,7 @@ Humans use ambiguity resolution strategies every day without thinking about it. 
 
 1. The doctor met the son of the man who had a beard.
    
-      _Oh wait, who had a beard? the son or the man?_
+      _Your turn: who had a beard? the son or the man?_
    
 2. The doctor met the son of the woman who had a beard.
 
