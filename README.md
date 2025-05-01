@@ -2,8 +2,10 @@
 
 Paper link: https://aclanthology.org/2025.naacl-long.177/
 
-1. The doctor met the son of the man who had a beard.   Oh wait, who had a beard? the son or the man?
-2. The doctor met the son of the woman who had a beard.  How about now? the woman or the son?
+1. The doctor met the son of the man who had a beard.
+      _Oh wait, who had a beard? the son or the man?_
+3. The doctor met the son of the woman who had a beard.
+      _How about now? the woman or the son?_
 
 English normally prefers to "attach" the relative clause to the closest noun. We call this low attachment. Spanish and Korean, on the other hand,  prefer to attach to the farther noun -- they have "high attachment". Do LLMs reflect the same "attachment preference" as human lanugage-users? This is the "syntactic bias" we investigate in our paper.
 
