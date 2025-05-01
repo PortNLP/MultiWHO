@@ -16,7 +16,7 @@ English normally prefers to "attach" the relative clause to the closest noun. We
 
 In Sentence 2, we introduce another, semantic bias, based on world knowledge, since it is more common for men to grow beards than women. In this sentence it works **against** the syntactic bias. How do humans respond to these conflicting biases? How do LLMs resolve the relative clause attachment ambiguity? Read our paper to find out the answers!
 
-** MultiWho dataset **
+**MultiWho dataset**
 We construct and release a 6-language dataset **MultiWho** to investigate this phenomenon. It contains 3 conditions x 96 sentences x 6 languages = 1728 sentences. The langauges are English, Chinese, Spanish, Korean, Japanese and Russian. 
 
 Paper link: https://aclanthology.org/2025.naacl-long.177/
